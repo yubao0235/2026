@@ -9,7 +9,7 @@ import random  # 注入随机库
 COOKIE = os.getenv("FOFA_COOKIE", "") 
 
 # 定义你想要扫描的端口列表
-PORTS = ["9901", "7777", "9999", "808", "9902"] 
+PORTS = ["9901", "7777", "9999", "8082"] 
 
 # 默认的 JSON 路径（大部分酒店通用）
 TARGET_PATH = "/iptv/live/1000.json?key=txiptv"
