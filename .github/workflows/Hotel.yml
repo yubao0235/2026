@@ -34,7 +34,7 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: |
           echo "🚀 开始实时扫描..."
-         # python py/Hotel/scan_hotel.py
+          python py/Hotel/scan_hotel.py
 
       - name: Rebuild M3U Lists
         run: |
