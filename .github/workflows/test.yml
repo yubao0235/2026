@@ -44,11 +44,10 @@ jobs:
         run: |
           echo "⚡ 对最新 REBORN.m3u 执行测速..."
           if [ -f "py/Hotel/traffic_test.py" ]; then
-           # python py/Hotel/traffic_test.py
+            python py/Hotel/traffic_test.py
           else
             echo "⚠️ 找不到测速脚本"
           fi
-
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
