@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV1
+http://171.43.64.40:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV2
+http://171.43.64.40:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV3
+http://171.43.64.40:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV4
+http://171.43.64.40:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV5
+http://171.43.64.40:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV6
+http://171.43.64.40:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV7
+http://171.43.64.40:9901/tsfile/live/faacts/0007_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV8
+http://171.43.64.40:9901/tsfile/live/faacts/0008_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV9
+http://171.43.64.40:9901/tsfile/live/faacts/0009_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV10
+http://171.43.64.40:9901/tsfile/live/faacts/0010_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV11
+http://171.43.64.40:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV12
+http://171.43.64.40:9901/tsfile/live/faacts/0012_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV13
+http://171.43.64.40:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV14
+http://171.43.64.40:9901/tsfile/live/faacts/0014_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",CCTV15
+http://171.43.64.40:9901/tsfile/live/faacts/0015_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",上海卫视
+http://171.43.64.40:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",云南卫视
+http://171.43.64.40:9901/tsfile/live/faacts/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",安徽卫视
+http://171.43.64.40:9901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",山东卫视
+http://171.43.64.40:9901/tsfile/live/faacts/0131_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",广东卫视
+http://171.43.64.40:9901/tsfile/live/faacts/0125_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",江苏卫视
+http://171.43.64.40:9901/tsfile/live/faacts/0127_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",浙江卫视
+http://171.43.64.40:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",湖北卫视
+http://171.43.64.40:9901/tsfile/live/faacts/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",湖南卫视
+http://171.43.64.40:9901/tsfile/live/faacts/0128_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",甘肃卫视
+http://171.43.64.40:9901/tsfile/live/faacts/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",重庆卫视
+http://171.43.64.40:9901/tsfile/live/faacts/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",十堰新闻
+http://171.43.64.40:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",十堰经济旅游
+http://171.43.64.40:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",中央教育
+http://171.43.64.40:9901/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",湖北公共新闻
+http://171.43.64.40:9901/tsfile/live/faacts/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",湖北垄上
+http://171.43.64.40:9901/tsfile/live/faacts/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",湖北影视
+http://171.43.64.40:9901/tsfile/live/faacts/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",嘉佳卡通
+http://171.43.64.40:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",湖北电视台
+http://171.43.64.40:9901/tsfile/live/faacts/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="171.43.64.40:9901",湖北经视
+http://171.43.64.40:9901/tsfile/live/faacts/1017_1.m3u8?key=txiptv&playlive=1&authid=0
