@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" refresh="2026-04-02 20:04:19"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" refresh="2026-04-02 21:57:35"
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV1.png" group-title="北京联通1",CCTV1
 http://111.193.235.246:8888/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV1.png" group-title="北京联通1",CCTV1
@@ -2217,646 +2217,1066 @@ http://183.164.63.130:5000/udp/238.1.79.62:4632
 http://183.164.63.130:5000/udp/238.1.79.57:4592
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/风云音乐.png" group-title="安徽电信3",风云音乐
 http://183.164.63.130:5000/udp/238.1.79.64:4648
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV1.png" group-title="安徽电信4",CCTV1
+http://183.164.63.130:5000/udp/238.1.78.166:7200
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV2.png" group-title="安徽电信4",CCTV2
+http://183.164.63.130:5000/udp/238.1.78.235:7752
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV3.png" group-title="安徽电信4",CCTV3
+http://183.164.63.130:5000/udp/238.1.78.170:7232
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV4.png" group-title="安徽电信4",CCTV4
+http://183.164.63.130:5000/udp/238.1.78.236:7760
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV5.png" group-title="安徽电信4",CCTV5
+http://183.164.63.130:5000/udp/238.1.78.171:7240
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV5+.png" group-title="安徽电信4",CCTV5+
+http://183.164.63.130:5000/udp/238.1.78.237:7768
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV6.png" group-title="安徽电信4",CCTV6
+http://183.164.63.130:5000/udp/238.1.78.172:7248
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV7.png" group-title="安徽电信4",CCTV7
+http://183.164.63.130:5000/udp/238.1.78.239:7784
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV8.png" group-title="安徽电信4",CCTV8
+http://183.164.63.130:5000/udp/238.1.78.173:7256
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV9.png" group-title="安徽电信4",CCTV9
+http://183.164.63.130:5000/udp/238.1.78.240:7792
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV10.png" group-title="安徽电信4",CCTV10
+http://183.164.63.130:5000/udp/238.1.78.241:7800
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV11.png" group-title="安徽电信4",CCTV11
+http://183.164.63.130:5000/udp/238.1.78.206:7502
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV12.png" group-title="安徽电信4",CCTV12
+http://183.164.63.130:5000/udp/238.1.78.242:7808
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV13.png" group-title="安徽电信4",CCTV13
+http://183.164.63.130:5000/udp/238.1.79.35:4392
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV14.png" group-title="安徽电信4",CCTV14
+http://183.164.63.130:5000/udp/238.1.78.243:7816
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV15.png" group-title="安徽电信4",CCTV15
+http://183.164.63.130:5000/udp/238.1.78.222:7648
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV17.png" group-title="安徽电信4",CCTV17
+http://183.164.63.130:5000/udp/238.1.78.178:7296
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东方卫视4K.png" group-title="安徽电信4",东方卫视4K
+http://183.164.63.130:5000/udp/238.1.79.39:4428
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/北京卫视4K.png" group-title="安徽电信4",北京卫视4K
+http://183.164.63.130:5000/udp/238.1.79.24:4304
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/四川卫视4K.png" group-title="安徽电信4",四川卫视4K
+http://183.164.63.130:5000/udp/238.1.79.51:4520
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东卫视4K.png" group-title="安徽电信4",山东卫视4K
+http://183.164.63.130:5000/udp/238.1.79.29:4344
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/广东卫视4K.png" group-title="安徽电信4",广东卫视4K
+http://183.164.63.130:5000/udp/238.1.79.25:4312
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/江苏卫视4K.png" group-title="安徽电信4",江苏卫视4K
+http://183.164.63.130:5000/udp/238.1.78.37:4088
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/浙江卫视4K.png" group-title="安徽电信4",浙江卫视4K
+http://183.164.63.130:5000/udp/238.1.79.28:4336
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/深圳卫视4K.png" group-title="安徽电信4",深圳卫视4K
+http://183.164.63.130:5000/udp/238.1.79.26:4320
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湖南卫视4K.png" group-title="安徽电信4",湖南卫视4K
+http://183.164.63.130:5000/udp/238.1.79.38:4416
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东方卫视.png" group-title="安徽电信4",东方卫视
+http://183.164.63.130:5000/udp/238.1.78.163:7176
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/北京卫视.png" group-title="安徽电信4",北京卫视
+http://183.164.63.130:5000/udp/238.1.78.162:7168
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/江苏卫视.png" group-title="安徽电信4",江苏卫视
+http://183.164.63.130:5000/udp/238.1.78.165:7192
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/浙江卫视.png" group-title="安徽电信4",浙江卫视
+http://183.164.63.130:5000/udp/238.1.78.164:7184
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/深圳卫视.png" group-title="安徽电信4",深圳卫视
+http://183.164.63.130:5000/udp/238.1.78.156:7120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湖北卫视.png" group-title="安徽电信4",湖北卫视
+http://183.164.63.130:5000/udp/238.1.78.168:7216
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湖南卫视.png" group-title="安徽电信4",湖南卫视
+http://183.164.63.130:5000/udp/238.1.78.160:7152
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/三沙卫视.png" group-title="安徽电信4",三沙卫视
+http://183.164.63.130:5000/udp/238.1.78.27:6144
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东南卫视.png" group-title="安徽电信4",东南卫视
+http://183.164.63.130:5000/udp/238.1.78.22:6104
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/云南卫视.png" group-title="安徽电信4",云南卫视
+http://183.164.63.130:5000/udp/238.1.78.89:6584
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/兵团卫视.png" group-title="安徽电信4",兵团卫视
+http://183.164.63.130:5000/udp/238.1.79.3:4136
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/兵团卫视.png" group-title="安徽电信4",兵团卫视
+http://183.164.63.130:5000/udp/238.1.78.104:6704
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/内蒙古卫视.png" group-title="安徽电信4",内蒙古卫视
+http://183.164.63.130:5000/udp/238.1.78.103:6696
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/厦门卫视.png" group-title="安徽电信4",厦门卫视
+http://183.164.63.130:5000/udp/238.1.78.246:7840
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/吉林卫视.png" group-title="安徽电信4",吉林卫视
+http://183.164.63.130:5000/udp/238.1.79.48:4496
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/四川卫视.png" group-title="安徽电信4",四川卫视
+http://183.164.63.130:5000/udp/238.1.78.30:6168
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/天津卫视.png" group-title="安徽电信4",天津卫视
+http://183.164.63.130:5000/udp/238.1.78.20:6088
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宁夏卫视.png" group-title="安徽电信4",宁夏卫视
+http://183.164.63.130:5000/udp/238.1.79.4:4144
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宁夏卫视.png" group-title="安徽电信4",宁夏卫视
+http://183.164.63.130:5000/udp/238.1.78.109:6744
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽卫视.png" group-title="安徽电信4",安徽卫视
+http://183.164.63.130:5000/udp/238.1.79.27:4328
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽卫视.png" group-title="安徽电信4",安徽卫视
+http://183.164.63.130:5000/udp/238.1.78.150:7072
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东卫视.png" group-title="安徽电信4",山东卫视
+http://183.164.63.130:5000/udp/238.1.78.169:7224
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东教育卫视.png" group-title="安徽电信4",山东教育卫视
+http://183.164.63.130:5000/udp/238.1.78.254:7904
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山西卫视.png" group-title="安徽电信4",山西卫视
+http://183.164.63.130:5000/udp/238.1.78.95:6632
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/广东卫视.png" group-title="安徽电信4",广东卫视
+http://183.164.63.130:5000/udp/238.1.78.161:7160
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/广西卫视.png" group-title="安徽电信4",广西卫视
+http://183.164.63.130:5000/udp/238.1.78.70:6432
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/新疆卫视.png" group-title="安徽电信4",新疆卫视
+http://183.164.63.130:5000/udp/238.1.79.2:4128
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/新疆卫视.png" group-title="安徽电信4",新疆卫视
+http://183.164.63.130:5000/udp/238.1.78.110:6752
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/江西卫视.png" group-title="安徽电信4",江西卫视
+http://183.164.63.130:5000/udp/238.1.78.26:6136
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/河北卫视.png" group-title="安徽电信4",河北卫视
+http://183.164.63.130:5000/udp/238.1.78.245:7832
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/河南卫视.png" group-title="安徽电信4",河南卫视
+http://183.164.63.130:5000/udp/238.1.79.65:4632
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/海南卫视.png" group-title="安徽电信4",海南卫视
+http://183.164.63.130:5000/udp/238.1.79.49:4504
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/甘肃卫视.png" group-title="安徽电信4",甘肃卫视
+http://183.164.63.130:5000/udp/238.1.79.36:4400
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/西藏卫视.png" group-title="安徽电信4",西藏卫视
+http://183.164.63.130:5000/udp/238.1.79.1:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/西藏卫视.png" group-title="安徽电信4",西藏卫视
+http://183.164.63.130:5000/udp/238.1.78.101:6680
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/贵州卫视.png" group-title="安徽电信4",贵州卫视
+http://183.164.63.130:5000/udp/238.1.78.244:7824
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/辽宁卫视.png" group-title="安徽电信4",辽宁卫视
+http://183.164.63.130:5000/udp/238.1.78.21:6096
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/重庆卫视.png" group-title="安徽电信4",重庆卫视
+http://183.164.63.130:5000/udp/238.1.78.31:6176
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/陕西卫视.png" group-title="安徽电信4",陕西卫视
+http://183.164.63.130:5000/udp/238.1.78.88:6576
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青海卫视.png" group-title="安徽电信4",青海卫视
+http://183.164.63.130:5000/udp/238.1.78.102:6688
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/黑龙江卫视.png" group-title="安徽电信4",黑龙江卫视
+http://183.164.63.130:5000/udp/238.1.78.159:7144
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽人物频道.png" group-title="安徽电信4",安徽人物频道
+http://183.164.63.130:5000/udp/238.1.79.45:4472
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽公共.png" group-title="安徽电信4",安徽公共
+http://183.164.63.130:5000/udp/238.1.79.43:4456
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽农业科教.png" group-title="安徽电信4",安徽农业科教
+http://183.164.63.130:5000/udp/238.1.79.40:4432
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽国际频道.png" group-title="安徽电信4",安徽国际频道
+http://183.164.63.130:5000/udp/238.1.78.61:6360
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽导视频道.png" group-title="安徽电信4",安徽导视频道
+http://183.164.63.130:5000/udp/238.1.79.66:4664
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽影视.png" group-title="安徽电信4",安徽影视
+http://183.164.63.130:5000/udp/238.1.79.42:4448
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽经济生活.png" group-title="安徽电信4",安徽经济生活
+http://183.164.63.130:5000/udp/238.1.79.44:4464
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽综艺体育.png" group-title="安徽电信4",安徽综艺体育
+http://183.164.63.130:5000/udp/238.1.79.41:4440
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN.png" group-title="安徽电信4",CGTN
+http://183.164.63.130:5000/udp/238.1.78.50:6272
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CHC动作电影.png" group-title="安徽电信4",CHC动作电影
+http://183.164.63.130:5000/udp/238.1.79.18:4256
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CHC家庭影院.png" group-title="安徽电信4",CHC家庭影院
+http://183.164.63.130:5000/udp/238.1.79.22:4288
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CHC影迷电影.png" group-title="安徽电信4",CHC影迷电影
+http://183.164.63.130:5000/udp/238.1.79.17:4248
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/七彩戏剧.png" group-title="安徽电信4",七彩戏剧
+http://183.164.63.130:5000/udp/238.1.78.85:6552
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东方财经.png" group-title="安徽电信4",东方财经
+http://183.164.63.130:5000/udp/238.1.78.73:6456
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东至综合频道.png" group-title="安徽电信4",东至综合频道
+http://183.164.63.130:5000/udp/238.1.79.13:4216
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/中国教育1台.png" group-title="安徽电信4",中国教育1台
+http://183.164.63.130:5000/udp/238.1.78.158:7136
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/中国教育2台.png" group-title="安徽电信4",中国教育2台
+http://183.164.63.130:5000/udp/238.1.78.106:6720
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/中国教育4台.png" group-title="安徽电信4",中国教育4台
+http://183.164.63.130:5000/udp/238.1.78.107:6728
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/中甲联赛.png" group-title="安徽电信4",中甲联赛
+http://183.164.63.130:5000/udp/238.1.79.39:4424
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/临泉新闻频道.png" group-title="安徽电信4",临泉新闻频道
+http://183.164.63.130:5000/udp/238.1.78.29:6160
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/义安新闻综合.png" group-title="安徽电信4",义安新闻综合
+http://183.164.63.130:5000/udp/238.1.78.211:7560
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/乐游.png" group-title="安徽电信4",乐游
+http://183.164.63.130:5000/udp/238.1.78.151:7080
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/五河新闻综合.png" group-title="安徽电信4",五河新闻综合
+http://183.164.63.130:5000/udp/238.1.79.52:4528
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/亳州农村频道.png" group-title="安徽电信4",亳州农村频道
+http://183.164.63.130:5000/udp/238.1.78.129:6904
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/亳州综合频道.png" group-title="安徽电信4",亳州综合频道
+http://183.164.63.130:5000/udp/238.1.78.128:6896
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/休宁新闻综合.png" group-title="安徽电信4",休宁新闻综合
+http://183.164.63.130:5000/udp/238.1.79.20:4272
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/体育赛事.png" group-title="安徽电信4",体育赛事
+http://183.164.63.130:5000/udp/238.1.78.33:6192
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/全椒综合频道.png" group-title="安徽电信4",全椒综合频道
+http://183.164.63.130:5000/udp/238.1.78.203:7496
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/六安公共频道.png" group-title="安徽电信4",六安公共频道
+http://183.164.63.130:5000/udp/238.1.78.145:7032
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/六安综合频道.png" group-title="安徽电信4",六安综合频道
+http://183.164.63.130:5000/udp/238.1.78.144:7024
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/凤阳新闻频道.png" group-title="安徽电信4",凤阳新闻频道
+http://183.164.63.130:5000/udp/238.1.78.207:7528
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/利辛新闻综合.png" group-title="安徽电信4",利辛新闻综合
+http://183.164.63.130:5000/udp/238.1.78.196:7440
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/动漫秀场.png" group-title="安徽电信4",动漫秀场
+http://183.164.63.130:5000/udp/238.1.78.154:7104
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/南陵新闻综合.png" group-title="安徽电信4",南陵新闻综合
+http://183.164.63.130:5000/udp/238.1.78.189:7384
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/卡酷少儿.png" group-title="安徽电信4",卡酷少儿
+http://183.164.63.130:5000/udp/238.1.78.97:6648
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/合肥新闻频道.png" group-title="安徽电信4",合肥新闻频道
+http://183.164.63.130:5000/udp/238.1.78.111:6760
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/哈哈炫动.png" group-title="安徽电信4",哈哈炫动
+http://183.164.63.130:5000/udp/238.1.78.82:6528
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/固镇新闻综合.png" group-title="安徽电信4",固镇新闻综合
+http://183.164.63.130:5000/udp/238.1.79.47:4488
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/太平电视台.png" group-title="安徽电信4",太平电视台
+http://183.164.63.130:5000/udp/238.1.78.199:7464
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/太湖新闻综合.png" group-title="安徽电信4",太湖新闻综合
+http://183.164.63.130:5000/udp/238.1.79.12:4208
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宁国新闻综合.png" group-title="安徽电信4",宁国新闻综合
+http://183.164.63.130:5000/udp/238.1.78.216:7600
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安庆公共频道.png" group-title="安徽电信4",安庆公共频道
+http://183.164.63.130:5000/udp/238.1.78.118:6816
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安庆教育频道.png" group-title="安徽电信4",安庆教育频道
+http://183.164.63.130:5000/udp/238.1.78.120:6832
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安庆新闻综合.png" group-title="安徽电信4",安庆新闻综合
+http://183.164.63.130:5000/udp/238.1.78.117:6808
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/定远新闻综合.png" group-title="安徽电信4",定远新闻综合
+http://183.164.63.130:5000/udp/238.1.78.205:7512
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宣城公共频道.png" group-title="安徽电信4",宣城公共频道
+http://183.164.63.130:5000/udp/238.1.78.143:7016
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宣城综合频道.png" group-title="安徽电信4",宣城综合频道
+http://183.164.63.130:5000/udp/238.1.78.142:7008
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/家家购物.png" group-title="安徽电信4",家家购物
+http://183.164.63.130:5000/udp/238.1.78.32:6184
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宿州公共频道.png" group-title="安徽电信4",宿州公共频道
+http://183.164.63.130:5000/udp/238.1.78.122:6848
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宿州新闻综合.png" group-title="安徽电信4",宿州新闻综合
+http://183.164.63.130:5000/udp/238.1.78.121:6840
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宿州科教频道.png" group-title="安徽电信4",宿州科教频道
+http://183.164.63.130:5000/udp/238.1.78.123:6856
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/寿县新闻综合.png" group-title="安徽电信4",寿县新闻综合
+http://183.164.63.130:5000/udp/238.1.78.146:7040
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/广德新闻综合.png" group-title="安徽电信4",广德新闻综合
+http://183.164.63.130:5000/udp/238.1.78.212:7568
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/广德生活频道.png" group-title="安徽电信4",广德生活频道
+http://183.164.63.130:5000/udp/238.1.78.213:7576
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/徽州新闻频道.png" group-title="安徽电信4",徽州新闻频道
+http://183.164.63.130:5000/udp/238.1.78.138:6976
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/快乐垂钓.png" group-title="安徽电信4",快乐垂钓
+http://183.164.63.130:5000/udp/238.1.79.31:4360
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/文物宝库.png" group-title="安徽电信4",文物宝库
+http://183.164.63.130:5000/udp/238.1.79.16:4240
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/旌德新闻综合.png" group-title="安徽电信4",旌德新闻综合
+http://183.164.63.130:5000/udp/238.1.78.215:7592
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/无为新闻频道.png" group-title="安徽电信4",无为新闻频道
+http://183.164.63.130:5000/udp/238.1.78.188:7376
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/明光综合频道.png" group-title="安徽电信4",明光综合频道
+http://183.164.63.130:5000/udp/238.1.78.208:7536
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/来安新闻综合.png" group-title="安徽电信4",来安新闻综合
+http://183.164.63.130:5000/udp/238.1.78.204:7504
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/枞阳电视台.png" group-title="安徽电信4",枞阳电视台
+http://183.164.63.130:5000/udp/238.1.78.210:7552
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/桐城综合频道.png" group-title="安徽电信4",桐城综合频道
+http://183.164.63.130:5000/udp/238.1.78.28:6152
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/梨园.png" group-title="安徽电信4",梨园
+http://183.164.63.130:5000/udp/238.1.79.10:4192
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/歙县综合频道.png" group-title="安徽电信4",歙县综合频道
+http://183.164.63.130:5000/udp/238.1.78.200:7472
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/武术世界.png" group-title="安徽电信4",武术世界
+http://183.164.63.130:5000/udp/238.1.79.8:4176
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/池州公共频道.png" group-title="安徽电信4",池州公共频道
+http://183.164.63.130:5000/udp/238.1.78.148:7056
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/池州新闻综合.png" group-title="安徽电信4",池州新闻综合
+http://183.164.63.130:5000/udp/238.1.78.147:7048
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/法治天地.png" group-title="安徽电信4",法治天地
+http://183.164.63.130:5000/udp/238.1.78.84:6544
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/泗县新闻频道.png" group-title="安徽电信4",泗县新闻频道
+http://183.164.63.130:5000/udp/238.1.78.193:7416
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/海豚健康.png" group-title="安徽电信4",海豚健康
+http://183.164.63.130:5000/udp/238.1.79.33:4376
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/海豚少儿.png" group-title="安徽电信4",海豚少儿
+http://183.164.63.130:5000/udp/238.1.79.32:4368
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/海豚影视.png" group-title="安徽电信4",海豚影视
+http://183.164.63.130:5000/udp/238.1.79.34:4384
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/海豚生活.png" group-title="安徽电信4",海豚生活
+http://183.164.63.130:5000/udp/238.1.79.50:4512
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/涡阳新闻综合.png" group-title="安徽电信4",涡阳新闻综合
+http://183.164.63.130:5000/udp/238.1.78.197:7448
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淮北公共频道.png" group-title="安徽电信4",淮北公共频道
+http://183.164.63.130:5000/udp/238.1.78.136:6960
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淮北教育频道.png" group-title="安徽电信4",淮北教育频道
+http://183.164.63.130:5000/udp/238.1.78.137:6968
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淮北新闻综合.png" group-title="安徽电信4",淮北新闻综合
+http://183.164.63.130:5000/udp/238.1.78.135:6952
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淮南公共频道.png" group-title="安徽电信4",淮南公共频道
+http://183.164.63.130:5000/udp/238.1.78.114:6784
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淮南新闻综合.png" group-title="安徽电信4",淮南新闻综合
+http://183.164.63.130:5000/udp/238.1.78.113:6776
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湾沚新闻综合.png" group-title="安徽电信4",湾沚新闻综合
+http://183.164.63.130:5000/udp/238.1.78.187:7368
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/滁州公共频道.png" group-title="安徽电信4",滁州公共频道
+http://183.164.63.130:5000/udp/238.1.78.133:6936
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/滁州新闻综合.png" group-title="安徽电信4",滁州新闻综合
+http://183.164.63.130:5000/udp/238.1.78.132:6928
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/滁州科教频道.png" group-title="安徽电信4",滁州科教频道
+http://183.164.63.130:5000/udp/238.1.78.134:6944
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/潜山综合频道.png" group-title="安徽电信4",潜山综合频道
+http://183.164.63.130:5000/udp/238.1.78.192:7408
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/濉溪新闻频道.png" group-title="安徽电信4",濉溪新闻频道
+http://183.164.63.130:5000/udp/238.1.78.209:7544
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/生活时尚.png" group-title="安徽电信4",生活时尚
+http://183.164.63.130:5000/udp/238.1.78.155:7112
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/电视指南.png" group-title="安徽电信4",电视指南
+http://183.164.63.130:5000/udp/238.1.79.53:4560
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/界首综合频道.png" group-title="安徽电信4",界首综合频道
+http://183.164.63.130:5000/udp/238.1.78.195:7432
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/石台综合频道.png" group-title="安徽电信4",石台综合频道
+http://183.164.63.130:5000/udp/238.1.78.221:7640
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/祁门综合频道.png" group-title="安徽电信4",祁门综合频道
+http://183.164.63.130:5000/udp/238.1.79.14:4224
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/繁昌新闻综合.png" group-title="安徽电信4",繁昌新闻综合
+http://183.164.63.130:5000/udp/238.1.78.190:7392
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/纪实人文.png" group-title="安徽电信4",纪实人文
+http://183.164.63.130:5000/udp/238.1.78.153:7096
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/绩溪新闻频道.png" group-title="安徽电信4",绩溪新闻频道
+http://183.164.63.130:5000/udp/238.1.78.218:7616
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/肥东新闻综合.png" group-title="安徽电信4",肥东新闻综合
+http://183.164.63.130:5000/udp/238.1.78.183:7336
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/肥东经济生活.png" group-title="安徽电信4",肥东经济生活
+http://183.164.63.130:5000/udp/238.1.78.184:7344
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/肥西新闻综合.png" group-title="安徽电信4",肥西新闻综合
+http://183.164.63.130:5000/udp/238.1.78.185:7352
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/芜湖公共频道.png" group-title="安徽电信4",芜湖公共频道
+http://183.164.63.130:5000/udp/238.1.78.80:6512
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/芜湖教育频道.png" group-title="安徽电信4",芜湖教育频道
+http://183.164.63.130:5000/udp/238.1.78.167:7208
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/芜湖新闻综合.png" group-title="安徽电信4",芜湖新闻综合
+http://183.164.63.130:5000/udp/238.1.78.112:6768
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/芜湖生活频道.png" group-title="安徽电信4",芜湖生活频道
+http://183.164.63.130:5000/udp/238.1.78.152:7088
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/茶频道.png" group-title="安徽电信4",茶频道
+http://183.164.63.130:5000/udp/238.1.79.30:4352
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/萧县新闻综合.png" group-title="安徽电信4",萧县新闻综合
+http://183.164.63.130:5000/udp/238.1.79.46:4480
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/蒙城新闻频道.png" group-title="安徽电信4",蒙城新闻频道
+http://183.164.63.130:5000/udp/238.1.79.19:4264
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/蚌埠公共频道.png" group-title="安徽电信4",蚌埠公共频道
+http://183.164.63.130:5000/udp/238.1.78.181:7320
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/蚌埠新闻综合.png" group-title="安徽电信4",蚌埠新闻综合
+http://183.164.63.130:5000/udp/238.1.78.180:7312
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/财富天下.png" group-title="安徽电信4",财富天下
+http://183.164.63.130:5000/udp/238.1.78.25:6128
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/郎溪新闻频道.png" group-title="安徽电信4",郎溪新闻频道
+http://183.164.63.130:5000/udp/238.1.78.214:7584
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/金寨综合频道.png" group-title="安徽电信4",金寨综合频道
+http://183.164.63.130:5000/udp/238.1.79.21:4280
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/金色学堂.png" group-title="安徽电信4",金色学堂
+http://183.164.63.130:5000/udp/238.1.78.76:6480
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/金鹰卡通.png" group-title="安徽电信4",金鹰卡通
+http://183.164.63.130:5000/udp/238.1.78.100:6672
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/金鹰纪实.png" group-title="安徽电信4",金鹰纪实
+http://183.164.63.130:5000/udp/238.1.79.9:4184
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/铜陵公共频道.png" group-title="安徽电信4",铜陵公共频道
+http://183.164.63.130:5000/udp/238.1.78.140:6992
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/铜陵新闻综合.png" group-title="安徽电信4",铜陵新闻综合
+http://183.164.63.130:5000/udp/238.1.78.139:6984
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/铜陵科教频道.png" group-title="安徽电信4",铜陵科教频道
+http://183.164.63.130:5000/udp/238.1.78.141:7000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/长丰电视台.png" group-title="安徽电信4",长丰电视台
+http://183.164.63.130:5000/udp/238.1.78.182:7328
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/阜南新闻综合.png" group-title="安徽电信4",阜南新闻综合
+http://183.164.63.130:5000/udp/238.1.79.11:4200
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/阜阳公共频道.png" group-title="安徽电信4",阜阳公共频道
+http://183.164.63.130:5000/udp/238.1.78.125:6872
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/阜阳教育频道.png" group-title="安徽电信4",阜阳教育频道
+http://183.164.63.130:5000/udp/238.1.78.126:6880
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/阜阳新闻综合.png" group-title="安徽电信4",阜阳新闻综合
+http://183.164.63.130:5000/udp/238.1.78.124:6864
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/阜阳都市频道.png" group-title="安徽电信4",阜阳都市频道
+http://183.164.63.130:5000/udp/238.1.78.127:6888
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/陶瓷.png" group-title="安徽电信4",陶瓷
+http://183.164.63.130:5000/udp/238.1.78.157:7128
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/霍山综合频道.png" group-title="安徽电信4",霍山综合频道
+http://183.164.63.130:5000/udp/238.1.78.220:7632
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/霍邱新闻综合.png" group-title="安徽电信4",霍邱新闻综合
+http://183.164.63.130:5000/udp/238.1.78.119:6824
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/颍上新闻综合.png" group-title="安徽电信4",颍上新闻综合
+http://183.164.63.130:5000/udp/238.1.78.194:7424
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/马鞍山公共频道.png" group-title="安徽电信4",马鞍山公共频道
+http://183.164.63.130:5000/udp/238.1.78.77:6488
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/马鞍山新闻综合.png" group-title="安徽电信4",马鞍山新闻综合
+http://183.164.63.130:5000/udp/238.1.79.15:4232
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/高尔夫网球.png" group-title="安徽电信4",高尔夫网球
+http://183.164.63.130:5000/udp/238.1.79.58:4600
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/黄山公共频道.png" group-title="安徽电信4",黄山公共频道
+http://183.164.63.130:5000/udp/238.1.78.131:6920
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/黄山新闻综合.png" group-title="安徽电信4",黄山新闻综合
+http://183.164.63.130:5000/udp/238.1.78.130:6912
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/黟县新闻综合.png" group-title="安徽电信4",黟县新闻综合
+http://183.164.63.130:5000/udp/238.1.78.149:7064
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/世界地理.png" group-title="安徽电信4",世界地理
+http://183.164.63.130:5000/udp/238.1.79.60:4616
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/兵器科技.png" group-title="安徽电信4",兵器科技
+http://183.164.63.130:5000/udp/238.1.79.56:4584
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/央视台球.png" group-title="安徽电信4",央视台球
+http://183.164.63.130:5000/udp/238.1.79.59:4608
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/央视文化精品.png" group-title="安徽电信4",央视文化精品
+http://183.164.63.130:5000/udp/238.1.79.54:4568
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/女性时尚.png" group-title="安徽电信4",女性时尚
+http://183.164.63.130:5000/udp/238.1.79.55:4576
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/怀旧剧场.png" group-title="安徽电信4",怀旧剧场
+http://183.164.63.130:5000/udp/238.1.79.61:4624
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/游戏风云.png" group-title="安徽电信4",游戏风云
+http://183.164.63.130:5000/udp/238.1.78.81:6520
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/第一剧场.png" group-title="安徽电信4",第一剧场
+http://183.164.63.130:5000/udp/238.1.79.63:4640
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/都市剧场.png" group-title="安徽电信4",都市剧场
+http://183.164.63.130:5000/udp/238.1.78.74:6464
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/风云剧场.png" group-title="安徽电信4",风云剧场
+http://183.164.63.130:5000/udp/238.1.79.62:4632
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/风云足球.png" group-title="安徽电信4",风云足球
+http://183.164.63.130:5000/udp/238.1.79.57:4592
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/风云音乐.png" group-title="安徽电信4",风云音乐
+http://183.164.63.130:5000/udp/238.1.79.64:4648
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV1.png" group-title="山东电信1",CCTV1
-http://144.0.57.58:7002/udp/239.21.1.120:5002
+http://144.0.57.58:7004/udp/239.21.1.120:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV2.png" group-title="山东电信1",CCTV2
-http://144.0.57.58:7002/udp/239.21.1.151:5002
+http://144.0.57.58:7004/udp/239.21.1.151:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV3.png" group-title="山东电信1",CCTV3
-http://144.0.57.58:7002/udp/239.21.2.45:5002
+http://144.0.57.58:7004/udp/239.21.2.45:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV4.png" group-title="山东电信1",CCTV4
-http://144.0.57.58:7002/udp/239.21.1.154:5002
+http://144.0.57.58:7004/udp/239.21.1.154:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV4.png" group-title="山东电信1",CCTV4
-http://144.0.57.58:7002/udp/239.21.2.29:5002
+http://144.0.57.58:7004/udp/239.21.2.29:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV4.png" group-title="山东电信1",CCTV4
-http://144.0.57.58:7002/udp/239.21.2.28:5002
+http://144.0.57.58:7004/udp/239.21.2.28:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV5.png" group-title="山东电信1",CCTV5
-http://144.0.57.58:7002/udp/239.21.2.46:5002
+http://144.0.57.58:7004/udp/239.21.2.46:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV5+.png" group-title="山东电信1",CCTV5+
-http://144.0.57.58:7002/udp/239.21.1.142:5002
+http://144.0.57.58:7004/udp/239.21.1.142:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV6.png" group-title="山东电信1",CCTV6
-http://144.0.57.58:7002/udp/239.21.2.47:5002
+http://144.0.57.58:7004/udp/239.21.2.47:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV7.png" group-title="山东电信1",CCTV7
-http://144.0.57.58:7002/udp/239.21.1.152:5002
+http://144.0.57.58:7004/udp/239.21.1.152:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV8.png" group-title="山东电信1",CCTV8
-http://144.0.57.58:7002/udp/239.21.2.48:5002
+http://144.0.57.58:7004/udp/239.21.2.48:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV9.png" group-title="山东电信1",CCTV9
-http://144.0.57.58:7002/udp/239.21.1.153:5002
+http://144.0.57.58:7004/udp/239.21.1.153:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV10.png" group-title="山东电信1",CCTV10
-http://144.0.57.58:7002/udp/239.21.1.155:5002
+http://144.0.57.58:7004/udp/239.21.1.155:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV11.png" group-title="山东电信1",CCTV11
-http://144.0.57.58:7002/udp/239.21.2.2:5002
+http://144.0.57.58:7004/udp/239.21.2.2:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV12.png" group-title="山东电信1",CCTV12
-http://144.0.57.58:7002/udp/239.21.1.156:5002
+http://144.0.57.58:7004/udp/239.21.1.156:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV13.png" group-title="山东电信1",CCTV13
-http://144.0.57.58:7002/udp/239.21.2.3:5002
+http://144.0.57.58:7004/udp/239.21.2.3:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV14.png" group-title="山东电信1",CCTV14
-http://144.0.57.58:7002/udp/239.21.1.157:5002
+http://144.0.57.58:7004/udp/239.21.1.157:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV15.png" group-title="山东电信1",CCTV15
-http://144.0.57.58:7002/udp/239.21.2.4:5002
+http://144.0.57.58:7004/udp/239.21.2.4:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV17.png" group-title="山东电信1",CCTV17
-http://144.0.57.58:7002/udp/239.21.1.186:5002
+http://144.0.57.58:7004/udp/239.21.1.186:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东方卫视.png" group-title="山东电信1",东方卫视
-http://144.0.57.58:7002/udp/239.21.1.111:5002
+http://144.0.57.58:7004/udp/239.21.1.111:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/北京卫视.png" group-title="山东电信1",北京卫视
-http://144.0.57.58:7002/udp/239.21.1.88:5002
+http://144.0.57.58:7004/udp/239.21.1.88:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/江苏卫视.png" group-title="山东电信1",江苏卫视
-http://144.0.57.58:7002/udp/239.21.1.89:5002
+http://144.0.57.58:7004/udp/239.21.1.89:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/浙江卫视.png" group-title="山东电信1",浙江卫视
-http://144.0.57.58:7002/udp/239.21.1.90:5002
+http://144.0.57.58:7004/udp/239.21.1.90:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/深圳卫视.png" group-title="山东电信1",深圳卫视
-http://144.0.57.58:7002/udp/239.21.1.93:5002
+http://144.0.57.58:7004/udp/239.21.1.93:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湖北卫视.png" group-title="山东电信1",湖北卫视
-http://144.0.57.58:7002/udp/239.21.1.163:5002
+http://144.0.57.58:7004/udp/239.21.1.163:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湖南卫视.png" group-title="山东电信1",湖南卫视
-http://144.0.57.58:7002/udp/239.21.1.158:5002
+http://144.0.57.58:7004/udp/239.21.1.158:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东南卫视.png" group-title="山东电信1",东南卫视
-http://144.0.57.58:7002/udp/239.21.1.113:5002
+http://144.0.57.58:7004/udp/239.21.1.113:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/吉林卫视.png" group-title="山东电信1",吉林卫视
-http://144.0.57.58:7002/udp/239.21.2.49:5002
+http://144.0.57.58:7004/udp/239.21.2.49:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/四川卫视.png" group-title="山东电信1",四川卫视
-http://144.0.57.58:7002/udp/239.21.2.15:5002
+http://144.0.57.58:7004/udp/239.21.2.15:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/天津卫视.png" group-title="山东电信1",天津卫视
-http://144.0.57.58:7002/udp/239.21.1.165:5002
+http://144.0.57.58:7004/udp/239.21.1.165:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽卫视.png" group-title="山东电信1",安徽卫视
-http://144.0.57.58:7002/udp/239.21.1.159:5002
+http://144.0.57.58:7004/udp/239.21.1.159:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东卫视.png" group-title="山东电信1",山东卫视
-http://144.0.57.58:7002/udp/239.21.1.87:5002
+http://144.0.57.58:7004/udp/239.21.1.87:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/广东卫视.png" group-title="山东电信1",广东卫视
-http://144.0.57.58:7002/udp/239.21.1.92:5002
+http://144.0.57.58:7004/udp/239.21.1.92:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/江西卫视.png" group-title="山东电信1",江西卫视
-http://144.0.57.58:7002/udp/239.21.1.167:5002
+http://144.0.57.58:7004/udp/239.21.1.167:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/河北卫视.png" group-title="山东电信1",河北卫视
-http://144.0.57.58:7002/udp/239.21.1.168:5002
+http://144.0.57.58:7004/udp/239.21.1.168:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/河南卫视.png" group-title="山东电信1",河南卫视
-http://144.0.57.58:7002/udp/239.21.2.37:5002
+http://144.0.57.58:7004/udp/239.21.2.37:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/海南卫视.png" group-title="山东电信1",海南卫视
-http://144.0.57.58:7002/udp/239.21.2.14:5002
+http://144.0.57.58:7004/udp/239.21.2.14:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/甘肃卫视.png" group-title="山东电信1",甘肃卫视
-http://144.0.57.58:7002/udp/239.21.2.22:5002
+http://144.0.57.58:7004/udp/239.21.2.22:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/贵州卫视.png" group-title="山东电信1",贵州卫视
-http://144.0.57.58:7002/udp/239.21.1.166:5002
+http://144.0.57.58:7004/udp/239.21.1.166:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/辽宁卫视.png" group-title="山东电信1",辽宁卫视
-http://144.0.57.58:7002/udp/239.21.1.164:5002
+http://144.0.57.58:7004/udp/239.21.1.164:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/重庆卫视.png" group-title="山东电信1",重庆卫视
-http://144.0.57.58:7002/udp/239.21.1.233:5002
+http://144.0.57.58:7004/udp/239.21.1.233:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青海卫视.png" group-title="山东电信1",青海卫视
-http://144.0.57.58:7002/udp/239.21.2.51:5002
+http://144.0.57.58:7004/udp/239.21.2.51:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/黑龙江卫视.png" group-title="山东电信1",黑龙江卫视
-http://144.0.57.58:7002/udp/239.21.1.28:5002
+http://144.0.57.58:7004/udp/239.21.1.28:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/上海纪实人文.png" group-title="山东电信1",上海纪实人文
-http://144.0.57.58:7002/udp/239.21.1.171:5002
+http://144.0.57.58:7004/udp/239.21.1.171:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东体育频道.png" group-title="山东电信1",山东体育频道
-http://144.0.57.58:7002/udp/239.21.1.141:5002
+http://144.0.57.58:7004/udp/239.21.1.141:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东农科频道.png" group-title="山东电信1",山东农科频道
-http://144.0.57.58:7002/udp/239.21.1.183:5002
+http://144.0.57.58:7004/udp/239.21.1.183:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东少儿频道.png" group-title="山东电信1",山东少儿频道
-http://144.0.57.58:7002/udp/239.21.1.208:5002
+http://144.0.57.58:7004/udp/239.21.1.208:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东教育频道.png" group-title="山东电信1",山东教育频道
-http://144.0.57.58:7002/udp/239.21.1.169:5002
+http://144.0.57.58:7004/udp/239.21.1.169:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东文旅频道.png" group-title="山东电信1",山东文旅频道
-http://144.0.57.58:7002/udp/239.21.1.176:5002
+http://144.0.57.58:7004/udp/239.21.1.176:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东新闻频道.png" group-title="山东电信1",山东新闻频道
-http://144.0.57.58:7002/udp/239.21.1.140:5002
+http://144.0.57.58:7004/udp/239.21.1.140:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东生活频道.png" group-title="山东电信1",山东生活频道
-http://144.0.57.58:7002/udp/239.21.1.175:5002
+http://144.0.57.58:7004/udp/239.21.1.175:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东综艺频道.png" group-title="山东电信1",山东综艺频道
-http://144.0.57.58:7002/udp/239.21.1.177:5002
+http://144.0.57.58:7004/udp/239.21.1.177:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东齐鲁频道.png" group-title="山东电信1",山东齐鲁频道
-http://144.0.57.58:7002/udp/239.21.1.134:5002
+http://144.0.57.58:7004/udp/239.21.1.134:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湖南金鹰纪实.png" group-title="山东电信1",湖南金鹰纪实
-http://144.0.57.58:7002/udp/239.21.1.170:5002
+http://144.0.57.58:7004/udp/239.21.1.170:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/BRTV纪实科教.png" group-title="山东电信1",BRTV纪实科教
-http://144.0.57.58:7002/udp/239.21.1.172:5002
+http://144.0.57.58:7004/udp/239.21.1.172:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CETV1.png" group-title="山东电信1",CETV1
-http://144.0.57.58:7002/udp/239.21.2.7:5002
+http://144.0.57.58:7004/udp/239.21.2.7:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN.png" group-title="山东电信1",CGTN
-http://144.0.57.58:7002/udp/239.21.2.30:5002
+http://144.0.57.58:7004/udp/239.21.2.30:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN俄语.png" group-title="山东电信1",CGTN俄语
-http://144.0.57.58:7002/udp/239.21.2.35:5002
+http://144.0.57.58:7004/udp/239.21.2.35:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN法语.png" group-title="山东电信1",CGTN法语
-http://144.0.57.58:7002/udp/239.21.2.33:5002
+http://144.0.57.58:7004/udp/239.21.2.33:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN纪录.png" group-title="山东电信1",CGTN纪录
-http://144.0.57.58:7002/udp/239.21.2.31:5002
+http://144.0.57.58:7004/udp/239.21.2.31:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN西班牙语.png" group-title="山东电信1",CGTN西班牙语
-http://144.0.57.58:7002/udp/239.21.2.32:5002
+http://144.0.57.58:7004/udp/239.21.2.32:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN阿拉伯语.png" group-title="山东电信1",CGTN阿拉伯语
-http://144.0.57.58:7002/udp/239.21.2.34:5002
+http://144.0.57.58:7004/udp/239.21.2.34:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东平综合频道.png" group-title="山东电信1",东平综合频道
-http://144.0.57.58:7002/udp/239.21.1.216:5002
+http://144.0.57.58:7004/udp/239.21.1.216:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东明1.png" group-title="山东电信1",东明1
-http://144.0.57.58:7002/udp/239.21.1.246:5002
+http://144.0.57.58:7004/udp/239.21.1.246:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东营公共.png" group-title="山东电信1",东营公共
-http://144.0.57.58:7002/udp/239.21.1.82:5002
+http://144.0.57.58:7004/udp/239.21.1.82:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东营新闻.png" group-title="山东电信1",东营新闻
-http://144.0.57.58:7002/udp/239.21.1.81:5002
+http://144.0.57.58:7004/udp/239.21.1.81:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/中国交通.png" group-title="山东电信1",中国交通
-http://144.0.57.58:7002/udp/239.21.1.115:5002
+http://144.0.57.58:7004/udp/239.21.1.115:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/乳山综合频道.png" group-title="山东电信1",乳山综合频道
-http://144.0.57.58:7002/udp/239.21.1.220:5002
+http://144.0.57.58:7004/udp/239.21.1.220:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/兖州新闻频道.png" group-title="山东电信1",兖州新闻频道
-http://144.0.57.58:7002/udp/239.21.1.224:5002
+http://144.0.57.58:7004/udp/239.21.1.224:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/兰陵综合频道.png" group-title="山东电信1",兰陵综合频道
-http://144.0.57.58:7002/udp/239.21.1.237:5002
+http://144.0.57.58:7004/udp/239.21.1.237:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/冠县综合.png" group-title="山东电信1",冠县综合
-http://144.0.57.58:7002/udp/239.21.1.250:5002
+http://144.0.57.58:7004/udp/239.21.1.250:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/单县综合频道.png" group-title="山东电信1",单县综合频道
-http://144.0.57.58:7002/udp/239.21.2.21:5002
+http://144.0.57.58:7004/udp/239.21.2.21:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/夏津公共频道.png" group-title="山东电信1",夏津公共频道
-http://144.0.57.58:7002/udp/239.21.1.102:5002
+http://144.0.57.58:7004/udp/239.21.1.102:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/夏津综合频道.png" group-title="山东电信1",夏津综合频道
-http://144.0.57.58:7002/udp/239.21.1.106:5002
+http://144.0.57.58:7004/udp/239.21.1.106:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宁津综合频道.png" group-title="山东电信1",宁津综合频道
-http://144.0.57.58:7002/udp/239.21.2.50:5002
+http://144.0.57.58:7004/udp/239.21.2.50:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宁阳2.png" group-title="山东电信1",宁阳2
-http://144.0.57.58:7002/udp/239.21.1.144:5002
+http://144.0.57.58:7004/udp/239.21.1.144:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宁阳综合频道.png" group-title="山东电信1",宁阳综合频道
-http://144.0.57.58:7002/udp/239.21.1.143:5002
+http://144.0.57.58:7004/udp/239.21.1.143:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安丘综合频道.png" group-title="山东电信1",安丘综合频道
-http://144.0.57.58:7002/udp/239.21.2.13:5002
+http://144.0.57.58:7004/udp/239.21.2.13:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/定陶TV1.png" group-title="山东电信1",定陶TV1
-http://144.0.57.58:7002/udp/239.21.1.244:5002
+http://144.0.57.58:7004/udp/239.21.1.244:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/寿光蔬菜.png" group-title="山东电信1",寿光蔬菜
-http://144.0.57.58:7002/udp/239.21.1.218:5002
+http://144.0.57.58:7004/udp/239.21.1.218:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/巨野新闻频道.png" group-title="山东电信1",巨野新闻频道
-http://144.0.57.58:7002/udp/239.21.1.215:5002
+http://144.0.57.58:7004/udp/239.21.1.215:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/平原综合频道.png" group-title="山东电信1",平原综合频道
-http://144.0.57.58:7002/udp/239.21.1.243:5002
+http://144.0.57.58:7004/udp/239.21.1.243:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/平度新闻综合.png" group-title="山东电信1",平度新闻综合
-http://144.0.57.58:7002/udp/239.21.1.228:5002
+http://144.0.57.58:7004/udp/239.21.1.228:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/平阴综合频道.png" group-title="山东电信1",平阴综合频道
-http://144.0.57.58:7002/udp/239.21.1.221:5002
+http://144.0.57.58:7004/udp/239.21.1.221:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/德州新闻综合.png" group-title="山东电信1",德州新闻综合
-http://144.0.57.58:7002/udp/239.21.1.75:5002
+http://144.0.57.58:7004/udp/239.21.1.75:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/德州经济生活.png" group-title="山东电信1",德州经济生活
-http://144.0.57.58:7002/udp/239.21.1.76:5002
+http://144.0.57.58:7004/udp/239.21.1.76:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/惠民综合.png" group-title="山东电信1",惠民综合
-http://144.0.57.58:7002/udp/239.21.1.181:5002
+http://144.0.57.58:7004/udp/239.21.1.181:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/文登TV1.png" group-title="山东电信1",文登TV1
-http://144.0.57.58:7002/udp/239.21.1.174:5002
+http://144.0.57.58:7004/udp/239.21.1.174:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/新泰乡村频道.png" group-title="山东电信1",新泰乡村频道
-http://144.0.57.58:7002/udp/239.21.1.248:5002
+http://144.0.57.58:7004/udp/239.21.1.248:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/新泰综合频道.png" group-title="山东电信1",新泰综合频道
-http://144.0.57.58:7002/udp/239.21.1.210:5002
+http://144.0.57.58:7004/udp/239.21.1.210:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/新闻综合.png" group-title="山东电信1",新闻综合
-http://144.0.57.58:7002/udp/239.21.1.193:5002
+http://144.0.57.58:7004/udp/239.21.1.193:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/无棣综合频道.png" group-title="山东电信1",无棣综合频道
-http://144.0.57.58:7002/udp/239.21.1.214:5002
+http://144.0.57.58:7004/udp/239.21.1.214:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/日照岚山频道.png" group-title="山东电信1",日照岚山频道
-http://144.0.57.58:7002/udp/239.21.1.209:5002
+http://144.0.57.58:7004/udp/239.21.1.209:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/日照新闻.png" group-title="山东电信1",日照新闻
-http://144.0.57.58:7002/udp/239.21.1.79:5002
+http://144.0.57.58:7004/udp/239.21.1.79:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/日照科教.png" group-title="山东电信1",日照科教
-http://144.0.57.58:7002/udp/239.21.1.80:5002
+http://144.0.57.58:7004/udp/239.21.1.80:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/昌乐综合频道.png" group-title="山东电信1",昌乐综合频道
-http://144.0.57.58:7002/udp/239.21.1.245:5002
+http://144.0.57.58:7004/udp/239.21.1.245:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/昌邑综合频道.png" group-title="山东电信1",昌邑综合频道
-http://144.0.57.58:7002/udp/239.21.2.27:5002
+http://144.0.57.58:7004/udp/239.21.2.27:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/曲阜综合频道.png" group-title="山东电信1",曲阜综合频道
-http://144.0.57.58:7002/udp/239.21.1.225:5002
+http://144.0.57.58:7004/udp/239.21.1.225:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/栖霞综合.png" group-title="山东电信1",栖霞综合
-http://144.0.57.58:7002/udp/239.21.1.229:5002
+http://144.0.57.58:7004/udp/239.21.1.229:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/桓台综合.png" group-title="山东电信1",桓台综合
-http://144.0.57.58:7002/udp/239.21.1.105:5002
+http://144.0.57.58:7004/udp/239.21.1.105:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/梁山综合频道.png" group-title="山东电信1",梁山综合频道
-http://144.0.57.58:7002/udp/239.21.2.12:5002
+http://144.0.57.58:7004/udp/239.21.2.12:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/武城综合频道.png" group-title="山东电信1",武城综合频道
-http://144.0.57.58:7002/udp/239.21.1.239:5002
+http://144.0.57.58:7004/udp/239.21.1.239:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/武城综艺影视.png" group-title="山东电信1",武城综艺影视
-http://144.0.57.58:7002/udp/239.21.1.240:5002
+http://144.0.57.58:7004/udp/239.21.1.240:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/沂源新闻.png" group-title="山东电信1",沂源新闻
-http://144.0.57.58:7002/udp/239.21.1.114:5002
+http://144.0.57.58:7004/udp/239.21.1.114:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/沾化综合频道.png" group-title="山东电信1",沾化综合频道
-http://144.0.57.58:7002/udp/239.21.1.226:5002
+http://144.0.57.58:7004/udp/239.21.1.226:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南娱乐.png" group-title="山东电信1",济南娱乐
-http://144.0.57.58:7002/udp/239.21.1.66:5002
+http://144.0.57.58:7004/udp/239.21.1.66:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南少儿.png" group-title="山东电信1",济南少儿
-http://144.0.57.58:7002/udp/239.21.1.68:5002
+http://144.0.57.58:7004/udp/239.21.1.68:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南影视.png" group-title="山东电信1",济南影视
-http://144.0.57.58:7002/udp/239.21.1.65:5002
+http://144.0.57.58:7004/udp/239.21.1.65:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南教育频道.png" group-title="山东电信1",济南教育频道
-http://144.0.57.58:7002/udp/239.21.1.133:5002
+http://144.0.57.58:7004/udp/239.21.1.133:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南新闻综合.png" group-title="山东电信1",济南新闻综合
-http://144.0.57.58:7002/udp/239.21.1.94:5002
+http://144.0.57.58:7004/udp/239.21.1.94:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南生活.png" group-title="山东电信1",济南生活
-http://144.0.57.58:7002/udp/239.21.1.64:5002
+http://144.0.57.58:7004/udp/239.21.1.64:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南都市.png" group-title="山东电信1",济南都市
-http://144.0.57.58:7002/udp/239.21.1.63:5002
+http://144.0.57.58:7004/udp/239.21.1.63:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南鲁中.png" group-title="山东电信1",济南鲁中
-http://144.0.57.58:7002/udp/239.21.1.149:5002
+http://144.0.57.58:7004/udp/239.21.1.149:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济宁公共.png" group-title="山东电信1",济宁公共
-http://144.0.57.58:7002/udp/239.21.2.20:5002
+http://144.0.57.58:7004/udp/239.21.2.20:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济宁生活.png" group-title="山东电信1",济宁生活
-http://144.0.57.58:7002/udp/239.21.1.139:5002
+http://144.0.57.58:7004/udp/239.21.1.139:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济宁综合频道.png" group-title="山东电信1",济宁综合频道
-http://144.0.57.58:7002/udp/239.21.2.19:5002
+http://144.0.57.58:7004/udp/239.21.2.19:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济阳综合频道.png" group-title="山东电信1",济阳综合频道
-http://144.0.57.58:7002/udp/239.21.1.187:5002
+http://144.0.57.58:7004/udp/239.21.1.187:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淄博影视频道.png" group-title="山东电信1",淄博影视频道
-http://144.0.57.58:7002/udp/239.21.1.182:5002
+http://144.0.57.58:7004/udp/239.21.1.182:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淄博新闻综合.png" group-title="山东电信1",淄博新闻综合
-http://144.0.57.58:7002/udp/239.21.1.84:5002
+http://144.0.57.58:7004/udp/239.21.1.84:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淄博生活.png" group-title="山东电信1",淄博生活
-http://144.0.57.58:7002/udp/239.21.1.109:5002
+http://144.0.57.58:7004/udp/239.21.1.109:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淄博都市.png" group-title="山东电信1",淄博都市
-http://144.0.57.58:7002/udp/239.21.1.83:5002
+http://144.0.57.58:7004/udp/239.21.1.83:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/滨州公共.png" group-title="山东电信1",滨州公共
-http://144.0.57.58:7002/udp/239.21.1.119:5002
+http://144.0.57.58:7004/udp/239.21.1.119:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/滨州新闻.png" group-title="山东电信1",滨州新闻
-http://144.0.57.58:7002/udp/239.21.1.118:5002
+http://144.0.57.58:7004/udp/239.21.1.118:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/滨州综合频道.png" group-title="山东电信1",滨州综合频道
-http://144.0.57.58:7002/udp/239.21.1.238:5002
+http://144.0.57.58:7004/udp/239.21.1.238:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/潍坊寿光新闻.png" group-title="山东电信1",潍坊寿光新闻
-http://144.0.57.58:7002/udp/239.21.1.180:5002
+http://144.0.57.58:7004/udp/239.21.1.180:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/潍坊新闻综合.png" group-title="山东电信1",潍坊新闻综合
-http://144.0.57.58:7002/udp/239.21.1.77:5002
+http://144.0.57.58:7004/udp/239.21.1.77:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/潍坊经济生活.png" group-title="山东电信1",潍坊经济生活
-http://144.0.57.58:7002/udp/239.21.1.78:5002
+http://144.0.57.58:7004/udp/239.21.1.78:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/烟台公共.png" group-title="山东电信1",烟台公共
-http://144.0.57.58:7002/udp/239.21.1.117:5002
+http://144.0.57.58:7004/udp/239.21.1.117:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/烟台影视频道.png" group-title="山东电信1",烟台影视频道
-http://144.0.57.58:7002/udp/239.21.1.204:5002
+http://144.0.57.58:7004/udp/239.21.1.204:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/烟台新闻综合.png" group-title="山东电信1",烟台新闻综合
-http://144.0.57.58:7002/udp/239.21.1.116:5002
+http://144.0.57.58:7004/udp/239.21.1.116:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/烟台经济科技.png" group-title="山东电信1",烟台经济科技
-http://144.0.57.58:7002/udp/239.21.1.205:5002
+http://144.0.57.58:7004/udp/239.21.1.205:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/牟平新闻.png" group-title="山东电信1",牟平新闻
-http://144.0.57.58:7002/udp/239.21.2.10:5002
+http://144.0.57.58:7004/udp/239.21.2.10:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/牟平生活.png" group-title="山东电信1",牟平生活
-http://144.0.57.58:7002/udp/239.21.2.11:5002
+http://144.0.57.58:7004/udp/239.21.2.11:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/禹城综合频道.png" group-title="山东电信1",禹城综合频道
-http://144.0.57.58:7002/udp/239.21.1.241:5002
+http://144.0.57.58:7004/udp/239.21.1.241:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/禹城综艺频道.png" group-title="山东电信1",禹城综艺频道
-http://144.0.57.58:7002/udp/239.21.1.242:5002
+http://144.0.57.58:7004/udp/239.21.1.242:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/聊城民生频道.png" group-title="山东电信1",聊城民生频道
-http://144.0.57.58:7002/udp/239.21.1.254:5002
+http://144.0.57.58:7004/udp/239.21.1.254:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/聊城综合频道.png" group-title="山东电信1",聊城综合频道
-http://144.0.57.58:7002/udp/239.21.1.253:5002
+http://144.0.57.58:7004/udp/239.21.1.253:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/茌平综合频道.png" group-title="山东电信1",茌平综合频道
-http://144.0.57.58:7002/udp/239.21.1.219:5002
+http://144.0.57.58:7004/udp/239.21.1.219:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/荣成综合频道.png" group-title="山东电信1",荣成综合频道
-http://144.0.57.58:7002/udp/239.21.1.227:5002
+http://144.0.57.58:7004/udp/239.21.1.227:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/莘县综合频道.png" group-title="山东电信1",莘县综合频道
-http://144.0.57.58:7002/udp/239.21.1.211:5002
+http://144.0.57.58:7004/udp/239.21.1.211:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/莱西综合频道.png" group-title="山东电信1",莱西综合频道
-http://144.0.57.58:7002/udp/239.21.1.247:5002
+http://144.0.57.58:7004/udp/239.21.1.247:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/菏泽1.png" group-title="山东电信1",菏泽1
-http://144.0.57.58:7002/udp/239.21.1.103:5002
+http://144.0.57.58:7004/udp/239.21.1.103:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/菏泽2.png" group-title="山东电信1",菏泽2
-http://144.0.57.58:7002/udp/239.21.2.18:5002
+http://144.0.57.58:7004/udp/239.21.2.18:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/蒙阴综合频道.png" group-title="山东电信1",蒙阴综合频道
-http://144.0.57.58:7002/udp/239.21.2.23:5002
+http://144.0.57.58:7004/udp/239.21.2.23:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/诸城新闻.png" group-title="山东电信1",诸城新闻
-http://144.0.57.58:7002/udp/239.21.1.217:5002
+http://144.0.57.58:7004/udp/239.21.1.217:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/邹城综合频道.png" group-title="山东电信1",邹城综合频道
-http://144.0.57.58:7002/udp/239.21.1.185:5002
+http://144.0.57.58:7004/udp/239.21.1.185:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/郓城综合频道.png" group-title="山东电信1",郓城综合频道
-http://144.0.57.58:7002/udp/239.21.1.251:5002
+http://144.0.57.58:7004/udp/239.21.1.251:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/长清新闻.png" group-title="山东电信1",长清新闻
-http://144.0.57.58:7002/udp/239.21.1.107:5002
+http://144.0.57.58:7004/udp/239.21.1.107:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/阳信新闻综合.png" group-title="山东电信1",阳信新闻综合
-http://144.0.57.58:7002/udp/239.21.1.252:5002
+http://144.0.57.58:7004/udp/239.21.1.252:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/陵城综合频道.png" group-title="山东电信1",陵城综合频道
-http://144.0.57.58:7002/udp/239.21.2.24:5002
+http://144.0.57.58:7004/udp/239.21.2.24:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛1.png" group-title="山东电信1",青岛1
-http://144.0.57.58:7002/udp/239.21.1.69:5002
+http://144.0.57.58:7004/udp/239.21.1.69:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛2.png" group-title="山东电信1",青岛2
-http://144.0.57.58:7002/udp/239.21.1.70:5002
+http://144.0.57.58:7004/udp/239.21.1.70:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛3.png" group-title="山东电信1",青岛3
-http://144.0.57.58:7002/udp/239.21.1.71:5002
+http://144.0.57.58:7004/udp/239.21.1.71:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛4.png" group-title="山东电信1",青岛4
-http://144.0.57.58:7002/udp/239.21.1.72:5002
+http://144.0.57.58:7004/udp/239.21.1.72:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛5.png" group-title="山东电信1",青岛5
-http://144.0.57.58:7002/udp/239.21.1.73:5002
+http://144.0.57.58:7004/udp/239.21.1.73:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛6.png" group-title="山东电信1",青岛6
-http://144.0.57.58:7002/udp/239.21.1.74:5002
+http://144.0.57.58:7004/udp/239.21.1.74:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青州文化旅游.png" group-title="山东电信1",青州文化旅游
-http://144.0.57.58:7002/udp/239.21.1.231:5002
+http://144.0.57.58:7004/udp/239.21.1.231:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青州综合频道.png" group-title="山东电信1",青州综合频道
-http://144.0.57.58:7002/udp/239.21.1.232:5002
+http://144.0.57.58:7004/udp/239.21.1.232:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/齐河新闻频道.png" group-title="山东电信1",齐河新闻频道
-http://144.0.57.58:7002/udp/239.21.1.230:5002
+http://144.0.57.58:7004/udp/239.21.1.230:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/海看剧场.png" group-title="山东电信1",海看剧场
-http://144.0.57.58:7002/udp/239.21.1.98:5002
+http://144.0.57.58:7004/udp/239.21.1.98:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV1.png" group-title="山东电信2",CCTV1
-http://113.120.99.168:7004/udp/239.21.1.120:5002
+http://144.0.57.58:7002/udp/239.21.1.120:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV2.png" group-title="山东电信2",CCTV2
-http://113.120.99.168:7004/udp/239.21.1.151:5002
+http://144.0.57.58:7002/udp/239.21.1.151:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV3.png" group-title="山东电信2",CCTV3
-http://113.120.99.168:7004/udp/239.21.2.45:5002
+http://144.0.57.58:7002/udp/239.21.2.45:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV4.png" group-title="山东电信2",CCTV4
-http://113.120.99.168:7004/udp/239.21.1.154:5002
+http://144.0.57.58:7002/udp/239.21.1.154:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV4.png" group-title="山东电信2",CCTV4
-http://113.120.99.168:7004/udp/239.21.2.29:5002
+http://144.0.57.58:7002/udp/239.21.2.29:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV4.png" group-title="山东电信2",CCTV4
-http://113.120.99.168:7004/udp/239.21.2.28:5002
+http://144.0.57.58:7002/udp/239.21.2.28:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV5.png" group-title="山东电信2",CCTV5
-http://113.120.99.168:7004/udp/239.21.2.46:5002
+http://144.0.57.58:7002/udp/239.21.2.46:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV5+.png" group-title="山东电信2",CCTV5+
-http://113.120.99.168:7004/udp/239.21.1.142:5002
+http://144.0.57.58:7002/udp/239.21.1.142:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV6.png" group-title="山东电信2",CCTV6
-http://113.120.99.168:7004/udp/239.21.2.47:5002
+http://144.0.57.58:7002/udp/239.21.2.47:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV7.png" group-title="山东电信2",CCTV7
-http://113.120.99.168:7004/udp/239.21.1.152:5002
+http://144.0.57.58:7002/udp/239.21.1.152:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV8.png" group-title="山东电信2",CCTV8
-http://113.120.99.168:7004/udp/239.21.2.48:5002
+http://144.0.57.58:7002/udp/239.21.2.48:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV9.png" group-title="山东电信2",CCTV9
-http://113.120.99.168:7004/udp/239.21.1.153:5002
+http://144.0.57.58:7002/udp/239.21.1.153:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV10.png" group-title="山东电信2",CCTV10
-http://113.120.99.168:7004/udp/239.21.1.155:5002
+http://144.0.57.58:7002/udp/239.21.1.155:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV11.png" group-title="山东电信2",CCTV11
-http://113.120.99.168:7004/udp/239.21.2.2:5002
+http://144.0.57.58:7002/udp/239.21.2.2:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV12.png" group-title="山东电信2",CCTV12
-http://113.120.99.168:7004/udp/239.21.1.156:5002
+http://144.0.57.58:7002/udp/239.21.1.156:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV13.png" group-title="山东电信2",CCTV13
-http://113.120.99.168:7004/udp/239.21.2.3:5002
+http://144.0.57.58:7002/udp/239.21.2.3:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV14.png" group-title="山东电信2",CCTV14
-http://113.120.99.168:7004/udp/239.21.1.157:5002
+http://144.0.57.58:7002/udp/239.21.1.157:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV15.png" group-title="山东电信2",CCTV15
-http://113.120.99.168:7004/udp/239.21.2.4:5002
+http://144.0.57.58:7002/udp/239.21.2.4:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV17.png" group-title="山东电信2",CCTV17
-http://113.120.99.168:7004/udp/239.21.1.186:5002
+http://144.0.57.58:7002/udp/239.21.1.186:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东方卫视.png" group-title="山东电信2",东方卫视
-http://113.120.99.168:7004/udp/239.21.1.111:5002
+http://144.0.57.58:7002/udp/239.21.1.111:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/北京卫视.png" group-title="山东电信2",北京卫视
-http://113.120.99.168:7004/udp/239.21.1.88:5002
+http://144.0.57.58:7002/udp/239.21.1.88:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/江苏卫视.png" group-title="山东电信2",江苏卫视
-http://113.120.99.168:7004/udp/239.21.1.89:5002
+http://144.0.57.58:7002/udp/239.21.1.89:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/浙江卫视.png" group-title="山东电信2",浙江卫视
-http://113.120.99.168:7004/udp/239.21.1.90:5002
+http://144.0.57.58:7002/udp/239.21.1.90:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/深圳卫视.png" group-title="山东电信2",深圳卫视
-http://113.120.99.168:7004/udp/239.21.1.93:5002
+http://144.0.57.58:7002/udp/239.21.1.93:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湖北卫视.png" group-title="山东电信2",湖北卫视
-http://113.120.99.168:7004/udp/239.21.1.163:5002
+http://144.0.57.58:7002/udp/239.21.1.163:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湖南卫视.png" group-title="山东电信2",湖南卫视
-http://113.120.99.168:7004/udp/239.21.1.158:5002
+http://144.0.57.58:7002/udp/239.21.1.158:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东南卫视.png" group-title="山东电信2",东南卫视
-http://113.120.99.168:7004/udp/239.21.1.113:5002
+http://144.0.57.58:7002/udp/239.21.1.113:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/吉林卫视.png" group-title="山东电信2",吉林卫视
-http://113.120.99.168:7004/udp/239.21.2.49:5002
+http://144.0.57.58:7002/udp/239.21.2.49:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/四川卫视.png" group-title="山东电信2",四川卫视
-http://113.120.99.168:7004/udp/239.21.2.15:5002
+http://144.0.57.58:7002/udp/239.21.2.15:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/天津卫视.png" group-title="山东电信2",天津卫视
-http://113.120.99.168:7004/udp/239.21.1.165:5002
+http://144.0.57.58:7002/udp/239.21.1.165:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安徽卫视.png" group-title="山东电信2",安徽卫视
-http://113.120.99.168:7004/udp/239.21.1.159:5002
+http://144.0.57.58:7002/udp/239.21.1.159:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东卫视.png" group-title="山东电信2",山东卫视
-http://113.120.99.168:7004/udp/239.21.1.87:5002
+http://144.0.57.58:7002/udp/239.21.1.87:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/广东卫视.png" group-title="山东电信2",广东卫视
-http://113.120.99.168:7004/udp/239.21.1.92:5002
+http://144.0.57.58:7002/udp/239.21.1.92:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/江西卫视.png" group-title="山东电信2",江西卫视
-http://113.120.99.168:7004/udp/239.21.1.167:5002
+http://144.0.57.58:7002/udp/239.21.1.167:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/河北卫视.png" group-title="山东电信2",河北卫视
-http://113.120.99.168:7004/udp/239.21.1.168:5002
+http://144.0.57.58:7002/udp/239.21.1.168:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/河南卫视.png" group-title="山东电信2",河南卫视
-http://113.120.99.168:7004/udp/239.21.2.37:5002
+http://144.0.57.58:7002/udp/239.21.2.37:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/海南卫视.png" group-title="山东电信2",海南卫视
-http://113.120.99.168:7004/udp/239.21.2.14:5002
+http://144.0.57.58:7002/udp/239.21.2.14:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/甘肃卫视.png" group-title="山东电信2",甘肃卫视
-http://113.120.99.168:7004/udp/239.21.2.22:5002
+http://144.0.57.58:7002/udp/239.21.2.22:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/贵州卫视.png" group-title="山东电信2",贵州卫视
-http://113.120.99.168:7004/udp/239.21.1.166:5002
+http://144.0.57.58:7002/udp/239.21.1.166:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/辽宁卫视.png" group-title="山东电信2",辽宁卫视
-http://113.120.99.168:7004/udp/239.21.1.164:5002
+http://144.0.57.58:7002/udp/239.21.1.164:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/重庆卫视.png" group-title="山东电信2",重庆卫视
-http://113.120.99.168:7004/udp/239.21.1.233:5002
+http://144.0.57.58:7002/udp/239.21.1.233:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青海卫视.png" group-title="山东电信2",青海卫视
-http://113.120.99.168:7004/udp/239.21.2.51:5002
+http://144.0.57.58:7002/udp/239.21.2.51:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/黑龙江卫视.png" group-title="山东电信2",黑龙江卫视
-http://113.120.99.168:7004/udp/239.21.1.28:5002
+http://144.0.57.58:7002/udp/239.21.1.28:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/上海纪实人文.png" group-title="山东电信2",上海纪实人文
-http://113.120.99.168:7004/udp/239.21.1.171:5002
+http://144.0.57.58:7002/udp/239.21.1.171:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东体育频道.png" group-title="山东电信2",山东体育频道
-http://113.120.99.168:7004/udp/239.21.1.141:5002
+http://144.0.57.58:7002/udp/239.21.1.141:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东农科频道.png" group-title="山东电信2",山东农科频道
-http://113.120.99.168:7004/udp/239.21.1.183:5002
+http://144.0.57.58:7002/udp/239.21.1.183:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东少儿频道.png" group-title="山东电信2",山东少儿频道
-http://113.120.99.168:7004/udp/239.21.1.208:5002
+http://144.0.57.58:7002/udp/239.21.1.208:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东教育频道.png" group-title="山东电信2",山东教育频道
-http://113.120.99.168:7004/udp/239.21.1.169:5002
+http://144.0.57.58:7002/udp/239.21.1.169:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东文旅频道.png" group-title="山东电信2",山东文旅频道
-http://113.120.99.168:7004/udp/239.21.1.176:5002
+http://144.0.57.58:7002/udp/239.21.1.176:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东新闻频道.png" group-title="山东电信2",山东新闻频道
-http://113.120.99.168:7004/udp/239.21.1.140:5002
+http://144.0.57.58:7002/udp/239.21.1.140:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东生活频道.png" group-title="山东电信2",山东生活频道
-http://113.120.99.168:7004/udp/239.21.1.175:5002
+http://144.0.57.58:7002/udp/239.21.1.175:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东综艺频道.png" group-title="山东电信2",山东综艺频道
-http://113.120.99.168:7004/udp/239.21.1.177:5002
+http://144.0.57.58:7002/udp/239.21.1.177:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/山东齐鲁频道.png" group-title="山东电信2",山东齐鲁频道
-http://113.120.99.168:7004/udp/239.21.1.134:5002
+http://144.0.57.58:7002/udp/239.21.1.134:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/湖南金鹰纪实.png" group-title="山东电信2",湖南金鹰纪实
-http://113.120.99.168:7004/udp/239.21.1.170:5002
+http://144.0.57.58:7002/udp/239.21.1.170:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/BRTV纪实科教.png" group-title="山东电信2",BRTV纪实科教
-http://113.120.99.168:7004/udp/239.21.1.172:5002
+http://144.0.57.58:7002/udp/239.21.1.172:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CETV1.png" group-title="山东电信2",CETV1
-http://113.120.99.168:7004/udp/239.21.2.7:5002
+http://144.0.57.58:7002/udp/239.21.2.7:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN.png" group-title="山东电信2",CGTN
-http://113.120.99.168:7004/udp/239.21.2.30:5002
+http://144.0.57.58:7002/udp/239.21.2.30:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN俄语.png" group-title="山东电信2",CGTN俄语
-http://113.120.99.168:7004/udp/239.21.2.35:5002
+http://144.0.57.58:7002/udp/239.21.2.35:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN法语.png" group-title="山东电信2",CGTN法语
-http://113.120.99.168:7004/udp/239.21.2.33:5002
+http://144.0.57.58:7002/udp/239.21.2.33:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN纪录.png" group-title="山东电信2",CGTN纪录
-http://113.120.99.168:7004/udp/239.21.2.31:5002
+http://144.0.57.58:7002/udp/239.21.2.31:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN西班牙语.png" group-title="山东电信2",CGTN西班牙语
-http://113.120.99.168:7004/udp/239.21.2.32:5002
+http://144.0.57.58:7002/udp/239.21.2.32:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CGTN阿拉伯语.png" group-title="山东电信2",CGTN阿拉伯语
-http://113.120.99.168:7004/udp/239.21.2.34:5002
+http://144.0.57.58:7002/udp/239.21.2.34:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东平综合频道.png" group-title="山东电信2",东平综合频道
-http://113.120.99.168:7004/udp/239.21.1.216:5002
+http://144.0.57.58:7002/udp/239.21.1.216:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东明1.png" group-title="山东电信2",东明1
-http://113.120.99.168:7004/udp/239.21.1.246:5002
+http://144.0.57.58:7002/udp/239.21.1.246:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东营公共.png" group-title="山东电信2",东营公共
-http://113.120.99.168:7004/udp/239.21.1.82:5002
+http://144.0.57.58:7002/udp/239.21.1.82:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/东营新闻.png" group-title="山东电信2",东营新闻
-http://113.120.99.168:7004/udp/239.21.1.81:5002
+http://144.0.57.58:7002/udp/239.21.1.81:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/中国交通.png" group-title="山东电信2",中国交通
-http://113.120.99.168:7004/udp/239.21.1.115:5002
+http://144.0.57.58:7002/udp/239.21.1.115:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/乳山综合频道.png" group-title="山东电信2",乳山综合频道
-http://113.120.99.168:7004/udp/239.21.1.220:5002
+http://144.0.57.58:7002/udp/239.21.1.220:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/兖州新闻频道.png" group-title="山东电信2",兖州新闻频道
-http://113.120.99.168:7004/udp/239.21.1.224:5002
+http://144.0.57.58:7002/udp/239.21.1.224:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/兰陵综合频道.png" group-title="山东电信2",兰陵综合频道
-http://113.120.99.168:7004/udp/239.21.1.237:5002
+http://144.0.57.58:7002/udp/239.21.1.237:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/冠县综合.png" group-title="山东电信2",冠县综合
-http://113.120.99.168:7004/udp/239.21.1.250:5002
+http://144.0.57.58:7002/udp/239.21.1.250:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/单县综合频道.png" group-title="山东电信2",单县综合频道
-http://113.120.99.168:7004/udp/239.21.2.21:5002
+http://144.0.57.58:7002/udp/239.21.2.21:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/夏津公共频道.png" group-title="山东电信2",夏津公共频道
-http://113.120.99.168:7004/udp/239.21.1.102:5002
+http://144.0.57.58:7002/udp/239.21.1.102:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/夏津综合频道.png" group-title="山东电信2",夏津综合频道
-http://113.120.99.168:7004/udp/239.21.1.106:5002
+http://144.0.57.58:7002/udp/239.21.1.106:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宁津综合频道.png" group-title="山东电信2",宁津综合频道
-http://113.120.99.168:7004/udp/239.21.2.50:5002
+http://144.0.57.58:7002/udp/239.21.2.50:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宁阳2.png" group-title="山东电信2",宁阳2
-http://113.120.99.168:7004/udp/239.21.1.144:5002
+http://144.0.57.58:7002/udp/239.21.1.144:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/宁阳综合频道.png" group-title="山东电信2",宁阳综合频道
-http://113.120.99.168:7004/udp/239.21.1.143:5002
+http://144.0.57.58:7002/udp/239.21.1.143:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/安丘综合频道.png" group-title="山东电信2",安丘综合频道
-http://113.120.99.168:7004/udp/239.21.2.13:5002
+http://144.0.57.58:7002/udp/239.21.2.13:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/定陶TV1.png" group-title="山东电信2",定陶TV1
-http://113.120.99.168:7004/udp/239.21.1.244:5002
+http://144.0.57.58:7002/udp/239.21.1.244:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/寿光蔬菜.png" group-title="山东电信2",寿光蔬菜
-http://113.120.99.168:7004/udp/239.21.1.218:5002
+http://144.0.57.58:7002/udp/239.21.1.218:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/巨野新闻频道.png" group-title="山东电信2",巨野新闻频道
-http://113.120.99.168:7004/udp/239.21.1.215:5002
+http://144.0.57.58:7002/udp/239.21.1.215:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/平原综合频道.png" group-title="山东电信2",平原综合频道
-http://113.120.99.168:7004/udp/239.21.1.243:5002
+http://144.0.57.58:7002/udp/239.21.1.243:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/平度新闻综合.png" group-title="山东电信2",平度新闻综合
-http://113.120.99.168:7004/udp/239.21.1.228:5002
+http://144.0.57.58:7002/udp/239.21.1.228:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/平阴综合频道.png" group-title="山东电信2",平阴综合频道
-http://113.120.99.168:7004/udp/239.21.1.221:5002
+http://144.0.57.58:7002/udp/239.21.1.221:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/德州新闻综合.png" group-title="山东电信2",德州新闻综合
-http://113.120.99.168:7004/udp/239.21.1.75:5002
+http://144.0.57.58:7002/udp/239.21.1.75:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/德州经济生活.png" group-title="山东电信2",德州经济生活
-http://113.120.99.168:7004/udp/239.21.1.76:5002
+http://144.0.57.58:7002/udp/239.21.1.76:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/惠民综合.png" group-title="山东电信2",惠民综合
-http://113.120.99.168:7004/udp/239.21.1.181:5002
+http://144.0.57.58:7002/udp/239.21.1.181:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/文登TV1.png" group-title="山东电信2",文登TV1
-http://113.120.99.168:7004/udp/239.21.1.174:5002
+http://144.0.57.58:7002/udp/239.21.1.174:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/新泰乡村频道.png" group-title="山东电信2",新泰乡村频道
-http://113.120.99.168:7004/udp/239.21.1.248:5002
+http://144.0.57.58:7002/udp/239.21.1.248:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/新泰综合频道.png" group-title="山东电信2",新泰综合频道
-http://113.120.99.168:7004/udp/239.21.1.210:5002
+http://144.0.57.58:7002/udp/239.21.1.210:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/新闻综合.png" group-title="山东电信2",新闻综合
-http://113.120.99.168:7004/udp/239.21.1.193:5002
+http://144.0.57.58:7002/udp/239.21.1.193:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/无棣综合频道.png" group-title="山东电信2",无棣综合频道
-http://113.120.99.168:7004/udp/239.21.1.214:5002
+http://144.0.57.58:7002/udp/239.21.1.214:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/日照岚山频道.png" group-title="山东电信2",日照岚山频道
-http://113.120.99.168:7004/udp/239.21.1.209:5002
+http://144.0.57.58:7002/udp/239.21.1.209:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/日照新闻.png" group-title="山东电信2",日照新闻
-http://113.120.99.168:7004/udp/239.21.1.79:5002
+http://144.0.57.58:7002/udp/239.21.1.79:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/日照科教.png" group-title="山东电信2",日照科教
-http://113.120.99.168:7004/udp/239.21.1.80:5002
+http://144.0.57.58:7002/udp/239.21.1.80:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/昌乐综合频道.png" group-title="山东电信2",昌乐综合频道
-http://113.120.99.168:7004/udp/239.21.1.245:5002
+http://144.0.57.58:7002/udp/239.21.1.245:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/昌邑综合频道.png" group-title="山东电信2",昌邑综合频道
-http://113.120.99.168:7004/udp/239.21.2.27:5002
+http://144.0.57.58:7002/udp/239.21.2.27:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/曲阜综合频道.png" group-title="山东电信2",曲阜综合频道
-http://113.120.99.168:7004/udp/239.21.1.225:5002
+http://144.0.57.58:7002/udp/239.21.1.225:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/栖霞综合.png" group-title="山东电信2",栖霞综合
-http://113.120.99.168:7004/udp/239.21.1.229:5002
+http://144.0.57.58:7002/udp/239.21.1.229:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/桓台综合.png" group-title="山东电信2",桓台综合
-http://113.120.99.168:7004/udp/239.21.1.105:5002
+http://144.0.57.58:7002/udp/239.21.1.105:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/梁山综合频道.png" group-title="山东电信2",梁山综合频道
-http://113.120.99.168:7004/udp/239.21.2.12:5002
+http://144.0.57.58:7002/udp/239.21.2.12:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/武城综合频道.png" group-title="山东电信2",武城综合频道
-http://113.120.99.168:7004/udp/239.21.1.239:5002
+http://144.0.57.58:7002/udp/239.21.1.239:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/武城综艺影视.png" group-title="山东电信2",武城综艺影视
-http://113.120.99.168:7004/udp/239.21.1.240:5002
+http://144.0.57.58:7002/udp/239.21.1.240:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/沂源新闻.png" group-title="山东电信2",沂源新闻
-http://113.120.99.168:7004/udp/239.21.1.114:5002
+http://144.0.57.58:7002/udp/239.21.1.114:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/沾化综合频道.png" group-title="山东电信2",沾化综合频道
-http://113.120.99.168:7004/udp/239.21.1.226:5002
+http://144.0.57.58:7002/udp/239.21.1.226:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南娱乐.png" group-title="山东电信2",济南娱乐
-http://113.120.99.168:7004/udp/239.21.1.66:5002
+http://144.0.57.58:7002/udp/239.21.1.66:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南少儿.png" group-title="山东电信2",济南少儿
-http://113.120.99.168:7004/udp/239.21.1.68:5002
+http://144.0.57.58:7002/udp/239.21.1.68:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南影视.png" group-title="山东电信2",济南影视
-http://113.120.99.168:7004/udp/239.21.1.65:5002
+http://144.0.57.58:7002/udp/239.21.1.65:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南教育频道.png" group-title="山东电信2",济南教育频道
-http://113.120.99.168:7004/udp/239.21.1.133:5002
+http://144.0.57.58:7002/udp/239.21.1.133:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南新闻综合.png" group-title="山东电信2",济南新闻综合
-http://113.120.99.168:7004/udp/239.21.1.94:5002
+http://144.0.57.58:7002/udp/239.21.1.94:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南生活.png" group-title="山东电信2",济南生活
-http://113.120.99.168:7004/udp/239.21.1.64:5002
+http://144.0.57.58:7002/udp/239.21.1.64:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南都市.png" group-title="山东电信2",济南都市
-http://113.120.99.168:7004/udp/239.21.1.63:5002
+http://144.0.57.58:7002/udp/239.21.1.63:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济南鲁中.png" group-title="山东电信2",济南鲁中
-http://113.120.99.168:7004/udp/239.21.1.149:5002
+http://144.0.57.58:7002/udp/239.21.1.149:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济宁公共.png" group-title="山东电信2",济宁公共
-http://113.120.99.168:7004/udp/239.21.2.20:5002
+http://144.0.57.58:7002/udp/239.21.2.20:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济宁生活.png" group-title="山东电信2",济宁生活
-http://113.120.99.168:7004/udp/239.21.1.139:5002
+http://144.0.57.58:7002/udp/239.21.1.139:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济宁综合频道.png" group-title="山东电信2",济宁综合频道
-http://113.120.99.168:7004/udp/239.21.2.19:5002
+http://144.0.57.58:7002/udp/239.21.2.19:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/济阳综合频道.png" group-title="山东电信2",济阳综合频道
-http://113.120.99.168:7004/udp/239.21.1.187:5002
+http://144.0.57.58:7002/udp/239.21.1.187:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淄博影视频道.png" group-title="山东电信2",淄博影视频道
-http://113.120.99.168:7004/udp/239.21.1.182:5002
+http://144.0.57.58:7002/udp/239.21.1.182:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淄博新闻综合.png" group-title="山东电信2",淄博新闻综合
-http://113.120.99.168:7004/udp/239.21.1.84:5002
+http://144.0.57.58:7002/udp/239.21.1.84:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淄博生活.png" group-title="山东电信2",淄博生活
-http://113.120.99.168:7004/udp/239.21.1.109:5002
+http://144.0.57.58:7002/udp/239.21.1.109:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/淄博都市.png" group-title="山东电信2",淄博都市
-http://113.120.99.168:7004/udp/239.21.1.83:5002
+http://144.0.57.58:7002/udp/239.21.1.83:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/滨州公共.png" group-title="山东电信2",滨州公共
-http://113.120.99.168:7004/udp/239.21.1.119:5002
+http://144.0.57.58:7002/udp/239.21.1.119:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/滨州新闻.png" group-title="山东电信2",滨州新闻
-http://113.120.99.168:7004/udp/239.21.1.118:5002
+http://144.0.57.58:7002/udp/239.21.1.118:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/滨州综合频道.png" group-title="山东电信2",滨州综合频道
-http://113.120.99.168:7004/udp/239.21.1.238:5002
+http://144.0.57.58:7002/udp/239.21.1.238:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/潍坊寿光新闻.png" group-title="山东电信2",潍坊寿光新闻
-http://113.120.99.168:7004/udp/239.21.1.180:5002
+http://144.0.57.58:7002/udp/239.21.1.180:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/潍坊新闻综合.png" group-title="山东电信2",潍坊新闻综合
-http://113.120.99.168:7004/udp/239.21.1.77:5002
+http://144.0.57.58:7002/udp/239.21.1.77:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/潍坊经济生活.png" group-title="山东电信2",潍坊经济生活
-http://113.120.99.168:7004/udp/239.21.1.78:5002
+http://144.0.57.58:7002/udp/239.21.1.78:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/烟台公共.png" group-title="山东电信2",烟台公共
-http://113.120.99.168:7004/udp/239.21.1.117:5002
+http://144.0.57.58:7002/udp/239.21.1.117:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/烟台影视频道.png" group-title="山东电信2",烟台影视频道
-http://113.120.99.168:7004/udp/239.21.1.204:5002
+http://144.0.57.58:7002/udp/239.21.1.204:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/烟台新闻综合.png" group-title="山东电信2",烟台新闻综合
-http://113.120.99.168:7004/udp/239.21.1.116:5002
+http://144.0.57.58:7002/udp/239.21.1.116:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/烟台经济科技.png" group-title="山东电信2",烟台经济科技
-http://113.120.99.168:7004/udp/239.21.1.205:5002
+http://144.0.57.58:7002/udp/239.21.1.205:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/牟平新闻.png" group-title="山东电信2",牟平新闻
-http://113.120.99.168:7004/udp/239.21.2.10:5002
+http://144.0.57.58:7002/udp/239.21.2.10:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/牟平生活.png" group-title="山东电信2",牟平生活
-http://113.120.99.168:7004/udp/239.21.2.11:5002
+http://144.0.57.58:7002/udp/239.21.2.11:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/禹城综合频道.png" group-title="山东电信2",禹城综合频道
-http://113.120.99.168:7004/udp/239.21.1.241:5002
+http://144.0.57.58:7002/udp/239.21.1.241:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/禹城综艺频道.png" group-title="山东电信2",禹城综艺频道
-http://113.120.99.168:7004/udp/239.21.1.242:5002
+http://144.0.57.58:7002/udp/239.21.1.242:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/聊城民生频道.png" group-title="山东电信2",聊城民生频道
-http://113.120.99.168:7004/udp/239.21.1.254:5002
+http://144.0.57.58:7002/udp/239.21.1.254:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/聊城综合频道.png" group-title="山东电信2",聊城综合频道
-http://113.120.99.168:7004/udp/239.21.1.253:5002
+http://144.0.57.58:7002/udp/239.21.1.253:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/茌平综合频道.png" group-title="山东电信2",茌平综合频道
-http://113.120.99.168:7004/udp/239.21.1.219:5002
+http://144.0.57.58:7002/udp/239.21.1.219:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/荣成综合频道.png" group-title="山东电信2",荣成综合频道
-http://113.120.99.168:7004/udp/239.21.1.227:5002
+http://144.0.57.58:7002/udp/239.21.1.227:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/莘县综合频道.png" group-title="山东电信2",莘县综合频道
-http://113.120.99.168:7004/udp/239.21.1.211:5002
+http://144.0.57.58:7002/udp/239.21.1.211:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/莱西综合频道.png" group-title="山东电信2",莱西综合频道
-http://113.120.99.168:7004/udp/239.21.1.247:5002
+http://144.0.57.58:7002/udp/239.21.1.247:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/菏泽1.png" group-title="山东电信2",菏泽1
-http://113.120.99.168:7004/udp/239.21.1.103:5002
+http://144.0.57.58:7002/udp/239.21.1.103:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/菏泽2.png" group-title="山东电信2",菏泽2
-http://113.120.99.168:7004/udp/239.21.2.18:5002
+http://144.0.57.58:7002/udp/239.21.2.18:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/蒙阴综合频道.png" group-title="山东电信2",蒙阴综合频道
-http://113.120.99.168:7004/udp/239.21.2.23:5002
+http://144.0.57.58:7002/udp/239.21.2.23:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/诸城新闻.png" group-title="山东电信2",诸城新闻
-http://113.120.99.168:7004/udp/239.21.1.217:5002
+http://144.0.57.58:7002/udp/239.21.1.217:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/邹城综合频道.png" group-title="山东电信2",邹城综合频道
-http://113.120.99.168:7004/udp/239.21.1.185:5002
+http://144.0.57.58:7002/udp/239.21.1.185:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/郓城综合频道.png" group-title="山东电信2",郓城综合频道
-http://113.120.99.168:7004/udp/239.21.1.251:5002
+http://144.0.57.58:7002/udp/239.21.1.251:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/长清新闻.png" group-title="山东电信2",长清新闻
-http://113.120.99.168:7004/udp/239.21.1.107:5002
+http://144.0.57.58:7002/udp/239.21.1.107:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/阳信新闻综合.png" group-title="山东电信2",阳信新闻综合
-http://113.120.99.168:7004/udp/239.21.1.252:5002
+http://144.0.57.58:7002/udp/239.21.1.252:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/陵城综合频道.png" group-title="山东电信2",陵城综合频道
-http://113.120.99.168:7004/udp/239.21.2.24:5002
+http://144.0.57.58:7002/udp/239.21.2.24:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛1.png" group-title="山东电信2",青岛1
-http://113.120.99.168:7004/udp/239.21.1.69:5002
+http://144.0.57.58:7002/udp/239.21.1.69:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛2.png" group-title="山东电信2",青岛2
-http://113.120.99.168:7004/udp/239.21.1.70:5002
+http://144.0.57.58:7002/udp/239.21.1.70:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛3.png" group-title="山东电信2",青岛3
-http://113.120.99.168:7004/udp/239.21.1.71:5002
+http://144.0.57.58:7002/udp/239.21.1.71:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛4.png" group-title="山东电信2",青岛4
-http://113.120.99.168:7004/udp/239.21.1.72:5002
+http://144.0.57.58:7002/udp/239.21.1.72:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛5.png" group-title="山东电信2",青岛5
-http://113.120.99.168:7004/udp/239.21.1.73:5002
+http://144.0.57.58:7002/udp/239.21.1.73:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青岛6.png" group-title="山东电信2",青岛6
-http://113.120.99.168:7004/udp/239.21.1.74:5002
+http://144.0.57.58:7002/udp/239.21.1.74:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青州文化旅游.png" group-title="山东电信2",青州文化旅游
-http://113.120.99.168:7004/udp/239.21.1.231:5002
+http://144.0.57.58:7002/udp/239.21.1.231:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/青州综合频道.png" group-title="山东电信2",青州综合频道
-http://113.120.99.168:7004/udp/239.21.1.232:5002
+http://144.0.57.58:7002/udp/239.21.1.232:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/齐河新闻频道.png" group-title="山东电信2",齐河新闻频道
-http://113.120.99.168:7004/udp/239.21.1.230:5002
+http://144.0.57.58:7002/udp/239.21.1.230:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/海看剧场.png" group-title="山东电信2",海看剧场
-http://113.120.99.168:7004/udp/239.21.1.98:5002
+http://144.0.57.58:7002/udp/239.21.1.98:5002
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV1.png" group-title="河南电信1",CCTV1
 http://123.54.206.105:8000/udp/239.16.20.1:10010
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV2.png" group-title="河南电信1",CCTV2
