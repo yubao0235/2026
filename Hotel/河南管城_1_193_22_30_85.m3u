@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV1
+http://1.193.22.30:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV2
+http://1.193.22.30:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV3
+http://1.193.22.30:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV4
+http://1.193.22.30:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV5
+http://1.193.22.30:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV5+
+http://1.193.22.30:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV6
+http://1.193.22.30:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV7
+http://1.193.22.30:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV8
+http://1.193.22.30:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV9
+http://1.193.22.30:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV10
+http://1.193.22.30:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV11
+http://1.193.22.30:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV12
+http://1.193.22.30:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV13
+http://1.193.22.30:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV14
+http://1.193.22.30:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",CCTV15
+http://1.193.22.30:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",东方卫视
+http://1.193.22.30:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",北京卫视
+http://1.193.22.30:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",天津卫视
+http://1.193.22.30:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",安徽卫视
+http://1.193.22.30:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",山东卫视
+http://1.193.22.30:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",广东卫视
+http://1.193.22.30:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",江苏卫视
+http://1.193.22.30:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",河南卫视
+http://1.193.22.30:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",浙江卫视
+http://1.193.22.30:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",深圳卫视
+http://1.193.22.30:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",湖北卫视
+http://1.193.22.30:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",湖南卫视
+http://1.193.22.30:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",贵州卫视
+http://1.193.22.30:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",重庆卫视
+http://1.193.22.30:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",陕西卫视
+http://1.193.22.30:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",河南都市频道
+http://1.193.22.30:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",河南民生频道
+http://1.193.22.30:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",河南法制频道
+http://1.193.22.30:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",河南电视剧频道
+http://1.193.22.30:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",河南新闻频道
+http://1.193.22.30:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",河南公共频道
+http://1.193.22.30:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",梨园频道
+http://1.193.22.30:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",福建东南
+http://1.193.22.30:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="1.193.22.30:85",嘉佳卡通
+http://1.193.22.30:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
