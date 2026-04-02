@@ -1,0 +1,62 @@
+name: Hotel 自动更新
+
+on:
+  schedule:
+    # 每天北京时间 09:00 和 01:00 运行 (UTC 1, 17)
+    - cron: "0 1,17 * * *"
+  workflow_dispatch: # 方便你随时手动点击运行
+
+jobs:
+  run-hotel:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 赋予 Actions 写入仓库的权限
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0 # 获取完整历史，防止 pull 冲突
+
+      - name: 设置 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp requests
+
+      - name: 配置 Git 身份
+        run: |
+          # 建议改成你自己的 GitHub 邮箱和用户名
+          git config --local user.email "kenye201@outlook.com"
+          git config --local user.name "kenye201"
+          git config pull.rebase false
+      
+      - name: 运行脚本
+        run: |
+          echo "=== 开始运行 hotel.py ==="
+          # ！！！请再次确认仓库里确实有这个路径和文件
+          python py/Hotel/hotel.py
+          echo "=== 运行结束 ==="
+      
+      - name: 检查并提交变更
+        run: |
+          # 检查特定目录下是否有 .txt 文件更新
+          if git status --porcelain py/Hotel/ | grep -q .; then
+            echo "检测到文件变动，准备提交..."
+            git add py/Hotel/*.txt
+            git commit -m "自动更新: Hotel直播源 $(date +'%Y-%m-%d %H:%M:%S')"
+            git push origin main
+          else
+            echo "没有检测到任何变动，跳过提交。"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 显示结果
+        run: |
+          [ -f "py/Hotel/hotel.txt" ] && echo "hotel.txt 行数: $(wc -l < py/Hotel/hotel.txt)" || echo "未找到 hotel.txt"

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1综合.png" group-title="Hotel_218.19.109.116:808",CCTV1综合
+http://218.19.109.116:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2财经.png" group-title="Hotel_218.19.109.116:808",CCTV2财经
+http://218.19.109.116:808/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV4中文国际.png" group-title="Hotel_218.19.109.116:808",CCTV4中文国际
+http://218.19.109.116:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5+体育赛事.png" group-title="Hotel_218.19.109.116:808",CCTV5+体育赛事
+http://218.19.109.116:808/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV9纪录.png" group-title="Hotel_218.19.109.116:808",CCTV9纪录
+http://218.19.109.116:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://tb.yubo.qzz.io/logo/北京卫视.png" group-title="Hotel_218.19.109.116:808",北京卫视
+http://218.19.109.116:808/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://tb.yubo.qzz.io/logo/山东卫视.png" group-title="Hotel_218.19.109.116:808",山东卫视
+http://218.19.109.116:808/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://tb.yubo.qzz.io/logo/湖北卫视.png" group-title="Hotel_218.19.109.116:808",湖北卫视
+http://218.19.109.116:808/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://tb.yubo.qzz.io/logo/黑龙江卫视.png" group-title="Hotel_218.19.109.116:808",黑龙江卫视
+http://218.19.109.116:808/hls/16/index.m3u8

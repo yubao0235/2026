@@ -1,0 +1,5 @@
+四川频道,#genre#
+康巴卫视,http://183.221.211.20:808/hls/58/index.m3u8
+四川科教,http://183.221.211.20:808/hls/54/index.m3u8
+康巴卫视,http://171.217.136.128:10001/hls/28/index.m3u8
+四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0

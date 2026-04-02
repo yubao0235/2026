@@ -1,0 +1,505 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="北京联通1",CCTV1
+http://brucex.space:4022/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="北京联通1",CCTV10
+http://brucex.space:4022/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="北京联通1",CCTV10
+http://brucex.space:4022/rtp/239.3.1.86:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="北京联通1",CCTV11
+http://brucex.space:4022/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="北京联通1",CCTV12
+http://brucex.space:4022/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="北京联通1",CCTV13
+http://brucex.space:4022/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="北京联通1",CCTV14
+http://brucex.space:4022/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="北京联通1",CCTV15
+http://brucex.space:4022/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV164.png" group-title="北京联通1",CCTV164
+http://brucex.space:4022/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="北京联通1",CCTV17
+http://brucex.space:4022/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="北京联通1",CCTV2
+http://brucex.space:4022/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="北京联通1",CCTV3
+http://brucex.space:4022/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="北京联通1",CCTV3
+http://brucex.space:4022/rtp/239.3.1.193:8012
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="北京联通1",CCTV4
+http://brucex.space:4022/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="北京联通1",CCTV4
+http://brucex.space:4022/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="北京联通1",CCTV4
+http://brucex.space:4022/rtp/239.3.1.214:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="北京联通1",CCTV5
+http://brucex.space:4022/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="北京联通1",CCTV5
+http://brucex.space:4022/rtp/239.3.1.89:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="北京联通1",CCTV5+
+http://brucex.space:4022/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="北京联通1",CCTV6
+http://brucex.space:4022/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="北京联通1",CCTV7
+http://brucex.space:4022/rtp/239.3.1.61:8104
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="北京联通1",CCTV8
+http://brucex.space:4022/rtp/239.3.1.175:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="北京联通1",CCTV8
+http://brucex.space:4022/rtp/239.3.1.85:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="北京联通1",CCTV9
+http://brucex.space:4022/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="北京联通1",东方卫视
+http://brucex.space:4022/rtp/239.3.1.136:8032
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视4K.png" group-title="北京联通1",东方卫视4K
+http://brucex.space:4022/rtp/239.3.1.119:3006
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="北京联通1",北京卫视
+http://brucex.space:4022/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="北京联通1",北京卫视4K
+http://brucex.space:4022/rtp/239.3.1.140:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="北京联通1",北京卫视4K
+http://brucex.space:4022/rtp/239.3.1.139:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="北京联通1",江苏卫视
+http://brucex.space:4022/rtp/239.3.1.135:8028
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视4K.png" group-title="北京联通1",江苏卫视4K
+http://brucex.space:4022/rtp/239.3.1.113:3003
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="北京联通1",浙江卫视
+http://brucex.space:4022/rtp/239.3.1.137:8036
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视4K.png" group-title="北京联通1",浙江卫视4K
+http://brucex.space:4022/rtp/239.3.1.114:3004
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="北京联通1",深圳卫视
+http://brucex.space:4022/rtp/239.3.1.134:8020
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视4K.png" group-title="北京联通1",深圳卫视4K
+http://brucex.space:4022/rtp/239.3.1.202:2000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视.png" group-title="北京联通1",湖北卫视
+http://brucex.space:4022/rtp/239.3.1.138:8044
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="北京联通1",湖南卫视
+http://brucex.space:4022/rtp/239.3.1.132:8012
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视4K.png" group-title="北京联通1",湖南卫视4K
+http://brucex.space:4022/rtp/239.3.1.112:3002
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="北京联通1",CETV1
+http://brucex.space:4022/rtp/239.3.1.57:8152
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2.png" group-title="北京联通1",CETV2
+http://brucex.space:4022/rtp/239.3.1.54:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4.png" group-title="北京联通1",CETV4
+http://brucex.space:4022/rtp/239.3.1.56:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="北京联通1",CGTN
+http://brucex.space:4022/rtp/239.3.1.215:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN俄语.png" group-title="北京联通1",CGTN俄语
+http://brucex.space:4022/rtp/239.3.1.220:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语.png" group-title="北京联通1",CGTN法语
+http://brucex.space:4022/rtp/239.3.1.218:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN纪录.png" group-title="北京联通1",CGTN纪录
+http://brucex.space:4022/rtp/239.3.1.216:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语.png" group-title="北京联通1",CGTN西语
+http://brucex.space:4022/rtp/239.3.1.217:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN阿语.png" group-title="北京联通1",CGTN阿语
+http://brucex.space:4022/rtp/239.3.1.219:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV光影.png" group-title="北京联通1",IPTV光影
+http://brucex.space:4022/rtp/239.3.1.84:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV军事.png" group-title="北京联通1",IPTV军事
+http://brucex.space:4022/rtp/239.3.1.76:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV军旅剧场.png" group-title="北京联通1",IPTV军旅剧场
+http://brucex.space:4022/rtp/239.3.1.69:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV军旅剧场.png" group-title="北京联通1",IPTV军旅剧场
+http://brucex.space:4022/rtp/239.3.1.68:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV动作影院.png" group-title="北京联通1",IPTV动作影院
+http://brucex.space:4022/rtp/239.3.1.92:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV动画.png" group-title="北京联通1",IPTV动画
+http://brucex.space:4022/rtp/239.3.1.80:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV喜剧剧场.png" group-title="北京联通1",IPTV喜剧剧场
+http://brucex.space:4022/rtp/239.3.1.91:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV国学.png" group-title="北京联通1",IPTV国学
+http://brucex.space:4022/rtp/239.3.1.77:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV地理.png" group-title="北京联通1",IPTV地理
+http://brucex.space:4022/rtp/239.3.1.71:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV墨宝.png" group-title="北京联通1",IPTV墨宝
+http://brucex.space:4022/rtp/239.3.1.83:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV好学生.png" group-title="北京联通1",IPTV好学生
+http://brucex.space:4022/rtp/239.3.1.81:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV家庭影院.png" group-title="北京联通1",IPTV家庭影院
+http://brucex.space:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV少儿动画.png" group-title="北京联通1",IPTV少儿动画
+http://brucex.space:4022/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV影视.png" group-title="北京联通1",IPTV影视
+http://brucex.space:4022/rtp/239.3.1.88:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV戏曲.png" group-title="北京联通1",IPTV戏曲
+http://brucex.space:4022/rtp/239.3.1.78:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV早教.png" group-title="北京联通1",IPTV早教
+http://brucex.space:4022/rtp/239.3.1.79:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV星影.png" group-title="北京联通1",IPTV星影
+http://brucex.space:4022/rtp/239.3.1.94:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV武侠剧场.png" group-title="北京联通1",IPTV武侠剧场
+http://brucex.space:4022/rtp/239.3.1.90:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV武术.png" group-title="北京联通1",IPTV武术
+http://brucex.space:4022/rtp/239.3.1.87:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV热播剧场.png" group-title="北京联通1",IPTV热播剧场
+http://brucex.space:4022/rtp/239.3.1.194:9020
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV精选.png" group-title="北京联通1",IPTV精选
+http://brucex.space:4022/rtp/239.3.1.74:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV经典电影.png" group-title="北京联通1",IPTV经典电影
+http://brucex.space:4022/rtp/239.3.1.195:9024
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV美人.png" group-title="北京联通1",IPTV美人
+http://brucex.space:4022/rtp/239.3.1.73:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV美妆.png" group-title="北京联通1",IPTV美妆
+http://brucex.space:4022/rtp/239.3.1.72:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV解密.png" group-title="北京联通1",IPTV解密
+http://brucex.space:4022/rtp/239.3.1.75:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV都市剧场.png" group-title="北京联通1",IPTV都市剧场
+http://brucex.space:4022/rtp/239.3.1.67:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV鉴赏.png" group-title="北京联通1",IPTV鉴赏
+http://brucex.space:4022/rtp/239.3.1.82:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV音乐现场.png" group-title="北京联通1",IPTV音乐现场
+http://brucex.space:4022/rtp/239.3.1.70:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV魅力时尚.png" group-title="北京联通1",IPTV魅力时尚
+http://brucex.space:4022/rtp/239.3.1.196:9012
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视.png" group-title="北京联通1",东南卫视
+http://brucex.space:4022/rtp/239.3.1.156:8148
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国交通.png" group-title="北京联通1",中国交通
+http://brucex.space:4022/rtp/239.3.1.188:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京体育休闲.png" group-title="北京联通1",北京体育休闲
+http://brucex.space:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京国际.png" group-title="北京联通1",北京国际
+http://brucex.space:4022/rtp/239.3.1.235:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京密云.png" group-title="北京联通1",北京密云
+http://brucex.space:4022/rtp/239.3.1.154:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京影视.png" group-title="北京联通1",北京影视
+http://brucex.space:4022/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京房山.png" group-title="北京联通1",北京房山
+http://brucex.space:4022/rtp/239.3.1.96:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京文艺.png" group-title="北京联通1",北京文艺
+http://brucex.space:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京新闻.png" group-title="北京联通1",北京新闻
+http://brucex.space:4022/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京朝阳.png" group-title="北京联通1",北京朝阳
+http://brucex.space:4022/rtp/239.3.1.163:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京生活.png" group-title="北京联通1",北京生活
+http://brucex.space:4022/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京纪实科教.png" group-title="北京联通1",北京纪实科教
+http://brucex.space:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京财经.png" group-title="北京联通1",北京财经
+http://brucex.space:4022/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京通州.png" group-title="北京联通1",北京通州
+http://brucex.space:4022/rtp/239.3.1.221:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京门头沟.png" group-title="北京联通1",北京门头沟
+http://brucex.space:4022/rtp/239.3.1.59:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿.png" group-title="北京联通1",卡酷少儿
+http://brucex.space:4022/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视.png" group-title="北京联通1",吉林卫视
+http://brucex.space:4022/rtp/239.3.1.240:8172
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通.png" group-title="北京联通1",嘉佳卡通
+http://brucex.space:4022/rtp/239.3.1.147:9268
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视4K.png" group-title="北京联通1",四川卫视4K
+http://brucex.space:4022/rtp/239.3.1.131:3001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视.png" group-title="北京联通1",天津卫视
+http://brucex.space:4022/rtp/239.3.1.141:1234
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视.png" group-title="北京联通1",安徽卫视
+http://brucex.space:4022/rtp/239.3.1.211:8064
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="北京联通1",山东卫视
+http://brucex.space:4022/rtp/239.3.1.209:8052
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视4K.png" group-title="北京联通1",山东卫视4K
+http://brucex.space:4022/rtp/239.3.1.144:3005
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东教育卫视.png" group-title="北京联通1",山东教育卫视
+http://brucex.space:4022/rtp/239.3.1.52:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="北京联通1",广东卫视
+http://brucex.space:4022/rtp/239.3.1.142:8048
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视4K.png" group-title="北京联通1",广东卫视4K
+http://brucex.space:4022/rtp/239.3.1.203:2000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/快乐垂钓.png" group-title="北京联通1",快乐垂钓
+http://brucex.space:4022/rtp/239.3.1.164:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视.png" group-title="北京联通1",江西卫视
+http://brucex.space:4022/rtp/239.3.1.123:8164
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视.png" group-title="北京联通1",河北卫视
+http://brucex.space:4022/rtp/239.3.1.148:8072
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视.png" group-title="北京联通1",河南卫视
+http://brucex.space:4022/rtp/239.3.1.50:8184
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘BABY.png" group-title="北京联通1",淘BABY
+http://brucex.space:4022/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘剧场.png" group-title="北京联通1",淘剧场
+http://brucex.space:4022/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘娱乐.png" group-title="北京联通1",淘娱乐
+http://brucex.space:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘电影.png" group-title="北京联通1",淘电影
+http://brucex.space:4022/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱上4K.png" group-title="北京联通1",爱上4K
+http://brucex.space:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩广场舞.png" group-title="北京联通1",睛彩广场舞
+http://brucex.space:4022/rtp/239.3.1.128:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩竞技.png" group-title="北京联通1",睛彩竞技
+http://brucex.space:4022/rtp/239.3.1.125:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩篮球.png" group-title="北京联通1",睛彩篮球
+http://brucex.space:4022/rtp/239.3.1.126:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩青少.png" group-title="北京联通1",睛彩青少
+http://brucex.space:4022/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/聚鲨环球精选.png" group-title="北京联通1",聚鲨环球精选
+http://brucex.space:4022/rtp/239.3.1.160:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/聚鲨环球精选.png" group-title="北京联通1",聚鲨环球精选
+http://brucex.space:4022/rtp/239.3.1.179:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/茶频道.png" group-title="北京联通1",茶频道
+http://brucex.space:4022/rtp/239.3.1.165:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/萌宠TV.png" group-title="北京联通1",萌宠TV
+http://brucex.space:4022/rtp/239.3.1.102:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/西藏卫视.png" group-title="北京联通1",西藏卫视
+http://brucex.space:4022/rtp/239.3.1.166:8188
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视.png" group-title="北京联通1",贵州卫视
+http://brucex.space:4022/rtp/239.3.1.149:8076
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视.png" group-title="北京联通1",辽宁卫视
+http://brucex.space:4022/rtp/239.3.1.210:8056
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视.png" group-title="北京联通1",重庆卫视
+http://brucex.space:4022/rtp/239.3.1.122:8160
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通.png" group-title="北京联通1",金鹰卡通
+http://brucex.space:4022/rtp/239.3.1.51:9252
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="北京联通1",金鹰纪实
+http://brucex.space:4022/rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视.png" group-title="北京联通1",黑龙江卫视
+http://brucex.space:4022/rtp/239.3.1.133:8016
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="北京联通2",CCTV1
+http://www.brucex.space:4022/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="北京联通2",CCTV10
+http://www.brucex.space:4022/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="北京联通2",CCTV10
+http://www.brucex.space:4022/rtp/239.3.1.86:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="北京联通2",CCTV11
+http://www.brucex.space:4022/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="北京联通2",CCTV12
+http://www.brucex.space:4022/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="北京联通2",CCTV13
+http://www.brucex.space:4022/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="北京联通2",CCTV14
+http://www.brucex.space:4022/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="北京联通2",CCTV15
+http://www.brucex.space:4022/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV164.png" group-title="北京联通2",CCTV164
+http://www.brucex.space:4022/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="北京联通2",CCTV17
+http://www.brucex.space:4022/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="北京联通2",CCTV2
+http://www.brucex.space:4022/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="北京联通2",CCTV3
+http://www.brucex.space:4022/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="北京联通2",CCTV3
+http://www.brucex.space:4022/rtp/239.3.1.193:8012
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="北京联通2",CCTV4
+http://www.brucex.space:4022/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="北京联通2",CCTV4
+http://www.brucex.space:4022/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="北京联通2",CCTV4
+http://www.brucex.space:4022/rtp/239.3.1.214:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="北京联通2",CCTV5
+http://www.brucex.space:4022/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="北京联通2",CCTV5
+http://www.brucex.space:4022/rtp/239.3.1.89:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="北京联通2",CCTV5+
+http://www.brucex.space:4022/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="北京联通2",CCTV6
+http://www.brucex.space:4022/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="北京联通2",CCTV7
+http://www.brucex.space:4022/rtp/239.3.1.61:8104
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="北京联通2",CCTV8
+http://www.brucex.space:4022/rtp/239.3.1.175:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="北京联通2",CCTV8
+http://www.brucex.space:4022/rtp/239.3.1.85:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="北京联通2",CCTV9
+http://www.brucex.space:4022/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="北京联通2",东方卫视
+http://www.brucex.space:4022/rtp/239.3.1.136:8032
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视4K.png" group-title="北京联通2",东方卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.119:3006
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="北京联通2",北京卫视
+http://www.brucex.space:4022/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="北京联通2",北京卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.140:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="北京联通2",北京卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.139:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="北京联通2",江苏卫视
+http://www.brucex.space:4022/rtp/239.3.1.135:8028
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视4K.png" group-title="北京联通2",江苏卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.113:3003
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="北京联通2",浙江卫视
+http://www.brucex.space:4022/rtp/239.3.1.137:8036
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视4K.png" group-title="北京联通2",浙江卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.114:3004
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="北京联通2",深圳卫视
+http://www.brucex.space:4022/rtp/239.3.1.134:8020
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视4K.png" group-title="北京联通2",深圳卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.202:2000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视.png" group-title="北京联通2",湖北卫视
+http://www.brucex.space:4022/rtp/239.3.1.138:8044
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="北京联通2",湖南卫视
+http://www.brucex.space:4022/rtp/239.3.1.132:8012
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视4K.png" group-title="北京联通2",湖南卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.112:3002
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="北京联通2",CETV1
+http://www.brucex.space:4022/rtp/239.3.1.57:8152
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2.png" group-title="北京联通2",CETV2
+http://www.brucex.space:4022/rtp/239.3.1.54:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4.png" group-title="北京联通2",CETV4
+http://www.brucex.space:4022/rtp/239.3.1.56:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="北京联通2",CGTN
+http://www.brucex.space:4022/rtp/239.3.1.215:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN俄语.png" group-title="北京联通2",CGTN俄语
+http://www.brucex.space:4022/rtp/239.3.1.220:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语.png" group-title="北京联通2",CGTN法语
+http://www.brucex.space:4022/rtp/239.3.1.218:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN纪录.png" group-title="北京联通2",CGTN纪录
+http://www.brucex.space:4022/rtp/239.3.1.216:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语.png" group-title="北京联通2",CGTN西语
+http://www.brucex.space:4022/rtp/239.3.1.217:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN阿语.png" group-title="北京联通2",CGTN阿语
+http://www.brucex.space:4022/rtp/239.3.1.219:4220
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV光影.png" group-title="北京联通2",IPTV光影
+http://www.brucex.space:4022/rtp/239.3.1.84:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV军事.png" group-title="北京联通2",IPTV军事
+http://www.brucex.space:4022/rtp/239.3.1.76:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV军旅剧场.png" group-title="北京联通2",IPTV军旅剧场
+http://www.brucex.space:4022/rtp/239.3.1.69:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV军旅剧场.png" group-title="北京联通2",IPTV军旅剧场
+http://www.brucex.space:4022/rtp/239.3.1.68:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV动作影院.png" group-title="北京联通2",IPTV动作影院
+http://www.brucex.space:4022/rtp/239.3.1.92:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV动画.png" group-title="北京联通2",IPTV动画
+http://www.brucex.space:4022/rtp/239.3.1.80:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV喜剧剧场.png" group-title="北京联通2",IPTV喜剧剧场
+http://www.brucex.space:4022/rtp/239.3.1.91:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV国学.png" group-title="北京联通2",IPTV国学
+http://www.brucex.space:4022/rtp/239.3.1.77:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV地理.png" group-title="北京联通2",IPTV地理
+http://www.brucex.space:4022/rtp/239.3.1.71:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV墨宝.png" group-title="北京联通2",IPTV墨宝
+http://www.brucex.space:4022/rtp/239.3.1.83:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV好学生.png" group-title="北京联通2",IPTV好学生
+http://www.brucex.space:4022/rtp/239.3.1.81:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV家庭影院.png" group-title="北京联通2",IPTV家庭影院
+http://www.brucex.space:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV少儿动画.png" group-title="北京联通2",IPTV少儿动画
+http://www.brucex.space:4022/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV影视.png" group-title="北京联通2",IPTV影视
+http://www.brucex.space:4022/rtp/239.3.1.88:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV戏曲.png" group-title="北京联通2",IPTV戏曲
+http://www.brucex.space:4022/rtp/239.3.1.78:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV早教.png" group-title="北京联通2",IPTV早教
+http://www.brucex.space:4022/rtp/239.3.1.79:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV星影.png" group-title="北京联通2",IPTV星影
+http://www.brucex.space:4022/rtp/239.3.1.94:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV武侠剧场.png" group-title="北京联通2",IPTV武侠剧场
+http://www.brucex.space:4022/rtp/239.3.1.90:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV武术.png" group-title="北京联通2",IPTV武术
+http://www.brucex.space:4022/rtp/239.3.1.87:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV热播剧场.png" group-title="北京联通2",IPTV热播剧场
+http://www.brucex.space:4022/rtp/239.3.1.194:9020
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV精选.png" group-title="北京联通2",IPTV精选
+http://www.brucex.space:4022/rtp/239.3.1.74:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV经典电影.png" group-title="北京联通2",IPTV经典电影
+http://www.brucex.space:4022/rtp/239.3.1.195:9024
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV美人.png" group-title="北京联通2",IPTV美人
+http://www.brucex.space:4022/rtp/239.3.1.73:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV美妆.png" group-title="北京联通2",IPTV美妆
+http://www.brucex.space:4022/rtp/239.3.1.72:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV解密.png" group-title="北京联通2",IPTV解密
+http://www.brucex.space:4022/rtp/239.3.1.75:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV都市剧场.png" group-title="北京联通2",IPTV都市剧场
+http://www.brucex.space:4022/rtp/239.3.1.67:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV鉴赏.png" group-title="北京联通2",IPTV鉴赏
+http://www.brucex.space:4022/rtp/239.3.1.82:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV音乐现场.png" group-title="北京联通2",IPTV音乐现场
+http://www.brucex.space:4022/rtp/239.3.1.70:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IPTV魅力时尚.png" group-title="北京联通2",IPTV魅力时尚
+http://www.brucex.space:4022/rtp/239.3.1.196:9012
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视.png" group-title="北京联通2",东南卫视
+http://www.brucex.space:4022/rtp/239.3.1.156:8148
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国交通.png" group-title="北京联通2",中国交通
+http://www.brucex.space:4022/rtp/239.3.1.188:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京体育休闲.png" group-title="北京联通2",北京体育休闲
+http://www.brucex.space:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京国际.png" group-title="北京联通2",北京国际
+http://www.brucex.space:4022/rtp/239.3.1.235:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京密云.png" group-title="北京联通2",北京密云
+http://www.brucex.space:4022/rtp/239.3.1.154:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京影视.png" group-title="北京联通2",北京影视
+http://www.brucex.space:4022/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京房山.png" group-title="北京联通2",北京房山
+http://www.brucex.space:4022/rtp/239.3.1.96:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京文艺.png" group-title="北京联通2",北京文艺
+http://www.brucex.space:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京新闻.png" group-title="北京联通2",北京新闻
+http://www.brucex.space:4022/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京朝阳.png" group-title="北京联通2",北京朝阳
+http://www.brucex.space:4022/rtp/239.3.1.163:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京生活.png" group-title="北京联通2",北京生活
+http://www.brucex.space:4022/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京纪实科教.png" group-title="北京联通2",北京纪实科教
+http://www.brucex.space:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京财经.png" group-title="北京联通2",北京财经
+http://www.brucex.space:4022/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京通州.png" group-title="北京联通2",北京通州
+http://www.brucex.space:4022/rtp/239.3.1.221:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京门头沟.png" group-title="北京联通2",北京门头沟
+http://www.brucex.space:4022/rtp/239.3.1.59:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿.png" group-title="北京联通2",卡酷少儿
+http://www.brucex.space:4022/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视.png" group-title="北京联通2",吉林卫视
+http://www.brucex.space:4022/rtp/239.3.1.240:8172
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通.png" group-title="北京联通2",嘉佳卡通
+http://www.brucex.space:4022/rtp/239.3.1.147:9268
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视4K.png" group-title="北京联通2",四川卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.131:3001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视.png" group-title="北京联通2",天津卫视
+http://www.brucex.space:4022/rtp/239.3.1.141:1234
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视.png" group-title="北京联通2",安徽卫视
+http://www.brucex.space:4022/rtp/239.3.1.211:8064
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="北京联通2",山东卫视
+http://www.brucex.space:4022/rtp/239.3.1.209:8052
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视4K.png" group-title="北京联通2",山东卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.144:3005
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东教育卫视.png" group-title="北京联通2",山东教育卫视
+http://www.brucex.space:4022/rtp/239.3.1.52:4120
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="北京联通2",广东卫视
+http://www.brucex.space:4022/rtp/239.3.1.142:8048
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视4K.png" group-title="北京联通2",广东卫视4K
+http://www.brucex.space:4022/rtp/239.3.1.203:2000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/快乐垂钓.png" group-title="北京联通2",快乐垂钓
+http://www.brucex.space:4022/rtp/239.3.1.164:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视.png" group-title="北京联通2",江西卫视
+http://www.brucex.space:4022/rtp/239.3.1.123:8164
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视.png" group-title="北京联通2",河北卫视
+http://www.brucex.space:4022/rtp/239.3.1.148:8072
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视.png" group-title="北京联通2",河南卫视
+http://www.brucex.space:4022/rtp/239.3.1.50:8184
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘BABY.png" group-title="北京联通2",淘BABY
+http://www.brucex.space:4022/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘剧场.png" group-title="北京联通2",淘剧场
+http://www.brucex.space:4022/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘娱乐.png" group-title="北京联通2",淘娱乐
+http://www.brucex.space:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/淘电影.png" group-title="北京联通2",淘电影
+http://www.brucex.space:4022/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱上4K.png" group-title="北京联通2",爱上4K
+http://www.brucex.space:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩广场舞.png" group-title="北京联通2",睛彩广场舞
+http://www.brucex.space:4022/rtp/239.3.1.128:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩竞技.png" group-title="北京联通2",睛彩竞技
+http://www.brucex.space:4022/rtp/239.3.1.125:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩篮球.png" group-title="北京联通2",睛彩篮球
+http://www.brucex.space:4022/rtp/239.3.1.126:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/睛彩青少.png" group-title="北京联通2",睛彩青少
+http://www.brucex.space:4022/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/聚鲨环球精选.png" group-title="北京联通2",聚鲨环球精选
+http://www.brucex.space:4022/rtp/239.3.1.160:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/聚鲨环球精选.png" group-title="北京联通2",聚鲨环球精选
+http://www.brucex.space:4022/rtp/239.3.1.179:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/茶频道.png" group-title="北京联通2",茶频道
+http://www.brucex.space:4022/rtp/239.3.1.165:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/萌宠TV.png" group-title="北京联通2",萌宠TV
+http://www.brucex.space:4022/rtp/239.3.1.102:8001
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/西藏卫视.png" group-title="北京联通2",西藏卫视
+http://www.brucex.space:4022/rtp/239.3.1.166:8188
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视.png" group-title="北京联通2",贵州卫视
+http://www.brucex.space:4022/rtp/239.3.1.149:8076
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视.png" group-title="北京联通2",辽宁卫视
+http://www.brucex.space:4022/rtp/239.3.1.210:8056
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视.png" group-title="北京联通2",重庆卫视
+http://www.brucex.space:4022/rtp/239.3.1.122:8160
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通.png" group-title="北京联通2",金鹰卡通
+http://www.brucex.space:4022/rtp/239.3.1.51:9252
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="北京联通2",金鹰纪实
+http://www.brucex.space:4022/rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视.png" group-title="北京联通2",黑龙江卫视
+http://www.brucex.space:4022/rtp/239.3.1.133:8016

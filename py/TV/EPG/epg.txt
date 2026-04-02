@@ -1,0 +1,8 @@
+# 这是EPG订阅列表，用于生成M3U结果频道菜单信息
+# This is the EPG subscription list used to generate M3U result channel menu information
+
+https://m3u.ibert.me/epg/51zmt.xml
+https://kenyu.ggff.net/https://raw.githubusercontent.com/qunhui201/iptv-api/refs/heads/master/output/epg/epg.gz
+https://kenyu.ggff.net/https://raw.githubusercontent.com/hjpwyb/tv21/refs/heads/main/epg/112114.xml
+http://php.beo.qzz.io/t.xml.gz
+https://raw.githubusercontent.com/fanmingming/live/main/e.xml

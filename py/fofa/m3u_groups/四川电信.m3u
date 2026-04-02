@@ -1,0 +1,2257 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信1",CCTV1
+http://222.208.147.86:8888/rtp/239.94.0.1:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信1",CCTV1
+http://222.208.147.86:8888/rtp/239.94.2.34:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信1",CCTV1
+http://222.208.147.86:8888/rtp/239.94.1.18:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信1",CCTV1
+http://222.208.147.86:8888/rtp/239.94.1.151:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信1",CCTV1
+http://222.208.147.86:8888/rtp/239.94.0.31:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信1",CCTV1
+http://222.208.147.86:8888/rtp/239.94.2.69:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信1",CCTV1
+http://222.208.147.86:8888/rtp/239.94.2.146:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="四川电信1",CCTV10
+http://222.208.147.86:8888/rtp/239.94.0.10:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="四川电信1",CCTV10
+http://222.208.147.86:8888/rtp/239.94.2.31:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="四川电信1",CCTV10
+http://222.208.147.86:8888/rtp/239.94.2.155:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="四川电信1",CCTV11
+http://222.208.147.86:8888/rtp/239.94.0.11:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="四川电信1",CCTV11
+http://222.208.147.86:8888/rtp/239.94.0.36:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="四川电信1",CCTV11
+http://222.208.147.86:8888/rtp/239.94.2.156:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="四川电信1",CCTV12
+http://222.208.147.86:8888/rtp/239.94.0.12:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="四川电信1",CCTV12
+http://222.208.147.86:8888/rtp/239.94.2.157:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="四川电信1",CCTV13
+http://222.208.147.86:8888/rtp/239.94.0.13:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="四川电信1",CCTV13
+http://222.208.147.86:8888/rtp/239.94.0.37:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="四川电信1",CCTV13
+http://222.208.147.86:8888/rtp/239.94.2.158:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="四川电信1",CCTV14
+http://222.208.147.86:8888/rtp/239.94.0.14:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="四川电信1",CCTV14
+http://222.208.147.86:8888/rtp/239.94.2.159:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="四川电信1",CCTV15
+http://222.208.147.86:8888/rtp/239.94.0.15:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="四川电信1",CCTV15
+http://222.208.147.86:8888/rtp/239.94.0.38:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="四川电信1",CCTV15
+http://222.208.147.86:8888/rtp/239.94.2.160:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="四川电信1",CCTV17
+http://222.208.147.86:8888/rtp/239.94.0.39:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="四川电信1",CCTV17
+http://222.208.147.86:8888/rtp/239.94.0.17:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="四川电信1",CCTV17
+http://222.208.147.86:8888/rtp/239.94.2.161:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信1",CCTV2
+http://222.208.147.86:8888/rtp/239.94.2.70:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信1",CCTV2
+http://222.208.147.86:8888/rtp/239.94.0.2:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信1",CCTV2
+http://222.208.147.86:8888/rtp/239.94.2.35:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信1",CCTV2
+http://222.208.147.86:8888/rtp/239.94.2.147:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="四川电信1",CCTV3
+http://222.208.147.86:8888/rtp/239.94.0.32:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="四川电信1",CCTV3
+http://222.208.147.86:8888/rtp/239.94.0.3:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="四川电信1",CCTV3
+http://222.208.147.86:8888/rtp/239.94.2.148:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信1",CCTV4
+http://222.208.147.86:8888/rtp/239.94.0.20:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信1",CCTV4
+http://222.208.147.86:8888/rtp/239.94.0.4:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信1",CCTV4
+http://222.208.147.86:8888/rtp/239.94.2.149:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信1",CCTV4
+http://222.208.147.86:8888/rtp/239.94.2.163:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信1",CCTV5
+http://222.208.147.86:8888/rtp/239.94.0.33:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信1",CCTV5
+http://222.208.147.86:8888/rtp/239.94.2.30:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信1",CCTV5
+http://222.208.147.86:8888/rtp/239.94.0.5:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信1",CCTV5
+http://222.208.147.86:8888/rtp/239.94.2.150:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="四川电信1",CCTV5+
+http://222.208.147.86:8888/rtp/239.94.0.19:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="四川电信1",CCTV5+
+http://222.208.147.86:8888/rtp/239.94.0.23:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="四川电信1",CCTV5+
+http://222.208.147.86:8888/rtp/239.94.2.162:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信1",CCTV6
+http://222.208.147.86:8888/rtp/239.94.0.6:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信1",CCTV6
+http://222.208.147.86:8888/rtp/239.94.2.33:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信1",CCTV6
+http://222.208.147.86:8888/rtp/239.94.0.34:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信1",CCTV6
+http://222.208.147.86:8888/rtp/239.94.2.151:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="四川电信1",CCTV7
+http://222.208.147.86:8888/rtp/239.94.0.7:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="四川电信1",CCTV7
+http://222.208.147.86:8888/rtp/239.94.2.152:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信1",CCTV8
+http://222.208.147.86:8888/rtp/239.94.0.8:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信1",CCTV8
+http://222.208.147.86:8888/rtp/239.94.0.35:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信1",CCTV8
+http://222.208.147.86:8888/rtp/239.94.2.29:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信1",CCTV8
+http://222.208.147.86:8888/rtp/239.94.2.153:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="四川电信1",CCTV9
+http://222.208.147.86:8888/rtp/239.94.2.32:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="四川电信1",CCTV9
+http://222.208.147.86:8888/rtp/239.94.0.9:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="四川电信1",CCTV9
+http://222.208.147.86:8888/rtp/239.94.2.154:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="四川电信1",东方卫视
+http://222.208.147.86:8888/rtp/239.94.0.64:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视4K.png" group-title="四川电信1",东方卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.119:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视SD.png" group-title="四川电信1",东方卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.170:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="四川电信1",北京卫视
+http://222.208.147.86:8888/rtp/239.94.0.65:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="四川电信1",北京卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.111:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="四川电信1",北京卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.112:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视SD.png" group-title="四川电信1",北京卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.171:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="四川电信1",江苏卫视
+http://222.208.147.86:8888/rtp/239.94.0.62:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视4K.png" group-title="四川电信1",江苏卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.117:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视SD.png" group-title="四川电信1",江苏卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.168:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="四川电信1",浙江卫视
+http://222.208.147.86:8888/rtp/239.94.0.63:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视4K.png" group-title="四川电信1",浙江卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.118:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视SD.png" group-title="四川电信1",浙江卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.169:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="四川电信1",深圳卫视
+http://222.208.147.86:8888/rtp/239.94.0.66:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视4K.png" group-title="四川电信1",深圳卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.113:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视SD.png" group-title="四川电信1",深圳卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.172:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视.png" group-title="四川电信1",湖北卫视
+http://222.208.147.86:8888/rtp/239.94.0.84:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视SD.png" group-title="四川电信1",湖北卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.190:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="四川电信1",湖南卫视
+http://222.208.147.86:8888/rtp/239.94.0.61:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视4K.png" group-title="四川电信1",湖南卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.116:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视SD.png" group-title="四川电信1",湖南卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.167:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K乐享.png" group-title="四川电信1",4K乐享
+http://222.208.147.86:8888/rtp/239.94.1.162:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K少儿.png" group-title="四川电信1",4K少儿
+http://222.208.147.86:8888/rtp/239.94.1.70:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K纪实.png" group-title="四川电信1",4K纪实
+http://222.208.147.86:8888/rtp/239.94.1.69:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K视界.png" group-title="四川电信1",4K视界
+http://222.208.147.86:8888/rtp/239.94.1.60:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/BESTV.png" group-title="四川电信1",BESTV
+http://222.208.147.86:8888/rtp/239.94.2.57:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="四川电信1",CETV1
+http://222.208.147.86:8888/rtp/239.94.1.2:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1SD.png" group-title="四川电信1",CETV1SD
+http://222.208.147.86:8888/rtp/239.94.2.224:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2SD.png" group-title="四川电信1",CETV2SD
+http://222.208.147.86:8888/rtp/239.94.1.19:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2SD.png" group-title="四川电信1",CETV2SD
+http://222.208.147.86:8888/rtp/239.94.2.228:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4.png" group-title="四川电信1",CETV4
+http://222.208.147.86:8888/rtp/239.94.1.20:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4SD.png" group-title="四川电信1",CETV4SD
+http://222.208.147.86:8888/rtp/239.94.2.229:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="四川电信1",CGTN
+http://222.208.147.86:8888/rtp/239.94.0.22:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="四川电信1",CGTN
+http://222.208.147.86:8888/rtp/239.94.0.40:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTNSD.png" group-title="四川电信1",CGTNSD
+http://222.208.147.86:8888/rtp/239.94.2.164:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语.png" group-title="四川电信1",CGTN法语
+http://222.208.147.86:8888/rtp/239.94.1.62:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语.png" group-title="四川电信1",CGTN法语
+http://222.208.147.86:8888/rtp/239.94.1.66:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语SD.png" group-title="四川电信1",CGTN法语SD
+http://222.208.147.86:8888/rtp/239.94.2.238:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语.png" group-title="四川电信1",CGTN西语
+http://222.208.147.86:8888/rtp/239.94.1.61:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语.png" group-title="四川电信1",CGTN西语
+http://222.208.147.86:8888/rtp/239.94.1.65:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语SD.png" group-title="四川电信1",CGTN西语SD
+http://222.208.147.86:8888/rtp/239.94.2.237:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHANNELVSD.png" group-title="四川电信1",CHANNELVSD
+http://222.208.147.86:8888/rtp/239.94.2.55:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHANNELVSD.png" group-title="四川电信1",CHANNELVSD
+http://222.208.147.86:8888/rtp/239.94.2.56:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC动作电影.png" group-title="四川电信1",CHC动作电影
+http://222.208.147.86:8888/rtp/239.94.1.175:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC家庭影院.png" group-title="四川电信1",CHC家庭影院
+http://222.208.147.86:8888/rtp/239.94.1.173:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC影迷电影.png" group-title="四川电信1",CHC影迷电影
+http://222.208.147.86:8888/rtp/239.94.1.174:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱体育.png" group-title="四川电信1",IHOT爱体育
+http://222.208.147.86:8888/rtp/239.94.1.143:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱动漫.png" group-title="四川电信1",IHOT爱动漫
+http://222.208.147.86:8888/rtp/239.94.1.141:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱历史.png" group-title="四川电信1",IHOT爱历史
+http://222.208.147.86:8888/rtp/239.94.1.135:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱喜剧.png" group-title="四川电信1",IHOT爱喜剧
+http://222.208.147.86:8888/rtp/239.94.1.129:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱喜剧.png" group-title="四川电信1",IHOT爱喜剧
+http://222.208.147.86:8888/rtp/239.94.2.71:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱奇谈.png" group-title="四川电信1",IHOT爱奇谈
+http://222.208.147.86:8888/rtp/239.94.1.130:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱幼教.png" group-title="四川电信1",IHOT爱幼教
+http://222.208.147.86:8888/rtp/239.94.1.139:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱悬疑.png" group-title="四川电信1",IHOT爱悬疑
+http://222.208.147.86:8888/rtp/239.94.1.136:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱旅行.png" group-title="四川电信1",IHOT爱旅行
+http://222.208.147.86:8888/rtp/239.94.1.137:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱浪漫.png" group-title="四川电信1",IHOT爱浪漫
+http://222.208.147.86:8888/rtp/239.94.1.128:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱玩具.png" group-title="四川电信1",IHOT爱玩具
+http://222.208.147.86:8888/rtp/239.94.1.140:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱科幻.png" group-title="四川电信1",IHOT爱科幻
+http://222.208.147.86:8888/rtp/239.94.1.131:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱谍战.png" group-title="四川电信1",IHOT爱谍战
+http://222.208.147.86:8888/rtp/239.94.1.134:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱赛车.png" group-title="四川电信1",IHOT爱赛车
+http://222.208.147.86:8888/rtp/239.94.1.144:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱院线.png" group-title="四川电信1",IHOT爱院线
+http://222.208.147.86:8888/rtp/239.94.1.132:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/I成都.png" group-title="四川电信1",I成都
+http://222.208.147.86:8888/rtp/239.94.2.1:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/三沙卫视SD.png" group-title="四川电信1",三沙卫视SD
+http://222.208.147.86:8888/rtp/239.94.0.105:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/三沙卫视SD.png" group-title="四川电信1",三沙卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.211:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视.png" group-title="四川电信1",东南卫视
+http://222.208.147.86:8888/rtp/239.94.0.80:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视SD.png" group-title="四川电信1",东南卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.186:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方财经.png" group-title="四川电信1",东方财经
+http://222.208.147.86:8888/rtp/239.94.1.59:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方财经SD.png" group-title="四川电信1",东方财经SD
+http://222.208.147.86:8888/rtp/239.94.2.236:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国交通.png" group-title="四川电信1",中国交通
+http://222.208.147.86:8888/rtp/239.94.0.87:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国交通SD.png" group-title="四川电信1",中国交通SD
+http://222.208.147.86:8888/rtp/239.94.2.193:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国天气.png" group-title="四川电信1",中国天气
+http://222.208.147.86:8888/rtp/239.94.1.167:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐山文旅生活.png" group-title="四川电信1",乐山文旅生活
+http://222.208.147.86:8888/rtp/239.94.0.173:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐山综合.png" group-title="四川电信1",乐山综合
+http://222.208.147.86:8888/rtp/239.94.0.162:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐游.png" group-title="四川电信1",乐游
+http://222.208.147.86:8888/rtp/239.94.1.164:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐龄学堂.png" group-title="四川电信1",乐龄学堂
+http://222.208.147.86:8888/rtp/239.94.1.155:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面15.png" group-title="四川电信1",九画面15
+http://222.208.147.86:8888/rtp/239.94.2.138:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视1.png" group-title="四川电信1",九画面卫视1
+http://222.208.147.86:8888/rtp/239.94.2.133:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视1.png" group-title="四川电信1",九画面卫视1
+http://222.208.147.86:8888/rtp/239.94.2.132:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视2.png" group-title="四川电信1",九画面卫视2
+http://222.208.147.86:8888/rtp/239.94.2.134:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视2.png" group-title="四川电信1",九画面卫视2
+http://222.208.147.86:8888/rtp/239.94.2.135:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视3.png" group-title="四川电信1",九画面卫视3
+http://222.208.147.86:8888/rtp/239.94.2.136:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视3.png" group-title="四川电信1",九画面卫视3
+http://222.208.147.86:8888/rtp/239.94.2.137:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视4.png" group-title="四川电信1",九画面卫视4
+http://222.208.147.86:8888/rtp/239.94.2.141:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视4.png" group-title="四川电信1",九画面卫视4
+http://222.208.147.86:8888/rtp/239.94.2.139:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视5.png" group-title="四川电信1",九画面卫视5
+http://222.208.147.86:8888/rtp/239.94.2.140:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面四川1.png" group-title="四川电信1",九画面四川1
+http://222.208.147.86:8888/rtp/239.94.2.131:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面四川2.png" group-title="四川电信1",九画面四川2
+http://222.208.147.86:8888/rtp/239.94.2.130:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面央视1.png" group-title="四川电信1",九画面央视1
+http://222.208.147.86:8888/rtp/239.94.2.128:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面央视1.png" group-title="四川电信1",九画面央视1
+http://222.208.147.86:8888/rtp/239.94.2.73:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面央视2.png" group-title="四川电信1",九画面央视2
+http://222.208.147.86:8888/rtp/239.94.2.129:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/书法频道SD.png" group-title="四川电信1",书法频道SD
+http://222.208.147.86:8888/rtp/239.94.1.163:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云南卫视.png" group-title="四川电信1",云南卫视
+http://222.208.147.86:8888/rtp/239.94.0.90:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云南卫视SD.png" group-title="四川电信1",云南卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.196:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云看熊猫专区.png" group-title="四川电信1",云看熊猫专区
+http://222.208.147.86:8888/rtp/239.94.1.7:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/亲子趣学4K.png" group-title="四川电信1",亲子趣学4K
+http://222.208.147.86:8888/rtp/239.94.1.156:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/优漫卡通SD.png" group-title="四川电信1",优漫卡通SD
+http://222.208.147.86:8888/rtp/239.94.1.31:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/优漫卡通SD.png" group-title="四川电信1",优漫卡通SD
+http://222.208.147.86:8888/rtp/239.94.2.232:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/健康养生.png" group-title="四川电信1",健康养生
+http://222.208.147.86:8888/rtp/239.94.1.27:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/全球大片.png" group-title="四川电信1",全球大片
+http://222.208.147.86:8888/rtp/239.94.1.24:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/兵团卫视.png" group-title="四川电信1",兵团卫视
+http://222.208.147.86:8888/rtp/239.94.0.102:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内江科教生活.png" group-title="四川电信1",内江科教生活
+http://222.208.147.86:8888/rtp/239.94.0.181:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内江综合.png" group-title="四川电信1",内江综合
+http://222.208.147.86:8888/rtp/239.94.0.164:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内蒙古卫视SD.png" group-title="四川电信1",内蒙古卫视SD
+http://222.208.147.86:8888/rtp/239.94.0.94:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内蒙古卫视SD.png" group-title="四川电信1",内蒙古卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.200:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/军事专区.png" group-title="四川电信1",军事专区
+http://222.208.147.86:8888/rtp/239.94.1.52:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凉山彝语综合.png" group-title="四川电信1",凉山彝语综合
+http://222.208.147.86:8888/rtp/239.94.0.175:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凉山综合.png" group-title="四川电信1",凉山综合
+http://222.208.147.86:8888/rtp/239.94.0.171:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰中文.png" group-title="四川电信1",凤凰中文
+http://222.208.147.86:8888/rtp/239.94.2.51:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰中文.png" group-title="四川电信1",凤凰中文
+http://222.208.147.86:8888/rtp/239.94.2.52:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰资讯.png" group-title="四川电信1",凤凰资讯
+http://222.208.147.86:8888/rtp/239.94.2.49:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰资讯.png" group-title="四川电信1",凤凰资讯
+http://222.208.147.86:8888/rtp/239.94.2.50:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/动漫秀场.png" group-title="四川电信1",动漫秀场
+http://222.208.147.86:8888/rtp/239.94.1.171:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京纪实科教.png" group-title="四川电信1",北京纪实科教
+http://222.208.147.86:8888/rtp/239.94.0.109:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京纪实科教SD.png" group-title="四川电信1",北京纪实科教SD
+http://222.208.147.86:8888/rtp/239.94.2.215:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华语影院.png" group-title="四川电信1",华语影院
+http://222.208.147.86:8888/rtp/239.94.1.22:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿SD.png" group-title="四川电信1",卡酷少儿SD
+http://222.208.147.86:8888/rtp/239.94.1.29:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿SD.png" group-title="四川电信1",卡酷少儿SD
+http://222.208.147.86:8888/rtp/239.94.2.230:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/厦门卫视SD.png" group-title="四川电信1",厦门卫视SD
+http://222.208.147.86:8888/rtp/239.94.0.104:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/厦门卫视SD.png" group-title="四川电信1",厦门卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.210:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视.png" group-title="四川电信1",吉林卫视
+http://222.208.147.86:8888/rtp/239.94.0.91:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视SD.png" group-title="四川电信1",吉林卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.197:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通SD.png" group-title="四川电信1",嘉佳卡通SD
+http://222.208.147.86:8888/rtp/239.94.1.10:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通SD.png" group-title="四川电信1",嘉佳卡通SD
+http://222.208.147.86:8888/rtp/239.94.2.226:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村.png" group-title="四川电信1",四川乡村
+http://222.208.147.86:8888/rtp/239.94.0.77:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村.png" group-title="四川电信1",四川乡村
+http://222.208.147.86:8888/rtp/239.94.1.4:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村.png" group-title="四川电信1",四川乡村
+http://222.208.147.86:8888/rtp/239.94.1.8:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村SD.png" group-title="四川电信1",四川乡村SD
+http://222.208.147.86:8888/rtp/239.94.2.183:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视.png" group-title="四川电信1",四川卫视
+http://222.208.147.86:8888/rtp/239.94.0.60:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视.png" group-title="四川电信1",四川卫视
+http://222.208.147.86:8888/rtp/239.94.0.59:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视4K.png" group-title="四川电信1",四川卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.115:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视SD.png" group-title="四川电信1",四川卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.165:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川妇女儿童.png" group-title="四川电信1",四川妇女儿童
+http://222.208.147.86:8888/rtp/239.94.0.75:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川妇女儿童SD.png" group-title="四川电信1",四川妇女儿童SD
+http://222.208.147.86:8888/rtp/239.94.2.181:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川影视文艺.png" group-title="四川电信1",四川影视文艺
+http://222.208.147.86:8888/rtp/239.94.0.73:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川影视文艺SD.png" group-title="四川电信1",四川影视文艺SD
+http://222.208.147.86:8888/rtp/239.94.2.179:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信1",四川文化旅游
+http://222.208.147.86:8888/rtp/239.94.0.71:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信1",四川文化旅游
+http://222.208.147.86:8888/rtp/239.94.1.11:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信1",四川文化旅游
+http://222.208.147.86:8888/rtp/239.94.1.5:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信1",四川文化旅游
+http://222.208.147.86:8888/rtp/239.94.1.6:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游SD.png" group-title="四川电信1",四川文化旅游SD
+http://222.208.147.86:8888/rtp/239.94.2.177:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻.png" group-title="四川电信1",四川新闻
+http://222.208.147.86:8888/rtp/239.94.0.72:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻.png" group-title="四川电信1",四川新闻
+http://222.208.147.86:8888/rtp/239.94.1.3:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻.png" group-title="四川电信1",四川新闻
+http://222.208.147.86:8888/rtp/239.94.2.26:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻SD.png" group-title="四川电信1",四川新闻SD
+http://222.208.147.86:8888/rtp/239.94.2.178:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川星空购物.png" group-title="四川电信1",四川星空购物
+http://222.208.147.86:8888/rtp/239.94.0.74:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川星空购物SD.png" group-title="四川电信1",四川星空购物SD
+http://222.208.147.86:8888/rtp/239.94.2.180:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川科教.png" group-title="四川电信1",四川科教
+http://222.208.147.86:8888/rtp/239.94.0.76:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川科教SD.png" group-title="四川电信1",四川科教SD
+http://222.208.147.86:8888/rtp/239.94.2.182:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川经济.png" group-title="四川电信1",四川经济
+http://222.208.147.86:8888/rtp/239.94.0.70:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川经济SD.png" group-title="四川电信1",四川经济SD
+http://222.208.147.86:8888/rtp/239.94.2.176:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四海钓鱼.png" group-title="四川电信1",四海钓鱼
+http://222.208.147.86:8888/rtp/239.94.1.168:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/地理专区.png" group-title="四川电信1",地理专区
+http://222.208.147.86:8888/rtp/239.94.1.54:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/墨宝专区.png" group-title="四川电信1",墨宝专区
+http://222.208.147.86:8888/rtp/239.94.1.51:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱四川专区.png" group-title="四川电信1",大爱四川专区
+http://222.208.147.86:8888/rtp/239.94.1.12:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱四川专区.png" group-title="四川电信1",大爱四川专区
+http://222.208.147.86:8888/rtp/239.94.1.13:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱四川专区.png" group-title="四川电信1",大爱四川专区
+http://222.208.147.86:8888/rtp/239.94.1.14:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱时尚专区.png" group-title="四川电信1",大爱时尚专区
+http://222.208.147.86:8888/rtp/239.94.1.15:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天元围棋.png" group-title="四川电信1",天元围棋
+http://222.208.147.86:8888/rtp/239.94.1.152:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视.png" group-title="四川电信1",天津卫视
+http://222.208.147.86:8888/rtp/239.94.0.68:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视SD.png" group-title="四川电信1",天津卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.174:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天翼高清4K.png" group-title="四川电信1",天翼高清4K
+http://222.208.147.86:8888/rtp/239.94.2.40:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天翼高清4K.png" group-title="四川电信1",天翼高清4K
+http://222.208.147.86:8888/rtp/239.94.2.41:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宁夏卫视.png" group-title="四川电信1",宁夏卫视
+http://222.208.147.86:8888/rtp/239.94.0.96:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安多卫视SD.png" group-title="四川电信1",安多卫视SD
+http://222.208.147.86:8888/rtp/239.94.0.110:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安多卫视SD.png" group-title="四川电信1",安多卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.216:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视.png" group-title="四川电信1",安徽卫视
+http://222.208.147.86:8888/rtp/239.94.0.85:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视SD.png" group-title="四川电信1",安徽卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.191:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宜宾公共.png" group-title="四川电信1",宜宾公共
+http://222.208.147.86:8888/rtp/239.94.0.172:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宜宾综合.png" group-title="四川电信1",宜宾综合
+http://222.208.147.86:8888/rtp/239.94.0.161:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宝宝动画.png" group-title="四川电信1",宝宝动画
+http://222.208.147.86:8888/rtp/239.94.1.32:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/家庭理财SD.png" group-title="四川电信1",家庭理财SD
+http://222.208.147.86:8888/rtp/239.94.1.50:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/导视.png" group-title="四川电信1",导视
+http://222.208.147.86:8888/rtp/239.94.1.64:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/导视专区SD.png" group-title="四川电信1",导视专区SD
+http://222.208.147.86:8888/rtp/239.94.1.55:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/少儿动画.png" group-title="四川电信1",少儿动画
+http://222.208.147.86:8888/rtp/239.94.1.33:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/少儿天地.png" group-title="四川电信1",少儿天地
+http://222.208.147.86:8888/rtp/239.94.1.138:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="四川电信1",山东卫视
+http://222.208.147.86:8888/rtp/239.94.0.69:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视4K.png" group-title="四川电信1",山东卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.120:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视SD.png" group-title="四川电信1",山东卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.175:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东教育卫视SD.png" group-title="四川电信1",山东教育卫视SD
+http://222.208.147.86:8888/rtp/239.94.0.106:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东教育卫视SD.png" group-title="四川电信1",山东教育卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.212:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山西卫视SD.png" group-title="四川电信1",山西卫视SD
+http://222.208.147.86:8888/rtp/239.94.0.93:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山西卫视SD.png" group-title="四川电信1",山西卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.199:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/峨眉电影.png" group-title="四川电信1",峨眉电影
+http://222.208.147.86:8888/rtp/239.94.0.103:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/峨眉电影SD.png" group-title="四川电信1",峨眉电影SD
+http://222.208.147.86:8888/rtp/239.94.2.209:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="四川电信1",广东卫视
+http://222.208.147.86:8888/rtp/239.94.0.67:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视4K.png" group-title="四川电信1",广东卫视4K
+http://222.208.147.86:8888/rtp/239.94.0.114:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视SD.png" group-title="四川电信1",广东卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.173:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广元文化生活.png" group-title="四川电信1",广元文化生活
+http://222.208.147.86:8888/rtp/239.94.0.179:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广元综合.png" group-title="四川电信1",广元综合
+http://222.208.147.86:8888/rtp/239.94.0.167:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广西卫视.png" group-title="四川电信1",广西卫视
+http://222.208.147.86:8888/rtp/239.94.0.89:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广西卫视SD.png" group-title="四川电信1",广西卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.195:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/康巴卫视.png" group-title="四川电信1",康巴卫视
+http://222.208.147.86:8888/rtp/239.94.0.78:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/康巴卫视SD.png" group-title="四川电信1",康巴卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.184:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/延边卫视SD.png" group-title="四川电信1",延边卫视SD
+http://222.208.147.86:8888/rtp/239.94.0.107:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/延边卫视SD.png" group-title="四川电信1",延边卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.213:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/德阳文旅科教.png" group-title="四川电信1",德阳文旅科教
+http://222.208.147.86:8888/rtp/239.94.0.165:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/德阳新闻综合.png" group-title="四川电信1",德阳新闻综合
+http://222.208.147.86:8888/rtp/239.94.0.176:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/快乐垂钓.png" group-title="四川电信1",快乐垂钓
+http://222.208.147.86:8888/rtp/239.94.1.153:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/戏曲专区.png" group-title="四川电信1",戏曲专区
+http://222.208.147.86:8888/rtp/239.94.1.38:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/戏曲精选.png" group-title="四川电信1",戏曲精选
+http://222.208.147.86:8888/rtp/239.94.1.37:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都公共.png" group-title="四川电信1",成都公共
+http://222.208.147.86:8888/rtp/239.94.0.158:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都公共SD.png" group-title="四川电信1",成都公共SD
+http://222.208.147.86:8888/rtp/239.94.2.220:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都少儿.png" group-title="四川电信1",成都少儿
+http://222.208.147.86:8888/rtp/239.94.0.159:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都少儿SD.png" group-title="四川电信1",成都少儿SD
+http://222.208.147.86:8888/rtp/239.94.2.221:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都影视.png" group-title="四川电信1",成都影视
+http://222.208.147.86:8888/rtp/239.94.0.157:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都影视SD.png" group-title="四川电信1",成都影视SD
+http://222.208.147.86:8888/rtp/239.94.2.219:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都经济.png" group-title="四川电信1",成都经济
+http://222.208.147.86:8888/rtp/239.94.0.155:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都经济SD.png" group-title="四川电信1",成都经济SD
+http://222.208.147.86:8888/rtp/239.94.2.217:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都综合.png" group-title="四川电信1",成都综合
+http://222.208.147.86:8888/rtp/239.94.0.154:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都综合SD.png" group-title="四川电信1",成都综合SD
+http://222.208.147.86:8888/rtp/239.94.2.166:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都蓉城先锋.png" group-title="四川电信1",成都蓉城先锋
+http://222.208.147.86:8888/rtp/239.94.0.160:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都蓉城先锋.png" group-title="四川电信1",成都蓉城先锋
+http://222.208.147.86:8888/rtp/239.94.1.57:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都蓉城先锋SD.png" group-title="四川电信1",成都蓉城先锋SD
+http://222.208.147.86:8888/rtp/239.94.2.222:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都都市.png" group-title="四川电信1",成都都市
+http://222.208.147.86:8888/rtp/239.94.0.156:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都都市SD.png" group-title="四川电信1",成都都市SD
+http://222.208.147.86:8888/rtp/239.94.2.218:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/攀枝花综合.png" group-title="四川电信1",攀枝花综合
+http://222.208.147.86:8888/rtp/239.94.0.168:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/收视指南专区.png" group-title="四川电信1",收视指南专区
+http://222.208.147.86:8888/rtp/239.94.1.56:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/新疆卫视.png" group-title="四川电信1",新疆卫视
+http://222.208.147.86:8888/rtp/239.94.0.98:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/旅游卫视SD.png" group-title="四川电信1",旅游卫视SD
+http://222.208.147.86:8888/rtp/239.94.0.100:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/旅游卫视SD.png" group-title="四川电信1",旅游卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.206:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/星光院线.png" group-title="四川电信1",星光院线
+http://222.208.147.86:8888/rtp/239.94.1.23:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/星空卫视SD.png" group-title="四川电信1",星空卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.54:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/星空卫视SD.png" group-title="四川电信1",星空卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.53:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未知节目.png" group-title="四川电信1",未知节目
+http://222.208.147.86:8888/rtp/239.94.2.72:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未知节目SD.png" group-title="四川电信1",未知节目SD
+http://222.208.147.86:8888/rtp/239.94.2.3:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未知节目SD.png" group-title="四川电信1",未知节目SD
+http://222.208.147.86:8888/rtp/239.94.2.5:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未识别.png" group-title="四川电信1",未识别
+http://222.208.147.86:8888/rtp/239.94.2.25:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/来钓鱼吧.png" group-title="四川电信1",来钓鱼吧
+http://222.208.147.86:8888/rtp/239.94.1.148:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/梨园频道.png" group-title="四川电信1",梨园频道
+http://222.208.147.86:8888/rtp/239.94.1.16:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/梨园频道SD.png" group-title="四川电信1",梨园频道SD
+http://222.208.147.86:8888/rtp/239.94.2.227:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/欢笑剧场4K.png" group-title="四川电信1",欢笑剧场4K
+http://222.208.147.86:8888/rtp/239.94.1.176:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/求索记录.png" group-title="四川电信1",求索记录
+http://222.208.147.86:8888/rtp/239.94.1.142:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视.png" group-title="四川电信1",江西卫视
+http://222.208.147.86:8888/rtp/239.94.0.79:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视SD.png" group-title="四川电信1",江西卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.185:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视.png" group-title="四川电信1",河北卫视
+http://222.208.147.86:8888/rtp/239.94.0.86:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视SD.png" group-title="四川电信1",河北卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.192:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视.png" group-title="四川电信1",河南卫视
+http://222.208.147.86:8888/rtp/239.94.0.88:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视SD.png" group-title="四川电信1",河南卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.194:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/法治天地.png" group-title="四川电信1",法治天地
+http://222.208.147.86:8888/rtp/239.94.1.166:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/泸州科教生活.png" group-title="四川电信1",泸州科教生活
+http://222.208.147.86:8888/rtp/239.94.0.182:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/泸州综合.png" group-title="四川电信1",泸州综合
+http://222.208.147.86:8888/rtp/239.94.0.163:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/游戏风云.png" group-title="四川电信1",游戏风云
+http://222.208.147.86:8888/rtp/239.94.1.46:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/游戏风云SD.png" group-title="四川电信1",游戏风云SD
+http://222.208.147.86:8888/rtp/239.94.2.235:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/热播剧场.png" group-title="四川电信1",热播剧场
+http://222.208.147.86:8888/rtp/239.94.1.25:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/热门剧场.png" group-title="四川电信1",热门剧场
+http://222.208.147.86:8888/rtp/239.94.1.26:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/热门综艺.png" group-title="四川电信1",热门综艺
+http://222.208.147.86:8888/rtp/239.94.1.35:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱上4K.png" group-title="四川电信1",爱上4K
+http://222.208.147.86:8888/rtp/239.94.0.21:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱乐山.png" group-title="四川电信1",爱乐山
+http://222.208.147.86:8888/rtp/239.94.2.2:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱体育.png" group-title="四川电信1",爱体育
+http://222.208.147.86:8888/rtp/239.94.1.44:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱宠宠物.png" group-title="四川电信1",爱宠宠物
+http://222.208.147.86:8888/rtp/239.94.1.145:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱生活.png" group-title="四川电信1",爱生活
+http://222.208.147.86:8888/rtp/239.94.1.41:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/环球旅游.png" group-title="四川电信1",环球旅游
+http://222.208.147.86:8888/rtp/239.94.1.147:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/甘肃卫视.png" group-title="四川电信1",甘肃卫视
+http://222.208.147.86:8888/rtp/239.94.0.99:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/甘肃卫视SD.png" group-title="四川电信1",甘肃卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.205:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/生活时尚.png" group-title="四川电信1",生活时尚
+http://222.208.147.86:8888/rtp/239.94.1.146:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/生活时尚SD.png" group-title="四川电信1",生活时尚SD
+http://222.208.147.86:8888/rtp/239.94.1.40:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/生活时尚SD.png" group-title="四川电信1",生活时尚SD
+http://222.208.147.86:8888/rtp/239.94.2.233:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/电信5G.png" group-title="四川电信1",电信5G
+http://222.208.147.86:8888/rtp/239.94.2.4:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/电竞天堂.png" group-title="四川电信1",电竞天堂
+http://222.208.147.86:8888/rtp/239.94.1.45:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/百变课堂.png" group-title="四川电信1",百变课堂
+http://222.208.147.86:8888/rtp/239.94.1.43:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室1.png" group-title="四川电信1",直播室1
+http://222.208.147.86:8888/rtp/239.94.2.11:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室2.png" group-title="四川电信1",直播室2
+http://222.208.147.86:8888/rtp/239.94.2.12:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室3.png" group-title="四川电信1",直播室3
+http://222.208.147.86:8888/rtp/239.94.2.13:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室3.png" group-title="四川电信1",直播室3
+http://222.208.147.86:8888/rtp/239.94.2.14:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室5.png" group-title="四川电信1",直播室5
+http://222.208.147.86:8888/rtp/239.94.2.15:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室6.png" group-title="四川电信1",直播室6
+http://222.208.147.86:8888/rtp/239.94.2.16:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室7.png" group-title="四川电信1",直播室7
+http://222.208.147.86:8888/rtp/239.94.2.17:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室8.png" group-title="四川电信1",直播室8
+http://222.208.147.86:8888/rtp/239.94.2.18:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/眉山文旅乡村.png" group-title="四川电信1",眉山文旅乡村
+http://222.208.147.86:8888/rtp/239.94.0.174:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/眉山综合.png" group-title="四川电信1",眉山综合
+http://222.208.147.86:8888/rtp/239.94.0.170:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/看天下精选.png" group-title="四川电信1",看天下精选
+http://222.208.147.86:8888/rtp/239.94.1.68:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/精彩导视.png" group-title="四川电信1",精彩导视
+http://222.208.147.86:8888/rtp/239.94.1.63:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/精彩影视.png" group-title="四川电信1",精彩影视
+http://222.208.147.86:8888/rtp/239.94.1.172:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/精彩推荐.png" group-title="四川电信1",精彩推荐
+http://222.208.147.86:8888/rtp/239.94.2.10:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/红色影院.png" group-title="四川电信1",红色影院
+http://222.208.147.86:8888/rtp/239.94.1.48:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/经典剧场.png" group-title="四川电信1",经典剧场
+http://222.208.147.86:8888/rtp/239.94.1.49:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/经典电影.png" group-title="四川电信1",经典电影
+http://222.208.147.86:8888/rtp/239.94.1.21:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/绚影4K.png" group-title="四川电信1",绚影4K
+http://222.208.147.86:8888/rtp/239.94.1.150:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/综艺咖秀.png" group-title="四川电信1",综艺咖秀
+http://222.208.147.86:8888/rtp/239.94.2.28:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/综艺咖秀.png" group-title="四川电信1",综艺咖秀
+http://222.208.147.86:8888/rtp/239.94.2.27:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/自贡文化生活.png" group-title="四川电信1",自贡文化生活
+http://222.208.147.86:8888/rtp/239.94.0.178:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/自贡综合.png" group-title="四川电信1",自贡综合
+http://222.208.147.86:8888/rtp/239.94.0.169:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/茶频道.png" group-title="四川电信1",茶频道
+http://222.208.147.86:8888/rtp/239.94.1.154:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/西藏卫视.png" group-title="四川电信1",西藏卫视
+http://222.208.147.86:8888/rtp/239.94.0.97:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/解密专区.png" group-title="四川电信1",解密专区
+http://222.208.147.86:8888/rtp/239.94.1.53:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/谍战剧场.png" group-title="四川电信1",谍战剧场
+http://222.208.147.86:8888/rtp/239.94.1.28:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/财富天下.png" group-title="四川电信1",财富天下
+http://222.208.147.86:8888/rtp/239.94.1.67:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/财富天下.png" group-title="四川电信1",财富天下
+http://222.208.147.86:8888/rtp/239.94.1.42:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/财富天下SD.png" group-title="四川电信1",财富天下SD
+http://222.208.147.86:8888/rtp/239.94.2.234:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视.png" group-title="四川电信1",贵州卫视
+http://222.208.147.86:8888/rtp/239.94.0.83:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视SD.png" group-title="四川电信1",贵州卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.189:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/资阳综合.png" group-title="四川电信1",资阳综合
+http://222.208.147.86:8888/rtp/239.94.0.183:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/足球专区.png" group-title="四川电信1",足球专区
+http://222.208.147.86:8888/rtp/239.94.1.47:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视.png" group-title="四川电信1",辽宁卫视
+http://222.208.147.86:8888/rtp/239.94.0.101:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视SD.png" group-title="四川电信1",辽宁卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.207:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/都市剧场.png" group-title="四川电信1",都市剧场
+http://222.208.147.86:8888/rtp/239.94.1.133:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视.png" group-title="四川电信1",重庆卫视
+http://222.208.147.86:8888/rtp/239.94.0.82:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视SD.png" group-title="四川电信1",重庆卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.188:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金色学堂.png" group-title="四川电信1",金色学堂
+http://222.208.147.86:8888/rtp/239.94.1.165:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通SD.png" group-title="四川电信1",金鹰卡通SD
+http://222.208.147.86:8888/rtp/239.94.1.30:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通SD.png" group-title="四川电信1",金鹰卡通SD
+http://222.208.147.86:8888/rtp/239.94.2.231:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="四川电信1",金鹰纪实
+http://222.208.147.86:8888/rtp/239.94.1.1:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实SD.png" group-title="四川电信1",金鹰纪实SD
+http://222.208.147.86:8888/rtp/239.94.2.223:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/陕西卫视.png" group-title="四川电信1",陕西卫视
+http://222.208.147.86:8888/rtp/239.94.0.92:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/陕西卫视SD.png" group-title="四川电信1",陕西卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.198:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/雅安文化生活.png" group-title="四川电信1",雅安文化生活
+http://222.208.147.86:8888/rtp/239.94.0.180:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/雅安综合.png" group-title="四川电信1",雅安综合
+http://222.208.147.86:8888/rtp/239.94.0.166:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青春动漫.png" group-title="四川电信1",青春动漫
+http://222.208.147.86:8888/rtp/239.94.1.34:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青海卫视SD.png" group-title="四川电信1",青海卫视SD
+http://222.208.147.86:8888/rtp/239.94.0.95:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青海卫视SD.png" group-title="四川电信1",青海卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.201:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/音乐现场.png" group-title="四川电信1",音乐现场
+http://222.208.147.86:8888/rtp/239.94.1.36:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景.png" group-title="四川电信1",风景
+http://222.208.147.86:8888/rtp/239.94.2.74:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景直播1.png" group-title="四川电信1",风景直播1
+http://222.208.147.86:8888/rtp/239.94.2.19:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景直播2.png" group-title="四川电信1",风景直播2
+http://222.208.147.86:8888/rtp/239.94.2.20:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景直播3.png" group-title="四川电信1",风景直播3
+http://222.208.147.86:8888/rtp/239.94.2.23:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/魅力时尚.png" group-title="四川电信1",魅力时尚
+http://222.208.147.86:8888/rtp/239.94.1.39:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/麻辣体育.png" group-title="四川电信1",麻辣体育
+http://222.208.147.86:8888/rtp/239.94.1.149:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视.png" group-title="四川电信1",黑龙江卫视
+http://222.208.147.86:8888/rtp/239.94.0.81:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视SD.png" group-title="四川电信1",黑龙江卫视SD
+http://222.208.147.86:8888/rtp/239.94.2.187:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信2",CCTV1
+http://171.213.162.125:66/rtp/239.94.0.1:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信2",CCTV1
+http://171.213.162.125:66/rtp/239.94.2.34:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信2",CCTV1
+http://171.213.162.125:66/rtp/239.94.1.18:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信2",CCTV1
+http://171.213.162.125:66/rtp/239.94.1.151:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信2",CCTV1
+http://171.213.162.125:66/rtp/239.94.0.31:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信2",CCTV1
+http://171.213.162.125:66/rtp/239.94.2.69:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信2",CCTV1
+http://171.213.162.125:66/rtp/239.94.2.146:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="四川电信2",CCTV10
+http://171.213.162.125:66/rtp/239.94.0.10:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="四川电信2",CCTV10
+http://171.213.162.125:66/rtp/239.94.2.31:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="四川电信2",CCTV10
+http://171.213.162.125:66/rtp/239.94.2.155:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="四川电信2",CCTV11
+http://171.213.162.125:66/rtp/239.94.0.11:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="四川电信2",CCTV11
+http://171.213.162.125:66/rtp/239.94.0.36:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="四川电信2",CCTV11
+http://171.213.162.125:66/rtp/239.94.2.156:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="四川电信2",CCTV12
+http://171.213.162.125:66/rtp/239.94.0.12:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="四川电信2",CCTV12
+http://171.213.162.125:66/rtp/239.94.2.157:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="四川电信2",CCTV13
+http://171.213.162.125:66/rtp/239.94.0.13:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="四川电信2",CCTV13
+http://171.213.162.125:66/rtp/239.94.0.37:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="四川电信2",CCTV13
+http://171.213.162.125:66/rtp/239.94.2.158:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="四川电信2",CCTV14
+http://171.213.162.125:66/rtp/239.94.0.14:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="四川电信2",CCTV14
+http://171.213.162.125:66/rtp/239.94.2.159:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="四川电信2",CCTV15
+http://171.213.162.125:66/rtp/239.94.0.15:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="四川电信2",CCTV15
+http://171.213.162.125:66/rtp/239.94.0.38:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="四川电信2",CCTV15
+http://171.213.162.125:66/rtp/239.94.2.160:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="四川电信2",CCTV17
+http://171.213.162.125:66/rtp/239.94.0.39:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="四川电信2",CCTV17
+http://171.213.162.125:66/rtp/239.94.0.17:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="四川电信2",CCTV17
+http://171.213.162.125:66/rtp/239.94.2.161:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信2",CCTV2
+http://171.213.162.125:66/rtp/239.94.2.70:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信2",CCTV2
+http://171.213.162.125:66/rtp/239.94.0.2:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信2",CCTV2
+http://171.213.162.125:66/rtp/239.94.2.35:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信2",CCTV2
+http://171.213.162.125:66/rtp/239.94.2.147:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="四川电信2",CCTV3
+http://171.213.162.125:66/rtp/239.94.0.32:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="四川电信2",CCTV3
+http://171.213.162.125:66/rtp/239.94.0.3:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="四川电信2",CCTV3
+http://171.213.162.125:66/rtp/239.94.2.148:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信2",CCTV4
+http://171.213.162.125:66/rtp/239.94.0.20:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信2",CCTV4
+http://171.213.162.125:66/rtp/239.94.0.4:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信2",CCTV4
+http://171.213.162.125:66/rtp/239.94.2.149:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信2",CCTV4
+http://171.213.162.125:66/rtp/239.94.2.163:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信2",CCTV5
+http://171.213.162.125:66/rtp/239.94.0.33:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信2",CCTV5
+http://171.213.162.125:66/rtp/239.94.2.30:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信2",CCTV5
+http://171.213.162.125:66/rtp/239.94.0.5:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信2",CCTV5
+http://171.213.162.125:66/rtp/239.94.2.150:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="四川电信2",CCTV5+
+http://171.213.162.125:66/rtp/239.94.0.19:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="四川电信2",CCTV5+
+http://171.213.162.125:66/rtp/239.94.0.23:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="四川电信2",CCTV5+
+http://171.213.162.125:66/rtp/239.94.2.162:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信2",CCTV6
+http://171.213.162.125:66/rtp/239.94.0.6:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信2",CCTV6
+http://171.213.162.125:66/rtp/239.94.2.33:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信2",CCTV6
+http://171.213.162.125:66/rtp/239.94.0.34:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信2",CCTV6
+http://171.213.162.125:66/rtp/239.94.2.151:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="四川电信2",CCTV7
+http://171.213.162.125:66/rtp/239.94.0.7:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="四川电信2",CCTV7
+http://171.213.162.125:66/rtp/239.94.2.152:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信2",CCTV8
+http://171.213.162.125:66/rtp/239.94.0.8:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信2",CCTV8
+http://171.213.162.125:66/rtp/239.94.0.35:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信2",CCTV8
+http://171.213.162.125:66/rtp/239.94.2.29:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信2",CCTV8
+http://171.213.162.125:66/rtp/239.94.2.153:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="四川电信2",CCTV9
+http://171.213.162.125:66/rtp/239.94.2.32:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="四川电信2",CCTV9
+http://171.213.162.125:66/rtp/239.94.0.9:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="四川电信2",CCTV9
+http://171.213.162.125:66/rtp/239.94.2.154:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="四川电信2",东方卫视
+http://171.213.162.125:66/rtp/239.94.0.64:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视4K.png" group-title="四川电信2",东方卫视4K
+http://171.213.162.125:66/rtp/239.94.0.119:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视SD.png" group-title="四川电信2",东方卫视SD
+http://171.213.162.125:66/rtp/239.94.2.170:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="四川电信2",北京卫视
+http://171.213.162.125:66/rtp/239.94.0.65:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="四川电信2",北京卫视4K
+http://171.213.162.125:66/rtp/239.94.0.111:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="四川电信2",北京卫视4K
+http://171.213.162.125:66/rtp/239.94.0.112:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视SD.png" group-title="四川电信2",北京卫视SD
+http://171.213.162.125:66/rtp/239.94.2.171:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="四川电信2",江苏卫视
+http://171.213.162.125:66/rtp/239.94.0.62:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视4K.png" group-title="四川电信2",江苏卫视4K
+http://171.213.162.125:66/rtp/239.94.0.117:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视SD.png" group-title="四川电信2",江苏卫视SD
+http://171.213.162.125:66/rtp/239.94.2.168:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="四川电信2",浙江卫视
+http://171.213.162.125:66/rtp/239.94.0.63:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视4K.png" group-title="四川电信2",浙江卫视4K
+http://171.213.162.125:66/rtp/239.94.0.118:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视SD.png" group-title="四川电信2",浙江卫视SD
+http://171.213.162.125:66/rtp/239.94.2.169:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="四川电信2",深圳卫视
+http://171.213.162.125:66/rtp/239.94.0.66:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视4K.png" group-title="四川电信2",深圳卫视4K
+http://171.213.162.125:66/rtp/239.94.0.113:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视SD.png" group-title="四川电信2",深圳卫视SD
+http://171.213.162.125:66/rtp/239.94.2.172:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视.png" group-title="四川电信2",湖北卫视
+http://171.213.162.125:66/rtp/239.94.0.84:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视SD.png" group-title="四川电信2",湖北卫视SD
+http://171.213.162.125:66/rtp/239.94.2.190:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="四川电信2",湖南卫视
+http://171.213.162.125:66/rtp/239.94.0.61:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视4K.png" group-title="四川电信2",湖南卫视4K
+http://171.213.162.125:66/rtp/239.94.0.116:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视SD.png" group-title="四川电信2",湖南卫视SD
+http://171.213.162.125:66/rtp/239.94.2.167:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K乐享.png" group-title="四川电信2",4K乐享
+http://171.213.162.125:66/rtp/239.94.1.162:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K少儿.png" group-title="四川电信2",4K少儿
+http://171.213.162.125:66/rtp/239.94.1.70:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K纪实.png" group-title="四川电信2",4K纪实
+http://171.213.162.125:66/rtp/239.94.1.69:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K视界.png" group-title="四川电信2",4K视界
+http://171.213.162.125:66/rtp/239.94.1.60:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/BESTV.png" group-title="四川电信2",BESTV
+http://171.213.162.125:66/rtp/239.94.2.57:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="四川电信2",CETV1
+http://171.213.162.125:66/rtp/239.94.1.2:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1SD.png" group-title="四川电信2",CETV1SD
+http://171.213.162.125:66/rtp/239.94.2.224:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2SD.png" group-title="四川电信2",CETV2SD
+http://171.213.162.125:66/rtp/239.94.1.19:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2SD.png" group-title="四川电信2",CETV2SD
+http://171.213.162.125:66/rtp/239.94.2.228:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4.png" group-title="四川电信2",CETV4
+http://171.213.162.125:66/rtp/239.94.1.20:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4SD.png" group-title="四川电信2",CETV4SD
+http://171.213.162.125:66/rtp/239.94.2.229:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="四川电信2",CGTN
+http://171.213.162.125:66/rtp/239.94.0.22:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="四川电信2",CGTN
+http://171.213.162.125:66/rtp/239.94.0.40:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTNSD.png" group-title="四川电信2",CGTNSD
+http://171.213.162.125:66/rtp/239.94.2.164:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语.png" group-title="四川电信2",CGTN法语
+http://171.213.162.125:66/rtp/239.94.1.62:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语.png" group-title="四川电信2",CGTN法语
+http://171.213.162.125:66/rtp/239.94.1.66:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语SD.png" group-title="四川电信2",CGTN法语SD
+http://171.213.162.125:66/rtp/239.94.2.238:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语.png" group-title="四川电信2",CGTN西语
+http://171.213.162.125:66/rtp/239.94.1.61:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语.png" group-title="四川电信2",CGTN西语
+http://171.213.162.125:66/rtp/239.94.1.65:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语SD.png" group-title="四川电信2",CGTN西语SD
+http://171.213.162.125:66/rtp/239.94.2.237:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHANNELVSD.png" group-title="四川电信2",CHANNELVSD
+http://171.213.162.125:66/rtp/239.94.2.55:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHANNELVSD.png" group-title="四川电信2",CHANNELVSD
+http://171.213.162.125:66/rtp/239.94.2.56:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC动作电影.png" group-title="四川电信2",CHC动作电影
+http://171.213.162.125:66/rtp/239.94.1.175:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC家庭影院.png" group-title="四川电信2",CHC家庭影院
+http://171.213.162.125:66/rtp/239.94.1.173:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC影迷电影.png" group-title="四川电信2",CHC影迷电影
+http://171.213.162.125:66/rtp/239.94.1.174:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱体育.png" group-title="四川电信2",IHOT爱体育
+http://171.213.162.125:66/rtp/239.94.1.143:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱动漫.png" group-title="四川电信2",IHOT爱动漫
+http://171.213.162.125:66/rtp/239.94.1.141:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱历史.png" group-title="四川电信2",IHOT爱历史
+http://171.213.162.125:66/rtp/239.94.1.135:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱喜剧.png" group-title="四川电信2",IHOT爱喜剧
+http://171.213.162.125:66/rtp/239.94.1.129:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱喜剧.png" group-title="四川电信2",IHOT爱喜剧
+http://171.213.162.125:66/rtp/239.94.2.71:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱奇谈.png" group-title="四川电信2",IHOT爱奇谈
+http://171.213.162.125:66/rtp/239.94.1.130:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱幼教.png" group-title="四川电信2",IHOT爱幼教
+http://171.213.162.125:66/rtp/239.94.1.139:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱悬疑.png" group-title="四川电信2",IHOT爱悬疑
+http://171.213.162.125:66/rtp/239.94.1.136:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱旅行.png" group-title="四川电信2",IHOT爱旅行
+http://171.213.162.125:66/rtp/239.94.1.137:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱浪漫.png" group-title="四川电信2",IHOT爱浪漫
+http://171.213.162.125:66/rtp/239.94.1.128:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱玩具.png" group-title="四川电信2",IHOT爱玩具
+http://171.213.162.125:66/rtp/239.94.1.140:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱科幻.png" group-title="四川电信2",IHOT爱科幻
+http://171.213.162.125:66/rtp/239.94.1.131:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱谍战.png" group-title="四川电信2",IHOT爱谍战
+http://171.213.162.125:66/rtp/239.94.1.134:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱赛车.png" group-title="四川电信2",IHOT爱赛车
+http://171.213.162.125:66/rtp/239.94.1.144:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱院线.png" group-title="四川电信2",IHOT爱院线
+http://171.213.162.125:66/rtp/239.94.1.132:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/I成都.png" group-title="四川电信2",I成都
+http://171.213.162.125:66/rtp/239.94.2.1:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/三沙卫视SD.png" group-title="四川电信2",三沙卫视SD
+http://171.213.162.125:66/rtp/239.94.0.105:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/三沙卫视SD.png" group-title="四川电信2",三沙卫视SD
+http://171.213.162.125:66/rtp/239.94.2.211:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视.png" group-title="四川电信2",东南卫视
+http://171.213.162.125:66/rtp/239.94.0.80:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视SD.png" group-title="四川电信2",东南卫视SD
+http://171.213.162.125:66/rtp/239.94.2.186:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方财经.png" group-title="四川电信2",东方财经
+http://171.213.162.125:66/rtp/239.94.1.59:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方财经SD.png" group-title="四川电信2",东方财经SD
+http://171.213.162.125:66/rtp/239.94.2.236:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国交通.png" group-title="四川电信2",中国交通
+http://171.213.162.125:66/rtp/239.94.0.87:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国交通SD.png" group-title="四川电信2",中国交通SD
+http://171.213.162.125:66/rtp/239.94.2.193:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国天气.png" group-title="四川电信2",中国天气
+http://171.213.162.125:66/rtp/239.94.1.167:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐山文旅生活.png" group-title="四川电信2",乐山文旅生活
+http://171.213.162.125:66/rtp/239.94.0.173:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐山综合.png" group-title="四川电信2",乐山综合
+http://171.213.162.125:66/rtp/239.94.0.162:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐游.png" group-title="四川电信2",乐游
+http://171.213.162.125:66/rtp/239.94.1.164:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐龄学堂.png" group-title="四川电信2",乐龄学堂
+http://171.213.162.125:66/rtp/239.94.1.155:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面15.png" group-title="四川电信2",九画面15
+http://171.213.162.125:66/rtp/239.94.2.138:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视1.png" group-title="四川电信2",九画面卫视1
+http://171.213.162.125:66/rtp/239.94.2.133:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视1.png" group-title="四川电信2",九画面卫视1
+http://171.213.162.125:66/rtp/239.94.2.132:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视2.png" group-title="四川电信2",九画面卫视2
+http://171.213.162.125:66/rtp/239.94.2.134:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视2.png" group-title="四川电信2",九画面卫视2
+http://171.213.162.125:66/rtp/239.94.2.135:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视3.png" group-title="四川电信2",九画面卫视3
+http://171.213.162.125:66/rtp/239.94.2.136:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视3.png" group-title="四川电信2",九画面卫视3
+http://171.213.162.125:66/rtp/239.94.2.137:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视4.png" group-title="四川电信2",九画面卫视4
+http://171.213.162.125:66/rtp/239.94.2.141:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视4.png" group-title="四川电信2",九画面卫视4
+http://171.213.162.125:66/rtp/239.94.2.139:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视5.png" group-title="四川电信2",九画面卫视5
+http://171.213.162.125:66/rtp/239.94.2.140:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面四川1.png" group-title="四川电信2",九画面四川1
+http://171.213.162.125:66/rtp/239.94.2.131:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面四川2.png" group-title="四川电信2",九画面四川2
+http://171.213.162.125:66/rtp/239.94.2.130:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面央视1.png" group-title="四川电信2",九画面央视1
+http://171.213.162.125:66/rtp/239.94.2.128:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面央视1.png" group-title="四川电信2",九画面央视1
+http://171.213.162.125:66/rtp/239.94.2.73:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面央视2.png" group-title="四川电信2",九画面央视2
+http://171.213.162.125:66/rtp/239.94.2.129:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/书法频道SD.png" group-title="四川电信2",书法频道SD
+http://171.213.162.125:66/rtp/239.94.1.163:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云南卫视.png" group-title="四川电信2",云南卫视
+http://171.213.162.125:66/rtp/239.94.0.90:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云南卫视SD.png" group-title="四川电信2",云南卫视SD
+http://171.213.162.125:66/rtp/239.94.2.196:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云看熊猫专区.png" group-title="四川电信2",云看熊猫专区
+http://171.213.162.125:66/rtp/239.94.1.7:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/亲子趣学4K.png" group-title="四川电信2",亲子趣学4K
+http://171.213.162.125:66/rtp/239.94.1.156:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/优漫卡通SD.png" group-title="四川电信2",优漫卡通SD
+http://171.213.162.125:66/rtp/239.94.1.31:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/优漫卡通SD.png" group-title="四川电信2",优漫卡通SD
+http://171.213.162.125:66/rtp/239.94.2.232:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/健康养生.png" group-title="四川电信2",健康养生
+http://171.213.162.125:66/rtp/239.94.1.27:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/全球大片.png" group-title="四川电信2",全球大片
+http://171.213.162.125:66/rtp/239.94.1.24:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/兵团卫视.png" group-title="四川电信2",兵团卫视
+http://171.213.162.125:66/rtp/239.94.0.102:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内江科教生活.png" group-title="四川电信2",内江科教生活
+http://171.213.162.125:66/rtp/239.94.0.181:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内江综合.png" group-title="四川电信2",内江综合
+http://171.213.162.125:66/rtp/239.94.0.164:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内蒙古卫视SD.png" group-title="四川电信2",内蒙古卫视SD
+http://171.213.162.125:66/rtp/239.94.0.94:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内蒙古卫视SD.png" group-title="四川电信2",内蒙古卫视SD
+http://171.213.162.125:66/rtp/239.94.2.200:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/军事专区.png" group-title="四川电信2",军事专区
+http://171.213.162.125:66/rtp/239.94.1.52:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凉山彝语综合.png" group-title="四川电信2",凉山彝语综合
+http://171.213.162.125:66/rtp/239.94.0.175:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凉山综合.png" group-title="四川电信2",凉山综合
+http://171.213.162.125:66/rtp/239.94.0.171:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰中文.png" group-title="四川电信2",凤凰中文
+http://171.213.162.125:66/rtp/239.94.2.51:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰中文.png" group-title="四川电信2",凤凰中文
+http://171.213.162.125:66/rtp/239.94.2.52:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰资讯.png" group-title="四川电信2",凤凰资讯
+http://171.213.162.125:66/rtp/239.94.2.49:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰资讯.png" group-title="四川电信2",凤凰资讯
+http://171.213.162.125:66/rtp/239.94.2.50:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/动漫秀场.png" group-title="四川电信2",动漫秀场
+http://171.213.162.125:66/rtp/239.94.1.171:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京纪实科教.png" group-title="四川电信2",北京纪实科教
+http://171.213.162.125:66/rtp/239.94.0.109:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京纪实科教SD.png" group-title="四川电信2",北京纪实科教SD
+http://171.213.162.125:66/rtp/239.94.2.215:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华语影院.png" group-title="四川电信2",华语影院
+http://171.213.162.125:66/rtp/239.94.1.22:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿SD.png" group-title="四川电信2",卡酷少儿SD
+http://171.213.162.125:66/rtp/239.94.1.29:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿SD.png" group-title="四川电信2",卡酷少儿SD
+http://171.213.162.125:66/rtp/239.94.2.230:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/厦门卫视SD.png" group-title="四川电信2",厦门卫视SD
+http://171.213.162.125:66/rtp/239.94.0.104:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/厦门卫视SD.png" group-title="四川电信2",厦门卫视SD
+http://171.213.162.125:66/rtp/239.94.2.210:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视.png" group-title="四川电信2",吉林卫视
+http://171.213.162.125:66/rtp/239.94.0.91:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视SD.png" group-title="四川电信2",吉林卫视SD
+http://171.213.162.125:66/rtp/239.94.2.197:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通SD.png" group-title="四川电信2",嘉佳卡通SD
+http://171.213.162.125:66/rtp/239.94.1.10:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通SD.png" group-title="四川电信2",嘉佳卡通SD
+http://171.213.162.125:66/rtp/239.94.2.226:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村.png" group-title="四川电信2",四川乡村
+http://171.213.162.125:66/rtp/239.94.0.77:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村.png" group-title="四川电信2",四川乡村
+http://171.213.162.125:66/rtp/239.94.1.4:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村.png" group-title="四川电信2",四川乡村
+http://171.213.162.125:66/rtp/239.94.1.8:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村SD.png" group-title="四川电信2",四川乡村SD
+http://171.213.162.125:66/rtp/239.94.2.183:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视.png" group-title="四川电信2",四川卫视
+http://171.213.162.125:66/rtp/239.94.0.60:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视.png" group-title="四川电信2",四川卫视
+http://171.213.162.125:66/rtp/239.94.0.59:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视4K.png" group-title="四川电信2",四川卫视4K
+http://171.213.162.125:66/rtp/239.94.0.115:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视SD.png" group-title="四川电信2",四川卫视SD
+http://171.213.162.125:66/rtp/239.94.2.165:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川妇女儿童.png" group-title="四川电信2",四川妇女儿童
+http://171.213.162.125:66/rtp/239.94.0.75:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川妇女儿童SD.png" group-title="四川电信2",四川妇女儿童SD
+http://171.213.162.125:66/rtp/239.94.2.181:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川影视文艺.png" group-title="四川电信2",四川影视文艺
+http://171.213.162.125:66/rtp/239.94.0.73:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川影视文艺SD.png" group-title="四川电信2",四川影视文艺SD
+http://171.213.162.125:66/rtp/239.94.2.179:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信2",四川文化旅游
+http://171.213.162.125:66/rtp/239.94.0.71:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信2",四川文化旅游
+http://171.213.162.125:66/rtp/239.94.1.11:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信2",四川文化旅游
+http://171.213.162.125:66/rtp/239.94.1.5:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信2",四川文化旅游
+http://171.213.162.125:66/rtp/239.94.1.6:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游SD.png" group-title="四川电信2",四川文化旅游SD
+http://171.213.162.125:66/rtp/239.94.2.177:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻.png" group-title="四川电信2",四川新闻
+http://171.213.162.125:66/rtp/239.94.0.72:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻.png" group-title="四川电信2",四川新闻
+http://171.213.162.125:66/rtp/239.94.1.3:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻.png" group-title="四川电信2",四川新闻
+http://171.213.162.125:66/rtp/239.94.2.26:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻SD.png" group-title="四川电信2",四川新闻SD
+http://171.213.162.125:66/rtp/239.94.2.178:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川星空购物.png" group-title="四川电信2",四川星空购物
+http://171.213.162.125:66/rtp/239.94.0.74:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川星空购物SD.png" group-title="四川电信2",四川星空购物SD
+http://171.213.162.125:66/rtp/239.94.2.180:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川科教.png" group-title="四川电信2",四川科教
+http://171.213.162.125:66/rtp/239.94.0.76:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川科教SD.png" group-title="四川电信2",四川科教SD
+http://171.213.162.125:66/rtp/239.94.2.182:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川经济.png" group-title="四川电信2",四川经济
+http://171.213.162.125:66/rtp/239.94.0.70:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川经济SD.png" group-title="四川电信2",四川经济SD
+http://171.213.162.125:66/rtp/239.94.2.176:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四海钓鱼.png" group-title="四川电信2",四海钓鱼
+http://171.213.162.125:66/rtp/239.94.1.168:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/地理专区.png" group-title="四川电信2",地理专区
+http://171.213.162.125:66/rtp/239.94.1.54:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/墨宝专区.png" group-title="四川电信2",墨宝专区
+http://171.213.162.125:66/rtp/239.94.1.51:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱四川专区.png" group-title="四川电信2",大爱四川专区
+http://171.213.162.125:66/rtp/239.94.1.12:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱四川专区.png" group-title="四川电信2",大爱四川专区
+http://171.213.162.125:66/rtp/239.94.1.13:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱四川专区.png" group-title="四川电信2",大爱四川专区
+http://171.213.162.125:66/rtp/239.94.1.14:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱时尚专区.png" group-title="四川电信2",大爱时尚专区
+http://171.213.162.125:66/rtp/239.94.1.15:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天元围棋.png" group-title="四川电信2",天元围棋
+http://171.213.162.125:66/rtp/239.94.1.152:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视.png" group-title="四川电信2",天津卫视
+http://171.213.162.125:66/rtp/239.94.0.68:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视SD.png" group-title="四川电信2",天津卫视SD
+http://171.213.162.125:66/rtp/239.94.2.174:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天翼高清4K.png" group-title="四川电信2",天翼高清4K
+http://171.213.162.125:66/rtp/239.94.2.40:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天翼高清4K.png" group-title="四川电信2",天翼高清4K
+http://171.213.162.125:66/rtp/239.94.2.41:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宁夏卫视.png" group-title="四川电信2",宁夏卫视
+http://171.213.162.125:66/rtp/239.94.0.96:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安多卫视SD.png" group-title="四川电信2",安多卫视SD
+http://171.213.162.125:66/rtp/239.94.0.110:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安多卫视SD.png" group-title="四川电信2",安多卫视SD
+http://171.213.162.125:66/rtp/239.94.2.216:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视.png" group-title="四川电信2",安徽卫视
+http://171.213.162.125:66/rtp/239.94.0.85:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视SD.png" group-title="四川电信2",安徽卫视SD
+http://171.213.162.125:66/rtp/239.94.2.191:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宜宾公共.png" group-title="四川电信2",宜宾公共
+http://171.213.162.125:66/rtp/239.94.0.172:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宜宾综合.png" group-title="四川电信2",宜宾综合
+http://171.213.162.125:66/rtp/239.94.0.161:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宝宝动画.png" group-title="四川电信2",宝宝动画
+http://171.213.162.125:66/rtp/239.94.1.32:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/家庭理财SD.png" group-title="四川电信2",家庭理财SD
+http://171.213.162.125:66/rtp/239.94.1.50:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/导视.png" group-title="四川电信2",导视
+http://171.213.162.125:66/rtp/239.94.1.64:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/导视专区SD.png" group-title="四川电信2",导视专区SD
+http://171.213.162.125:66/rtp/239.94.1.55:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/少儿动画.png" group-title="四川电信2",少儿动画
+http://171.213.162.125:66/rtp/239.94.1.33:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/少儿天地.png" group-title="四川电信2",少儿天地
+http://171.213.162.125:66/rtp/239.94.1.138:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="四川电信2",山东卫视
+http://171.213.162.125:66/rtp/239.94.0.69:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视4K.png" group-title="四川电信2",山东卫视4K
+http://171.213.162.125:66/rtp/239.94.0.120:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视SD.png" group-title="四川电信2",山东卫视SD
+http://171.213.162.125:66/rtp/239.94.2.175:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东教育卫视SD.png" group-title="四川电信2",山东教育卫视SD
+http://171.213.162.125:66/rtp/239.94.0.106:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东教育卫视SD.png" group-title="四川电信2",山东教育卫视SD
+http://171.213.162.125:66/rtp/239.94.2.212:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山西卫视SD.png" group-title="四川电信2",山西卫视SD
+http://171.213.162.125:66/rtp/239.94.0.93:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山西卫视SD.png" group-title="四川电信2",山西卫视SD
+http://171.213.162.125:66/rtp/239.94.2.199:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/峨眉电影.png" group-title="四川电信2",峨眉电影
+http://171.213.162.125:66/rtp/239.94.0.103:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/峨眉电影SD.png" group-title="四川电信2",峨眉电影SD
+http://171.213.162.125:66/rtp/239.94.2.209:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="四川电信2",广东卫视
+http://171.213.162.125:66/rtp/239.94.0.67:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视4K.png" group-title="四川电信2",广东卫视4K
+http://171.213.162.125:66/rtp/239.94.0.114:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视SD.png" group-title="四川电信2",广东卫视SD
+http://171.213.162.125:66/rtp/239.94.2.173:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广元文化生活.png" group-title="四川电信2",广元文化生活
+http://171.213.162.125:66/rtp/239.94.0.179:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广元综合.png" group-title="四川电信2",广元综合
+http://171.213.162.125:66/rtp/239.94.0.167:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广西卫视.png" group-title="四川电信2",广西卫视
+http://171.213.162.125:66/rtp/239.94.0.89:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广西卫视SD.png" group-title="四川电信2",广西卫视SD
+http://171.213.162.125:66/rtp/239.94.2.195:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/康巴卫视.png" group-title="四川电信2",康巴卫视
+http://171.213.162.125:66/rtp/239.94.0.78:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/康巴卫视SD.png" group-title="四川电信2",康巴卫视SD
+http://171.213.162.125:66/rtp/239.94.2.184:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/延边卫视SD.png" group-title="四川电信2",延边卫视SD
+http://171.213.162.125:66/rtp/239.94.0.107:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/延边卫视SD.png" group-title="四川电信2",延边卫视SD
+http://171.213.162.125:66/rtp/239.94.2.213:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/德阳文旅科教.png" group-title="四川电信2",德阳文旅科教
+http://171.213.162.125:66/rtp/239.94.0.165:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/德阳新闻综合.png" group-title="四川电信2",德阳新闻综合
+http://171.213.162.125:66/rtp/239.94.0.176:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/快乐垂钓.png" group-title="四川电信2",快乐垂钓
+http://171.213.162.125:66/rtp/239.94.1.153:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/戏曲专区.png" group-title="四川电信2",戏曲专区
+http://171.213.162.125:66/rtp/239.94.1.38:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/戏曲精选.png" group-title="四川电信2",戏曲精选
+http://171.213.162.125:66/rtp/239.94.1.37:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都公共.png" group-title="四川电信2",成都公共
+http://171.213.162.125:66/rtp/239.94.0.158:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都公共SD.png" group-title="四川电信2",成都公共SD
+http://171.213.162.125:66/rtp/239.94.2.220:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都少儿.png" group-title="四川电信2",成都少儿
+http://171.213.162.125:66/rtp/239.94.0.159:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都少儿SD.png" group-title="四川电信2",成都少儿SD
+http://171.213.162.125:66/rtp/239.94.2.221:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都影视.png" group-title="四川电信2",成都影视
+http://171.213.162.125:66/rtp/239.94.0.157:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都影视SD.png" group-title="四川电信2",成都影视SD
+http://171.213.162.125:66/rtp/239.94.2.219:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都经济.png" group-title="四川电信2",成都经济
+http://171.213.162.125:66/rtp/239.94.0.155:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都经济SD.png" group-title="四川电信2",成都经济SD
+http://171.213.162.125:66/rtp/239.94.2.217:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都综合.png" group-title="四川电信2",成都综合
+http://171.213.162.125:66/rtp/239.94.0.154:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都综合SD.png" group-title="四川电信2",成都综合SD
+http://171.213.162.125:66/rtp/239.94.2.166:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都蓉城先锋.png" group-title="四川电信2",成都蓉城先锋
+http://171.213.162.125:66/rtp/239.94.0.160:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都蓉城先锋.png" group-title="四川电信2",成都蓉城先锋
+http://171.213.162.125:66/rtp/239.94.1.57:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都蓉城先锋SD.png" group-title="四川电信2",成都蓉城先锋SD
+http://171.213.162.125:66/rtp/239.94.2.222:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都都市.png" group-title="四川电信2",成都都市
+http://171.213.162.125:66/rtp/239.94.0.156:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都都市SD.png" group-title="四川电信2",成都都市SD
+http://171.213.162.125:66/rtp/239.94.2.218:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/攀枝花综合.png" group-title="四川电信2",攀枝花综合
+http://171.213.162.125:66/rtp/239.94.0.168:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/收视指南专区.png" group-title="四川电信2",收视指南专区
+http://171.213.162.125:66/rtp/239.94.1.56:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/新疆卫视.png" group-title="四川电信2",新疆卫视
+http://171.213.162.125:66/rtp/239.94.0.98:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/旅游卫视SD.png" group-title="四川电信2",旅游卫视SD
+http://171.213.162.125:66/rtp/239.94.0.100:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/旅游卫视SD.png" group-title="四川电信2",旅游卫视SD
+http://171.213.162.125:66/rtp/239.94.2.206:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/星光院线.png" group-title="四川电信2",星光院线
+http://171.213.162.125:66/rtp/239.94.1.23:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/星空卫视SD.png" group-title="四川电信2",星空卫视SD
+http://171.213.162.125:66/rtp/239.94.2.54:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/星空卫视SD.png" group-title="四川电信2",星空卫视SD
+http://171.213.162.125:66/rtp/239.94.2.53:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未知节目.png" group-title="四川电信2",未知节目
+http://171.213.162.125:66/rtp/239.94.2.72:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未知节目SD.png" group-title="四川电信2",未知节目SD
+http://171.213.162.125:66/rtp/239.94.2.3:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未知节目SD.png" group-title="四川电信2",未知节目SD
+http://171.213.162.125:66/rtp/239.94.2.5:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未识别.png" group-title="四川电信2",未识别
+http://171.213.162.125:66/rtp/239.94.2.25:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/来钓鱼吧.png" group-title="四川电信2",来钓鱼吧
+http://171.213.162.125:66/rtp/239.94.1.148:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/梨园频道.png" group-title="四川电信2",梨园频道
+http://171.213.162.125:66/rtp/239.94.1.16:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/梨园频道SD.png" group-title="四川电信2",梨园频道SD
+http://171.213.162.125:66/rtp/239.94.2.227:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/欢笑剧场4K.png" group-title="四川电信2",欢笑剧场4K
+http://171.213.162.125:66/rtp/239.94.1.176:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/求索记录.png" group-title="四川电信2",求索记录
+http://171.213.162.125:66/rtp/239.94.1.142:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视.png" group-title="四川电信2",江西卫视
+http://171.213.162.125:66/rtp/239.94.0.79:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视SD.png" group-title="四川电信2",江西卫视SD
+http://171.213.162.125:66/rtp/239.94.2.185:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视.png" group-title="四川电信2",河北卫视
+http://171.213.162.125:66/rtp/239.94.0.86:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视SD.png" group-title="四川电信2",河北卫视SD
+http://171.213.162.125:66/rtp/239.94.2.192:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视.png" group-title="四川电信2",河南卫视
+http://171.213.162.125:66/rtp/239.94.0.88:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视SD.png" group-title="四川电信2",河南卫视SD
+http://171.213.162.125:66/rtp/239.94.2.194:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/法治天地.png" group-title="四川电信2",法治天地
+http://171.213.162.125:66/rtp/239.94.1.166:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/泸州科教生活.png" group-title="四川电信2",泸州科教生活
+http://171.213.162.125:66/rtp/239.94.0.182:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/泸州综合.png" group-title="四川电信2",泸州综合
+http://171.213.162.125:66/rtp/239.94.0.163:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/游戏风云.png" group-title="四川电信2",游戏风云
+http://171.213.162.125:66/rtp/239.94.1.46:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/游戏风云SD.png" group-title="四川电信2",游戏风云SD
+http://171.213.162.125:66/rtp/239.94.2.235:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/热播剧场.png" group-title="四川电信2",热播剧场
+http://171.213.162.125:66/rtp/239.94.1.25:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/热门剧场.png" group-title="四川电信2",热门剧场
+http://171.213.162.125:66/rtp/239.94.1.26:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/热门综艺.png" group-title="四川电信2",热门综艺
+http://171.213.162.125:66/rtp/239.94.1.35:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱上4K.png" group-title="四川电信2",爱上4K
+http://171.213.162.125:66/rtp/239.94.0.21:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱乐山.png" group-title="四川电信2",爱乐山
+http://171.213.162.125:66/rtp/239.94.2.2:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱体育.png" group-title="四川电信2",爱体育
+http://171.213.162.125:66/rtp/239.94.1.44:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱宠宠物.png" group-title="四川电信2",爱宠宠物
+http://171.213.162.125:66/rtp/239.94.1.145:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱生活.png" group-title="四川电信2",爱生活
+http://171.213.162.125:66/rtp/239.94.1.41:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/环球旅游.png" group-title="四川电信2",环球旅游
+http://171.213.162.125:66/rtp/239.94.1.147:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/甘肃卫视.png" group-title="四川电信2",甘肃卫视
+http://171.213.162.125:66/rtp/239.94.0.99:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/甘肃卫视SD.png" group-title="四川电信2",甘肃卫视SD
+http://171.213.162.125:66/rtp/239.94.2.205:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/生活时尚.png" group-title="四川电信2",生活时尚
+http://171.213.162.125:66/rtp/239.94.1.146:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/生活时尚SD.png" group-title="四川电信2",生活时尚SD
+http://171.213.162.125:66/rtp/239.94.1.40:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/生活时尚SD.png" group-title="四川电信2",生活时尚SD
+http://171.213.162.125:66/rtp/239.94.2.233:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/电信5G.png" group-title="四川电信2",电信5G
+http://171.213.162.125:66/rtp/239.94.2.4:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/电竞天堂.png" group-title="四川电信2",电竞天堂
+http://171.213.162.125:66/rtp/239.94.1.45:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/百变课堂.png" group-title="四川电信2",百变课堂
+http://171.213.162.125:66/rtp/239.94.1.43:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室1.png" group-title="四川电信2",直播室1
+http://171.213.162.125:66/rtp/239.94.2.11:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室2.png" group-title="四川电信2",直播室2
+http://171.213.162.125:66/rtp/239.94.2.12:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室3.png" group-title="四川电信2",直播室3
+http://171.213.162.125:66/rtp/239.94.2.13:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室3.png" group-title="四川电信2",直播室3
+http://171.213.162.125:66/rtp/239.94.2.14:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室5.png" group-title="四川电信2",直播室5
+http://171.213.162.125:66/rtp/239.94.2.15:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室6.png" group-title="四川电信2",直播室6
+http://171.213.162.125:66/rtp/239.94.2.16:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室7.png" group-title="四川电信2",直播室7
+http://171.213.162.125:66/rtp/239.94.2.17:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室8.png" group-title="四川电信2",直播室8
+http://171.213.162.125:66/rtp/239.94.2.18:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/眉山文旅乡村.png" group-title="四川电信2",眉山文旅乡村
+http://171.213.162.125:66/rtp/239.94.0.174:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/眉山综合.png" group-title="四川电信2",眉山综合
+http://171.213.162.125:66/rtp/239.94.0.170:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/看天下精选.png" group-title="四川电信2",看天下精选
+http://171.213.162.125:66/rtp/239.94.1.68:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/精彩导视.png" group-title="四川电信2",精彩导视
+http://171.213.162.125:66/rtp/239.94.1.63:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/精彩影视.png" group-title="四川电信2",精彩影视
+http://171.213.162.125:66/rtp/239.94.1.172:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/精彩推荐.png" group-title="四川电信2",精彩推荐
+http://171.213.162.125:66/rtp/239.94.2.10:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/红色影院.png" group-title="四川电信2",红色影院
+http://171.213.162.125:66/rtp/239.94.1.48:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/经典剧场.png" group-title="四川电信2",经典剧场
+http://171.213.162.125:66/rtp/239.94.1.49:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/经典电影.png" group-title="四川电信2",经典电影
+http://171.213.162.125:66/rtp/239.94.1.21:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/绚影4K.png" group-title="四川电信2",绚影4K
+http://171.213.162.125:66/rtp/239.94.1.150:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/综艺咖秀.png" group-title="四川电信2",综艺咖秀
+http://171.213.162.125:66/rtp/239.94.2.28:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/综艺咖秀.png" group-title="四川电信2",综艺咖秀
+http://171.213.162.125:66/rtp/239.94.2.27:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/自贡文化生活.png" group-title="四川电信2",自贡文化生活
+http://171.213.162.125:66/rtp/239.94.0.178:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/自贡综合.png" group-title="四川电信2",自贡综合
+http://171.213.162.125:66/rtp/239.94.0.169:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/茶频道.png" group-title="四川电信2",茶频道
+http://171.213.162.125:66/rtp/239.94.1.154:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/西藏卫视.png" group-title="四川电信2",西藏卫视
+http://171.213.162.125:66/rtp/239.94.0.97:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/解密专区.png" group-title="四川电信2",解密专区
+http://171.213.162.125:66/rtp/239.94.1.53:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/谍战剧场.png" group-title="四川电信2",谍战剧场
+http://171.213.162.125:66/rtp/239.94.1.28:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/财富天下.png" group-title="四川电信2",财富天下
+http://171.213.162.125:66/rtp/239.94.1.67:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/财富天下.png" group-title="四川电信2",财富天下
+http://171.213.162.125:66/rtp/239.94.1.42:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/财富天下SD.png" group-title="四川电信2",财富天下SD
+http://171.213.162.125:66/rtp/239.94.2.234:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视.png" group-title="四川电信2",贵州卫视
+http://171.213.162.125:66/rtp/239.94.0.83:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视SD.png" group-title="四川电信2",贵州卫视SD
+http://171.213.162.125:66/rtp/239.94.2.189:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/资阳综合.png" group-title="四川电信2",资阳综合
+http://171.213.162.125:66/rtp/239.94.0.183:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/足球专区.png" group-title="四川电信2",足球专区
+http://171.213.162.125:66/rtp/239.94.1.47:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视.png" group-title="四川电信2",辽宁卫视
+http://171.213.162.125:66/rtp/239.94.0.101:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视SD.png" group-title="四川电信2",辽宁卫视SD
+http://171.213.162.125:66/rtp/239.94.2.207:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/都市剧场.png" group-title="四川电信2",都市剧场
+http://171.213.162.125:66/rtp/239.94.1.133:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视.png" group-title="四川电信2",重庆卫视
+http://171.213.162.125:66/rtp/239.94.0.82:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视SD.png" group-title="四川电信2",重庆卫视SD
+http://171.213.162.125:66/rtp/239.94.2.188:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金色学堂.png" group-title="四川电信2",金色学堂
+http://171.213.162.125:66/rtp/239.94.1.165:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通SD.png" group-title="四川电信2",金鹰卡通SD
+http://171.213.162.125:66/rtp/239.94.1.30:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通SD.png" group-title="四川电信2",金鹰卡通SD
+http://171.213.162.125:66/rtp/239.94.2.231:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="四川电信2",金鹰纪实
+http://171.213.162.125:66/rtp/239.94.1.1:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实SD.png" group-title="四川电信2",金鹰纪实SD
+http://171.213.162.125:66/rtp/239.94.2.223:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/陕西卫视.png" group-title="四川电信2",陕西卫视
+http://171.213.162.125:66/rtp/239.94.0.92:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/陕西卫视SD.png" group-title="四川电信2",陕西卫视SD
+http://171.213.162.125:66/rtp/239.94.2.198:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/雅安文化生活.png" group-title="四川电信2",雅安文化生活
+http://171.213.162.125:66/rtp/239.94.0.180:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/雅安综合.png" group-title="四川电信2",雅安综合
+http://171.213.162.125:66/rtp/239.94.0.166:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青春动漫.png" group-title="四川电信2",青春动漫
+http://171.213.162.125:66/rtp/239.94.1.34:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青海卫视SD.png" group-title="四川电信2",青海卫视SD
+http://171.213.162.125:66/rtp/239.94.0.95:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青海卫视SD.png" group-title="四川电信2",青海卫视SD
+http://171.213.162.125:66/rtp/239.94.2.201:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/音乐现场.png" group-title="四川电信2",音乐现场
+http://171.213.162.125:66/rtp/239.94.1.36:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景.png" group-title="四川电信2",风景
+http://171.213.162.125:66/rtp/239.94.2.74:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景直播1.png" group-title="四川电信2",风景直播1
+http://171.213.162.125:66/rtp/239.94.2.19:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景直播2.png" group-title="四川电信2",风景直播2
+http://171.213.162.125:66/rtp/239.94.2.20:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景直播3.png" group-title="四川电信2",风景直播3
+http://171.213.162.125:66/rtp/239.94.2.23:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/魅力时尚.png" group-title="四川电信2",魅力时尚
+http://171.213.162.125:66/rtp/239.94.1.39:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/麻辣体育.png" group-title="四川电信2",麻辣体育
+http://171.213.162.125:66/rtp/239.94.1.149:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视.png" group-title="四川电信2",黑龙江卫视
+http://171.213.162.125:66/rtp/239.94.0.81:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视SD.png" group-title="四川电信2",黑龙江卫视SD
+http://171.213.162.125:66/rtp/239.94.2.187:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信3",CCTV1
+http://171.213.162.125:66/rtp/239.94.0.1:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信3",CCTV1
+http://171.213.162.125:66/rtp/239.94.2.34:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信3",CCTV1
+http://171.213.162.125:66/rtp/239.94.1.18:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信3",CCTV1
+http://171.213.162.125:66/rtp/239.94.1.151:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信3",CCTV1
+http://171.213.162.125:66/rtp/239.94.0.31:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信3",CCTV1
+http://171.213.162.125:66/rtp/239.94.2.69:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV1.png" group-title="四川电信3",CCTV1
+http://171.213.162.125:66/rtp/239.94.2.146:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="四川电信3",CCTV10
+http://171.213.162.125:66/rtp/239.94.0.10:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="四川电信3",CCTV10
+http://171.213.162.125:66/rtp/239.94.2.31:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV10.png" group-title="四川电信3",CCTV10
+http://171.213.162.125:66/rtp/239.94.2.155:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="四川电信3",CCTV11
+http://171.213.162.125:66/rtp/239.94.0.11:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="四川电信3",CCTV11
+http://171.213.162.125:66/rtp/239.94.0.36:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV11.png" group-title="四川电信3",CCTV11
+http://171.213.162.125:66/rtp/239.94.2.156:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="四川电信3",CCTV12
+http://171.213.162.125:66/rtp/239.94.0.12:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV12.png" group-title="四川电信3",CCTV12
+http://171.213.162.125:66/rtp/239.94.2.157:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="四川电信3",CCTV13
+http://171.213.162.125:66/rtp/239.94.0.13:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="四川电信3",CCTV13
+http://171.213.162.125:66/rtp/239.94.0.37:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV13.png" group-title="四川电信3",CCTV13
+http://171.213.162.125:66/rtp/239.94.2.158:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="四川电信3",CCTV14
+http://171.213.162.125:66/rtp/239.94.0.14:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV14.png" group-title="四川电信3",CCTV14
+http://171.213.162.125:66/rtp/239.94.2.159:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="四川电信3",CCTV15
+http://171.213.162.125:66/rtp/239.94.0.15:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="四川电信3",CCTV15
+http://171.213.162.125:66/rtp/239.94.0.38:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV15.png" group-title="四川电信3",CCTV15
+http://171.213.162.125:66/rtp/239.94.2.160:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="四川电信3",CCTV17
+http://171.213.162.125:66/rtp/239.94.0.39:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="四川电信3",CCTV17
+http://171.213.162.125:66/rtp/239.94.0.17:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV17.png" group-title="四川电信3",CCTV17
+http://171.213.162.125:66/rtp/239.94.2.161:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信3",CCTV2
+http://171.213.162.125:66/rtp/239.94.2.70:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信3",CCTV2
+http://171.213.162.125:66/rtp/239.94.0.2:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信3",CCTV2
+http://171.213.162.125:66/rtp/239.94.2.35:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV2.png" group-title="四川电信3",CCTV2
+http://171.213.162.125:66/rtp/239.94.2.147:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="四川电信3",CCTV3
+http://171.213.162.125:66/rtp/239.94.0.32:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="四川电信3",CCTV3
+http://171.213.162.125:66/rtp/239.94.0.3:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV3.png" group-title="四川电信3",CCTV3
+http://171.213.162.125:66/rtp/239.94.2.148:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信3",CCTV4
+http://171.213.162.125:66/rtp/239.94.0.20:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信3",CCTV4
+http://171.213.162.125:66/rtp/239.94.0.4:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信3",CCTV4
+http://171.213.162.125:66/rtp/239.94.2.149:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV4.png" group-title="四川电信3",CCTV4
+http://171.213.162.125:66/rtp/239.94.2.163:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信3",CCTV5
+http://171.213.162.125:66/rtp/239.94.0.33:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信3",CCTV5
+http://171.213.162.125:66/rtp/239.94.2.30:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信3",CCTV5
+http://171.213.162.125:66/rtp/239.94.0.5:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5.png" group-title="四川电信3",CCTV5
+http://171.213.162.125:66/rtp/239.94.2.150:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="四川电信3",CCTV5+
+http://171.213.162.125:66/rtp/239.94.0.19:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="四川电信3",CCTV5+
+http://171.213.162.125:66/rtp/239.94.0.23:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV5+.png" group-title="四川电信3",CCTV5+
+http://171.213.162.125:66/rtp/239.94.2.162:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信3",CCTV6
+http://171.213.162.125:66/rtp/239.94.0.6:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信3",CCTV6
+http://171.213.162.125:66/rtp/239.94.2.33:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信3",CCTV6
+http://171.213.162.125:66/rtp/239.94.0.34:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV6.png" group-title="四川电信3",CCTV6
+http://171.213.162.125:66/rtp/239.94.2.151:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="四川电信3",CCTV7
+http://171.213.162.125:66/rtp/239.94.0.7:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV7.png" group-title="四川电信3",CCTV7
+http://171.213.162.125:66/rtp/239.94.2.152:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信3",CCTV8
+http://171.213.162.125:66/rtp/239.94.0.8:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信3",CCTV8
+http://171.213.162.125:66/rtp/239.94.0.35:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信3",CCTV8
+http://171.213.162.125:66/rtp/239.94.2.29:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV8.png" group-title="四川电信3",CCTV8
+http://171.213.162.125:66/rtp/239.94.2.153:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="四川电信3",CCTV9
+http://171.213.162.125:66/rtp/239.94.2.32:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="四川电信3",CCTV9
+http://171.213.162.125:66/rtp/239.94.0.9:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CCTV9.png" group-title="四川电信3",CCTV9
+http://171.213.162.125:66/rtp/239.94.2.154:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视.png" group-title="四川电信3",东方卫视
+http://171.213.162.125:66/rtp/239.94.0.64:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视4K.png" group-title="四川电信3",东方卫视4K
+http://171.213.162.125:66/rtp/239.94.0.119:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方卫视SD.png" group-title="四川电信3",东方卫视SD
+http://171.213.162.125:66/rtp/239.94.2.170:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视.png" group-title="四川电信3",北京卫视
+http://171.213.162.125:66/rtp/239.94.0.65:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="四川电信3",北京卫视4K
+http://171.213.162.125:66/rtp/239.94.0.111:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视4K.png" group-title="四川电信3",北京卫视4K
+http://171.213.162.125:66/rtp/239.94.0.112:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京卫视SD.png" group-title="四川电信3",北京卫视SD
+http://171.213.162.125:66/rtp/239.94.2.171:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视.png" group-title="四川电信3",江苏卫视
+http://171.213.162.125:66/rtp/239.94.0.62:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视4K.png" group-title="四川电信3",江苏卫视4K
+http://171.213.162.125:66/rtp/239.94.0.117:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江苏卫视SD.png" group-title="四川电信3",江苏卫视SD
+http://171.213.162.125:66/rtp/239.94.2.168:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视.png" group-title="四川电信3",浙江卫视
+http://171.213.162.125:66/rtp/239.94.0.63:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视4K.png" group-title="四川电信3",浙江卫视4K
+http://171.213.162.125:66/rtp/239.94.0.118:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/浙江卫视SD.png" group-title="四川电信3",浙江卫视SD
+http://171.213.162.125:66/rtp/239.94.2.169:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视.png" group-title="四川电信3",深圳卫视
+http://171.213.162.125:66/rtp/239.94.0.66:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视4K.png" group-title="四川电信3",深圳卫视4K
+http://171.213.162.125:66/rtp/239.94.0.113:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/深圳卫视SD.png" group-title="四川电信3",深圳卫视SD
+http://171.213.162.125:66/rtp/239.94.2.172:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视.png" group-title="四川电信3",湖北卫视
+http://171.213.162.125:66/rtp/239.94.0.84:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖北卫视SD.png" group-title="四川电信3",湖北卫视SD
+http://171.213.162.125:66/rtp/239.94.2.190:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视.png" group-title="四川电信3",湖南卫视
+http://171.213.162.125:66/rtp/239.94.0.61:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视4K.png" group-title="四川电信3",湖南卫视4K
+http://171.213.162.125:66/rtp/239.94.0.116:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/湖南卫视SD.png" group-title="四川电信3",湖南卫视SD
+http://171.213.162.125:66/rtp/239.94.2.167:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K乐享.png" group-title="四川电信3",4K乐享
+http://171.213.162.125:66/rtp/239.94.1.162:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K少儿.png" group-title="四川电信3",4K少儿
+http://171.213.162.125:66/rtp/239.94.1.70:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K纪实.png" group-title="四川电信3",4K纪实
+http://171.213.162.125:66/rtp/239.94.1.69:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/4K视界.png" group-title="四川电信3",4K视界
+http://171.213.162.125:66/rtp/239.94.1.60:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/BESTV.png" group-title="四川电信3",BESTV
+http://171.213.162.125:66/rtp/239.94.2.57:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1.png" group-title="四川电信3",CETV1
+http://171.213.162.125:66/rtp/239.94.1.2:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV1SD.png" group-title="四川电信3",CETV1SD
+http://171.213.162.125:66/rtp/239.94.2.224:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2SD.png" group-title="四川电信3",CETV2SD
+http://171.213.162.125:66/rtp/239.94.1.19:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV2SD.png" group-title="四川电信3",CETV2SD
+http://171.213.162.125:66/rtp/239.94.2.228:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4.png" group-title="四川电信3",CETV4
+http://171.213.162.125:66/rtp/239.94.1.20:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CETV4SD.png" group-title="四川电信3",CETV4SD
+http://171.213.162.125:66/rtp/239.94.2.229:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="四川电信3",CGTN
+http://171.213.162.125:66/rtp/239.94.0.22:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN.png" group-title="四川电信3",CGTN
+http://171.213.162.125:66/rtp/239.94.0.40:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTNSD.png" group-title="四川电信3",CGTNSD
+http://171.213.162.125:66/rtp/239.94.2.164:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语.png" group-title="四川电信3",CGTN法语
+http://171.213.162.125:66/rtp/239.94.1.62:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语.png" group-title="四川电信3",CGTN法语
+http://171.213.162.125:66/rtp/239.94.1.66:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN法语SD.png" group-title="四川电信3",CGTN法语SD
+http://171.213.162.125:66/rtp/239.94.2.238:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语.png" group-title="四川电信3",CGTN西语
+http://171.213.162.125:66/rtp/239.94.1.61:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语.png" group-title="四川电信3",CGTN西语
+http://171.213.162.125:66/rtp/239.94.1.65:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CGTN西语SD.png" group-title="四川电信3",CGTN西语SD
+http://171.213.162.125:66/rtp/239.94.2.237:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHANNELVSD.png" group-title="四川电信3",CHANNELVSD
+http://171.213.162.125:66/rtp/239.94.2.55:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHANNELVSD.png" group-title="四川电信3",CHANNELVSD
+http://171.213.162.125:66/rtp/239.94.2.56:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC动作电影.png" group-title="四川电信3",CHC动作电影
+http://171.213.162.125:66/rtp/239.94.1.175:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC家庭影院.png" group-title="四川电信3",CHC家庭影院
+http://171.213.162.125:66/rtp/239.94.1.173:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/CHC影迷电影.png" group-title="四川电信3",CHC影迷电影
+http://171.213.162.125:66/rtp/239.94.1.174:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱体育.png" group-title="四川电信3",IHOT爱体育
+http://171.213.162.125:66/rtp/239.94.1.143:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱动漫.png" group-title="四川电信3",IHOT爱动漫
+http://171.213.162.125:66/rtp/239.94.1.141:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱历史.png" group-title="四川电信3",IHOT爱历史
+http://171.213.162.125:66/rtp/239.94.1.135:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱喜剧.png" group-title="四川电信3",IHOT爱喜剧
+http://171.213.162.125:66/rtp/239.94.1.129:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱喜剧.png" group-title="四川电信3",IHOT爱喜剧
+http://171.213.162.125:66/rtp/239.94.2.71:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱奇谈.png" group-title="四川电信3",IHOT爱奇谈
+http://171.213.162.125:66/rtp/239.94.1.130:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱幼教.png" group-title="四川电信3",IHOT爱幼教
+http://171.213.162.125:66/rtp/239.94.1.139:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱悬疑.png" group-title="四川电信3",IHOT爱悬疑
+http://171.213.162.125:66/rtp/239.94.1.136:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱旅行.png" group-title="四川电信3",IHOT爱旅行
+http://171.213.162.125:66/rtp/239.94.1.137:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱浪漫.png" group-title="四川电信3",IHOT爱浪漫
+http://171.213.162.125:66/rtp/239.94.1.128:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱玩具.png" group-title="四川电信3",IHOT爱玩具
+http://171.213.162.125:66/rtp/239.94.1.140:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱科幻.png" group-title="四川电信3",IHOT爱科幻
+http://171.213.162.125:66/rtp/239.94.1.131:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱谍战.png" group-title="四川电信3",IHOT爱谍战
+http://171.213.162.125:66/rtp/239.94.1.134:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱赛车.png" group-title="四川电信3",IHOT爱赛车
+http://171.213.162.125:66/rtp/239.94.1.144:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/IHOT爱院线.png" group-title="四川电信3",IHOT爱院线
+http://171.213.162.125:66/rtp/239.94.1.132:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/I成都.png" group-title="四川电信3",I成都
+http://171.213.162.125:66/rtp/239.94.2.1:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/三沙卫视SD.png" group-title="四川电信3",三沙卫视SD
+http://171.213.162.125:66/rtp/239.94.0.105:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/三沙卫视SD.png" group-title="四川电信3",三沙卫视SD
+http://171.213.162.125:66/rtp/239.94.2.211:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视.png" group-title="四川电信3",东南卫视
+http://171.213.162.125:66/rtp/239.94.0.80:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东南卫视SD.png" group-title="四川电信3",东南卫视SD
+http://171.213.162.125:66/rtp/239.94.2.186:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方财经.png" group-title="四川电信3",东方财经
+http://171.213.162.125:66/rtp/239.94.1.59:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/东方财经SD.png" group-title="四川电信3",东方财经SD
+http://171.213.162.125:66/rtp/239.94.2.236:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国交通.png" group-title="四川电信3",中国交通
+http://171.213.162.125:66/rtp/239.94.0.87:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国交通SD.png" group-title="四川电信3",中国交通SD
+http://171.213.162.125:66/rtp/239.94.2.193:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/中国天气.png" group-title="四川电信3",中国天气
+http://171.213.162.125:66/rtp/239.94.1.167:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐山文旅生活.png" group-title="四川电信3",乐山文旅生活
+http://171.213.162.125:66/rtp/239.94.0.173:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐山综合.png" group-title="四川电信3",乐山综合
+http://171.213.162.125:66/rtp/239.94.0.162:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐游.png" group-title="四川电信3",乐游
+http://171.213.162.125:66/rtp/239.94.1.164:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/乐龄学堂.png" group-title="四川电信3",乐龄学堂
+http://171.213.162.125:66/rtp/239.94.1.155:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面15.png" group-title="四川电信3",九画面15
+http://171.213.162.125:66/rtp/239.94.2.138:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视1.png" group-title="四川电信3",九画面卫视1
+http://171.213.162.125:66/rtp/239.94.2.133:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视1.png" group-title="四川电信3",九画面卫视1
+http://171.213.162.125:66/rtp/239.94.2.132:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视2.png" group-title="四川电信3",九画面卫视2
+http://171.213.162.125:66/rtp/239.94.2.134:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视2.png" group-title="四川电信3",九画面卫视2
+http://171.213.162.125:66/rtp/239.94.2.135:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视3.png" group-title="四川电信3",九画面卫视3
+http://171.213.162.125:66/rtp/239.94.2.136:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视3.png" group-title="四川电信3",九画面卫视3
+http://171.213.162.125:66/rtp/239.94.2.137:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视4.png" group-title="四川电信3",九画面卫视4
+http://171.213.162.125:66/rtp/239.94.2.141:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视4.png" group-title="四川电信3",九画面卫视4
+http://171.213.162.125:66/rtp/239.94.2.139:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面卫视5.png" group-title="四川电信3",九画面卫视5
+http://171.213.162.125:66/rtp/239.94.2.140:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面四川1.png" group-title="四川电信3",九画面四川1
+http://171.213.162.125:66/rtp/239.94.2.131:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面四川2.png" group-title="四川电信3",九画面四川2
+http://171.213.162.125:66/rtp/239.94.2.130:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面央视1.png" group-title="四川电信3",九画面央视1
+http://171.213.162.125:66/rtp/239.94.2.128:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面央视1.png" group-title="四川电信3",九画面央视1
+http://171.213.162.125:66/rtp/239.94.2.73:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/九画面央视2.png" group-title="四川电信3",九画面央视2
+http://171.213.162.125:66/rtp/239.94.2.129:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/书法频道SD.png" group-title="四川电信3",书法频道SD
+http://171.213.162.125:66/rtp/239.94.1.163:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云南卫视.png" group-title="四川电信3",云南卫视
+http://171.213.162.125:66/rtp/239.94.0.90:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云南卫视SD.png" group-title="四川电信3",云南卫视SD
+http://171.213.162.125:66/rtp/239.94.2.196:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/云看熊猫专区.png" group-title="四川电信3",云看熊猫专区
+http://171.213.162.125:66/rtp/239.94.1.7:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/亲子趣学4K.png" group-title="四川电信3",亲子趣学4K
+http://171.213.162.125:66/rtp/239.94.1.156:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/优漫卡通SD.png" group-title="四川电信3",优漫卡通SD
+http://171.213.162.125:66/rtp/239.94.1.31:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/优漫卡通SD.png" group-title="四川电信3",优漫卡通SD
+http://171.213.162.125:66/rtp/239.94.2.232:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/健康养生.png" group-title="四川电信3",健康养生
+http://171.213.162.125:66/rtp/239.94.1.27:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/全球大片.png" group-title="四川电信3",全球大片
+http://171.213.162.125:66/rtp/239.94.1.24:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/兵团卫视.png" group-title="四川电信3",兵团卫视
+http://171.213.162.125:66/rtp/239.94.0.102:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内江科教生活.png" group-title="四川电信3",内江科教生活
+http://171.213.162.125:66/rtp/239.94.0.181:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内江综合.png" group-title="四川电信3",内江综合
+http://171.213.162.125:66/rtp/239.94.0.164:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内蒙古卫视SD.png" group-title="四川电信3",内蒙古卫视SD
+http://171.213.162.125:66/rtp/239.94.0.94:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/内蒙古卫视SD.png" group-title="四川电信3",内蒙古卫视SD
+http://171.213.162.125:66/rtp/239.94.2.200:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/军事专区.png" group-title="四川电信3",军事专区
+http://171.213.162.125:66/rtp/239.94.1.52:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凉山彝语综合.png" group-title="四川电信3",凉山彝语综合
+http://171.213.162.125:66/rtp/239.94.0.175:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凉山综合.png" group-title="四川电信3",凉山综合
+http://171.213.162.125:66/rtp/239.94.0.171:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰中文.png" group-title="四川电信3",凤凰中文
+http://171.213.162.125:66/rtp/239.94.2.51:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰中文.png" group-title="四川电信3",凤凰中文
+http://171.213.162.125:66/rtp/239.94.2.52:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰资讯.png" group-title="四川电信3",凤凰资讯
+http://171.213.162.125:66/rtp/239.94.2.49:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/凤凰资讯.png" group-title="四川电信3",凤凰资讯
+http://171.213.162.125:66/rtp/239.94.2.50:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/动漫秀场.png" group-title="四川电信3",动漫秀场
+http://171.213.162.125:66/rtp/239.94.1.171:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京纪实科教.png" group-title="四川电信3",北京纪实科教
+http://171.213.162.125:66/rtp/239.94.0.109:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/北京纪实科教SD.png" group-title="四川电信3",北京纪实科教SD
+http://171.213.162.125:66/rtp/239.94.2.215:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/华语影院.png" group-title="四川电信3",华语影院
+http://171.213.162.125:66/rtp/239.94.1.22:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿SD.png" group-title="四川电信3",卡酷少儿SD
+http://171.213.162.125:66/rtp/239.94.1.29:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/卡酷少儿SD.png" group-title="四川电信3",卡酷少儿SD
+http://171.213.162.125:66/rtp/239.94.2.230:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/厦门卫视SD.png" group-title="四川电信3",厦门卫视SD
+http://171.213.162.125:66/rtp/239.94.0.104:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/厦门卫视SD.png" group-title="四川电信3",厦门卫视SD
+http://171.213.162.125:66/rtp/239.94.2.210:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视.png" group-title="四川电信3",吉林卫视
+http://171.213.162.125:66/rtp/239.94.0.91:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/吉林卫视SD.png" group-title="四川电信3",吉林卫视SD
+http://171.213.162.125:66/rtp/239.94.2.197:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通SD.png" group-title="四川电信3",嘉佳卡通SD
+http://171.213.162.125:66/rtp/239.94.1.10:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/嘉佳卡通SD.png" group-title="四川电信3",嘉佳卡通SD
+http://171.213.162.125:66/rtp/239.94.2.226:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村.png" group-title="四川电信3",四川乡村
+http://171.213.162.125:66/rtp/239.94.0.77:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村.png" group-title="四川电信3",四川乡村
+http://171.213.162.125:66/rtp/239.94.1.4:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村.png" group-title="四川电信3",四川乡村
+http://171.213.162.125:66/rtp/239.94.1.8:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川乡村SD.png" group-title="四川电信3",四川乡村SD
+http://171.213.162.125:66/rtp/239.94.2.183:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视.png" group-title="四川电信3",四川卫视
+http://171.213.162.125:66/rtp/239.94.0.60:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视.png" group-title="四川电信3",四川卫视
+http://171.213.162.125:66/rtp/239.94.0.59:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视4K.png" group-title="四川电信3",四川卫视4K
+http://171.213.162.125:66/rtp/239.94.0.115:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川卫视SD.png" group-title="四川电信3",四川卫视SD
+http://171.213.162.125:66/rtp/239.94.2.165:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川妇女儿童.png" group-title="四川电信3",四川妇女儿童
+http://171.213.162.125:66/rtp/239.94.0.75:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川妇女儿童SD.png" group-title="四川电信3",四川妇女儿童SD
+http://171.213.162.125:66/rtp/239.94.2.181:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川影视文艺.png" group-title="四川电信3",四川影视文艺
+http://171.213.162.125:66/rtp/239.94.0.73:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川影视文艺SD.png" group-title="四川电信3",四川影视文艺SD
+http://171.213.162.125:66/rtp/239.94.2.179:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信3",四川文化旅游
+http://171.213.162.125:66/rtp/239.94.0.71:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信3",四川文化旅游
+http://171.213.162.125:66/rtp/239.94.1.11:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信3",四川文化旅游
+http://171.213.162.125:66/rtp/239.94.1.5:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游.png" group-title="四川电信3",四川文化旅游
+http://171.213.162.125:66/rtp/239.94.1.6:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川文化旅游SD.png" group-title="四川电信3",四川文化旅游SD
+http://171.213.162.125:66/rtp/239.94.2.177:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻.png" group-title="四川电信3",四川新闻
+http://171.213.162.125:66/rtp/239.94.0.72:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻.png" group-title="四川电信3",四川新闻
+http://171.213.162.125:66/rtp/239.94.1.3:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻.png" group-title="四川电信3",四川新闻
+http://171.213.162.125:66/rtp/239.94.2.26:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川新闻SD.png" group-title="四川电信3",四川新闻SD
+http://171.213.162.125:66/rtp/239.94.2.178:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川星空购物.png" group-title="四川电信3",四川星空购物
+http://171.213.162.125:66/rtp/239.94.0.74:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川星空购物SD.png" group-title="四川电信3",四川星空购物SD
+http://171.213.162.125:66/rtp/239.94.2.180:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川科教.png" group-title="四川电信3",四川科教
+http://171.213.162.125:66/rtp/239.94.0.76:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川科教SD.png" group-title="四川电信3",四川科教SD
+http://171.213.162.125:66/rtp/239.94.2.182:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川经济.png" group-title="四川电信3",四川经济
+http://171.213.162.125:66/rtp/239.94.0.70:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四川经济SD.png" group-title="四川电信3",四川经济SD
+http://171.213.162.125:66/rtp/239.94.2.176:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/四海钓鱼.png" group-title="四川电信3",四海钓鱼
+http://171.213.162.125:66/rtp/239.94.1.168:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/地理专区.png" group-title="四川电信3",地理专区
+http://171.213.162.125:66/rtp/239.94.1.54:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/墨宝专区.png" group-title="四川电信3",墨宝专区
+http://171.213.162.125:66/rtp/239.94.1.51:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱四川专区.png" group-title="四川电信3",大爱四川专区
+http://171.213.162.125:66/rtp/239.94.1.12:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱四川专区.png" group-title="四川电信3",大爱四川专区
+http://171.213.162.125:66/rtp/239.94.1.13:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱四川专区.png" group-title="四川电信3",大爱四川专区
+http://171.213.162.125:66/rtp/239.94.1.14:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/大爱时尚专区.png" group-title="四川电信3",大爱时尚专区
+http://171.213.162.125:66/rtp/239.94.1.15:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天元围棋.png" group-title="四川电信3",天元围棋
+http://171.213.162.125:66/rtp/239.94.1.152:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视.png" group-title="四川电信3",天津卫视
+http://171.213.162.125:66/rtp/239.94.0.68:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天津卫视SD.png" group-title="四川电信3",天津卫视SD
+http://171.213.162.125:66/rtp/239.94.2.174:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天翼高清4K.png" group-title="四川电信3",天翼高清4K
+http://171.213.162.125:66/rtp/239.94.2.40:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/天翼高清4K.png" group-title="四川电信3",天翼高清4K
+http://171.213.162.125:66/rtp/239.94.2.41:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宁夏卫视.png" group-title="四川电信3",宁夏卫视
+http://171.213.162.125:66/rtp/239.94.0.96:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安多卫视SD.png" group-title="四川电信3",安多卫视SD
+http://171.213.162.125:66/rtp/239.94.0.110:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安多卫视SD.png" group-title="四川电信3",安多卫视SD
+http://171.213.162.125:66/rtp/239.94.2.216:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视.png" group-title="四川电信3",安徽卫视
+http://171.213.162.125:66/rtp/239.94.0.85:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/安徽卫视SD.png" group-title="四川电信3",安徽卫视SD
+http://171.213.162.125:66/rtp/239.94.2.191:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宜宾公共.png" group-title="四川电信3",宜宾公共
+http://171.213.162.125:66/rtp/239.94.0.172:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宜宾综合.png" group-title="四川电信3",宜宾综合
+http://171.213.162.125:66/rtp/239.94.0.161:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/宝宝动画.png" group-title="四川电信3",宝宝动画
+http://171.213.162.125:66/rtp/239.94.1.32:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/家庭理财SD.png" group-title="四川电信3",家庭理财SD
+http://171.213.162.125:66/rtp/239.94.1.50:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/导视.png" group-title="四川电信3",导视
+http://171.213.162.125:66/rtp/239.94.1.64:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/导视专区SD.png" group-title="四川电信3",导视专区SD
+http://171.213.162.125:66/rtp/239.94.1.55:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/少儿动画.png" group-title="四川电信3",少儿动画
+http://171.213.162.125:66/rtp/239.94.1.33:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/少儿天地.png" group-title="四川电信3",少儿天地
+http://171.213.162.125:66/rtp/239.94.1.138:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视.png" group-title="四川电信3",山东卫视
+http://171.213.162.125:66/rtp/239.94.0.69:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视4K.png" group-title="四川电信3",山东卫视4K
+http://171.213.162.125:66/rtp/239.94.0.120:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东卫视SD.png" group-title="四川电信3",山东卫视SD
+http://171.213.162.125:66/rtp/239.94.2.175:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东教育卫视SD.png" group-title="四川电信3",山东教育卫视SD
+http://171.213.162.125:66/rtp/239.94.0.106:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山东教育卫视SD.png" group-title="四川电信3",山东教育卫视SD
+http://171.213.162.125:66/rtp/239.94.2.212:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山西卫视SD.png" group-title="四川电信3",山西卫视SD
+http://171.213.162.125:66/rtp/239.94.0.93:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/山西卫视SD.png" group-title="四川电信3",山西卫视SD
+http://171.213.162.125:66/rtp/239.94.2.199:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/峨眉电影.png" group-title="四川电信3",峨眉电影
+http://171.213.162.125:66/rtp/239.94.0.103:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/峨眉电影SD.png" group-title="四川电信3",峨眉电影SD
+http://171.213.162.125:66/rtp/239.94.2.209:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视.png" group-title="四川电信3",广东卫视
+http://171.213.162.125:66/rtp/239.94.0.67:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视4K.png" group-title="四川电信3",广东卫视4K
+http://171.213.162.125:66/rtp/239.94.0.114:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广东卫视SD.png" group-title="四川电信3",广东卫视SD
+http://171.213.162.125:66/rtp/239.94.2.173:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广元文化生活.png" group-title="四川电信3",广元文化生活
+http://171.213.162.125:66/rtp/239.94.0.179:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广元综合.png" group-title="四川电信3",广元综合
+http://171.213.162.125:66/rtp/239.94.0.167:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广西卫视.png" group-title="四川电信3",广西卫视
+http://171.213.162.125:66/rtp/239.94.0.89:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/广西卫视SD.png" group-title="四川电信3",广西卫视SD
+http://171.213.162.125:66/rtp/239.94.2.195:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/康巴卫视.png" group-title="四川电信3",康巴卫视
+http://171.213.162.125:66/rtp/239.94.0.78:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/康巴卫视SD.png" group-title="四川电信3",康巴卫视SD
+http://171.213.162.125:66/rtp/239.94.2.184:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/延边卫视SD.png" group-title="四川电信3",延边卫视SD
+http://171.213.162.125:66/rtp/239.94.0.107:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/延边卫视SD.png" group-title="四川电信3",延边卫视SD
+http://171.213.162.125:66/rtp/239.94.2.213:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/德阳文旅科教.png" group-title="四川电信3",德阳文旅科教
+http://171.213.162.125:66/rtp/239.94.0.165:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/德阳新闻综合.png" group-title="四川电信3",德阳新闻综合
+http://171.213.162.125:66/rtp/239.94.0.176:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/快乐垂钓.png" group-title="四川电信3",快乐垂钓
+http://171.213.162.125:66/rtp/239.94.1.153:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/戏曲专区.png" group-title="四川电信3",戏曲专区
+http://171.213.162.125:66/rtp/239.94.1.38:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/戏曲精选.png" group-title="四川电信3",戏曲精选
+http://171.213.162.125:66/rtp/239.94.1.37:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都公共.png" group-title="四川电信3",成都公共
+http://171.213.162.125:66/rtp/239.94.0.158:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都公共SD.png" group-title="四川电信3",成都公共SD
+http://171.213.162.125:66/rtp/239.94.2.220:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都少儿.png" group-title="四川电信3",成都少儿
+http://171.213.162.125:66/rtp/239.94.0.159:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都少儿SD.png" group-title="四川电信3",成都少儿SD
+http://171.213.162.125:66/rtp/239.94.2.221:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都影视.png" group-title="四川电信3",成都影视
+http://171.213.162.125:66/rtp/239.94.0.157:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都影视SD.png" group-title="四川电信3",成都影视SD
+http://171.213.162.125:66/rtp/239.94.2.219:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都经济.png" group-title="四川电信3",成都经济
+http://171.213.162.125:66/rtp/239.94.0.155:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都经济SD.png" group-title="四川电信3",成都经济SD
+http://171.213.162.125:66/rtp/239.94.2.217:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都综合.png" group-title="四川电信3",成都综合
+http://171.213.162.125:66/rtp/239.94.0.154:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都综合SD.png" group-title="四川电信3",成都综合SD
+http://171.213.162.125:66/rtp/239.94.2.166:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都蓉城先锋.png" group-title="四川电信3",成都蓉城先锋
+http://171.213.162.125:66/rtp/239.94.0.160:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都蓉城先锋.png" group-title="四川电信3",成都蓉城先锋
+http://171.213.162.125:66/rtp/239.94.1.57:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都蓉城先锋SD.png" group-title="四川电信3",成都蓉城先锋SD
+http://171.213.162.125:66/rtp/239.94.2.222:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都都市.png" group-title="四川电信3",成都都市
+http://171.213.162.125:66/rtp/239.94.0.156:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/成都都市SD.png" group-title="四川电信3",成都都市SD
+http://171.213.162.125:66/rtp/239.94.2.218:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/攀枝花综合.png" group-title="四川电信3",攀枝花综合
+http://171.213.162.125:66/rtp/239.94.0.168:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/收视指南专区.png" group-title="四川电信3",收视指南专区
+http://171.213.162.125:66/rtp/239.94.1.56:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/新疆卫视.png" group-title="四川电信3",新疆卫视
+http://171.213.162.125:66/rtp/239.94.0.98:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/旅游卫视SD.png" group-title="四川电信3",旅游卫视SD
+http://171.213.162.125:66/rtp/239.94.0.100:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/旅游卫视SD.png" group-title="四川电信3",旅游卫视SD
+http://171.213.162.125:66/rtp/239.94.2.206:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/星光院线.png" group-title="四川电信3",星光院线
+http://171.213.162.125:66/rtp/239.94.1.23:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/星空卫视SD.png" group-title="四川电信3",星空卫视SD
+http://171.213.162.125:66/rtp/239.94.2.54:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/星空卫视SD.png" group-title="四川电信3",星空卫视SD
+http://171.213.162.125:66/rtp/239.94.2.53:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未知节目.png" group-title="四川电信3",未知节目
+http://171.213.162.125:66/rtp/239.94.2.72:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未知节目SD.png" group-title="四川电信3",未知节目SD
+http://171.213.162.125:66/rtp/239.94.2.3:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未知节目SD.png" group-title="四川电信3",未知节目SD
+http://171.213.162.125:66/rtp/239.94.2.5:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/未识别.png" group-title="四川电信3",未识别
+http://171.213.162.125:66/rtp/239.94.2.25:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/来钓鱼吧.png" group-title="四川电信3",来钓鱼吧
+http://171.213.162.125:66/rtp/239.94.1.148:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/梨园频道.png" group-title="四川电信3",梨园频道
+http://171.213.162.125:66/rtp/239.94.1.16:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/梨园频道SD.png" group-title="四川电信3",梨园频道SD
+http://171.213.162.125:66/rtp/239.94.2.227:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/欢笑剧场4K.png" group-title="四川电信3",欢笑剧场4K
+http://171.213.162.125:66/rtp/239.94.1.176:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/求索记录.png" group-title="四川电信3",求索记录
+http://171.213.162.125:66/rtp/239.94.1.142:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视.png" group-title="四川电信3",江西卫视
+http://171.213.162.125:66/rtp/239.94.0.79:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/江西卫视SD.png" group-title="四川电信3",江西卫视SD
+http://171.213.162.125:66/rtp/239.94.2.185:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视.png" group-title="四川电信3",河北卫视
+http://171.213.162.125:66/rtp/239.94.0.86:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河北卫视SD.png" group-title="四川电信3",河北卫视SD
+http://171.213.162.125:66/rtp/239.94.2.192:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视.png" group-title="四川电信3",河南卫视
+http://171.213.162.125:66/rtp/239.94.0.88:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/河南卫视SD.png" group-title="四川电信3",河南卫视SD
+http://171.213.162.125:66/rtp/239.94.2.194:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/法治天地.png" group-title="四川电信3",法治天地
+http://171.213.162.125:66/rtp/239.94.1.166:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/泸州科教生活.png" group-title="四川电信3",泸州科教生活
+http://171.213.162.125:66/rtp/239.94.0.182:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/泸州综合.png" group-title="四川电信3",泸州综合
+http://171.213.162.125:66/rtp/239.94.0.163:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/游戏风云.png" group-title="四川电信3",游戏风云
+http://171.213.162.125:66/rtp/239.94.1.46:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/游戏风云SD.png" group-title="四川电信3",游戏风云SD
+http://171.213.162.125:66/rtp/239.94.2.235:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/热播剧场.png" group-title="四川电信3",热播剧场
+http://171.213.162.125:66/rtp/239.94.1.25:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/热门剧场.png" group-title="四川电信3",热门剧场
+http://171.213.162.125:66/rtp/239.94.1.26:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/热门综艺.png" group-title="四川电信3",热门综艺
+http://171.213.162.125:66/rtp/239.94.1.35:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱上4K.png" group-title="四川电信3",爱上4K
+http://171.213.162.125:66/rtp/239.94.0.21:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱乐山.png" group-title="四川电信3",爱乐山
+http://171.213.162.125:66/rtp/239.94.2.2:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱体育.png" group-title="四川电信3",爱体育
+http://171.213.162.125:66/rtp/239.94.1.44:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱宠宠物.png" group-title="四川电信3",爱宠宠物
+http://171.213.162.125:66/rtp/239.94.1.145:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/爱生活.png" group-title="四川电信3",爱生活
+http://171.213.162.125:66/rtp/239.94.1.41:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/环球旅游.png" group-title="四川电信3",环球旅游
+http://171.213.162.125:66/rtp/239.94.1.147:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/甘肃卫视.png" group-title="四川电信3",甘肃卫视
+http://171.213.162.125:66/rtp/239.94.0.99:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/甘肃卫视SD.png" group-title="四川电信3",甘肃卫视SD
+http://171.213.162.125:66/rtp/239.94.2.205:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/生活时尚.png" group-title="四川电信3",生活时尚
+http://171.213.162.125:66/rtp/239.94.1.146:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/生活时尚SD.png" group-title="四川电信3",生活时尚SD
+http://171.213.162.125:66/rtp/239.94.1.40:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/生活时尚SD.png" group-title="四川电信3",生活时尚SD
+http://171.213.162.125:66/rtp/239.94.2.233:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/电信5G.png" group-title="四川电信3",电信5G
+http://171.213.162.125:66/rtp/239.94.2.4:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/电竞天堂.png" group-title="四川电信3",电竞天堂
+http://171.213.162.125:66/rtp/239.94.1.45:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/百变课堂.png" group-title="四川电信3",百变课堂
+http://171.213.162.125:66/rtp/239.94.1.43:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室1.png" group-title="四川电信3",直播室1
+http://171.213.162.125:66/rtp/239.94.2.11:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室2.png" group-title="四川电信3",直播室2
+http://171.213.162.125:66/rtp/239.94.2.12:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室3.png" group-title="四川电信3",直播室3
+http://171.213.162.125:66/rtp/239.94.2.13:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室3.png" group-title="四川电信3",直播室3
+http://171.213.162.125:66/rtp/239.94.2.14:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室5.png" group-title="四川电信3",直播室5
+http://171.213.162.125:66/rtp/239.94.2.15:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室6.png" group-title="四川电信3",直播室6
+http://171.213.162.125:66/rtp/239.94.2.16:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室7.png" group-title="四川电信3",直播室7
+http://171.213.162.125:66/rtp/239.94.2.17:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/直播室8.png" group-title="四川电信3",直播室8
+http://171.213.162.125:66/rtp/239.94.2.18:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/眉山文旅乡村.png" group-title="四川电信3",眉山文旅乡村
+http://171.213.162.125:66/rtp/239.94.0.174:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/眉山综合.png" group-title="四川电信3",眉山综合
+http://171.213.162.125:66/rtp/239.94.0.170:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/看天下精选.png" group-title="四川电信3",看天下精选
+http://171.213.162.125:66/rtp/239.94.1.68:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/精彩导视.png" group-title="四川电信3",精彩导视
+http://171.213.162.125:66/rtp/239.94.1.63:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/精彩影视.png" group-title="四川电信3",精彩影视
+http://171.213.162.125:66/rtp/239.94.1.172:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/精彩推荐.png" group-title="四川电信3",精彩推荐
+http://171.213.162.125:66/rtp/239.94.2.10:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/红色影院.png" group-title="四川电信3",红色影院
+http://171.213.162.125:66/rtp/239.94.1.48:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/经典剧场.png" group-title="四川电信3",经典剧场
+http://171.213.162.125:66/rtp/239.94.1.49:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/经典电影.png" group-title="四川电信3",经典电影
+http://171.213.162.125:66/rtp/239.94.1.21:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/绚影4K.png" group-title="四川电信3",绚影4K
+http://171.213.162.125:66/rtp/239.94.1.150:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/综艺咖秀.png" group-title="四川电信3",综艺咖秀
+http://171.213.162.125:66/rtp/239.94.2.28:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/综艺咖秀.png" group-title="四川电信3",综艺咖秀
+http://171.213.162.125:66/rtp/239.94.2.27:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/自贡文化生活.png" group-title="四川电信3",自贡文化生活
+http://171.213.162.125:66/rtp/239.94.0.178:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/自贡综合.png" group-title="四川电信3",自贡综合
+http://171.213.162.125:66/rtp/239.94.0.169:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/茶频道.png" group-title="四川电信3",茶频道
+http://171.213.162.125:66/rtp/239.94.1.154:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/西藏卫视.png" group-title="四川电信3",西藏卫视
+http://171.213.162.125:66/rtp/239.94.0.97:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/解密专区.png" group-title="四川电信3",解密专区
+http://171.213.162.125:66/rtp/239.94.1.53:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/谍战剧场.png" group-title="四川电信3",谍战剧场
+http://171.213.162.125:66/rtp/239.94.1.28:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/财富天下.png" group-title="四川电信3",财富天下
+http://171.213.162.125:66/rtp/239.94.1.67:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/财富天下.png" group-title="四川电信3",财富天下
+http://171.213.162.125:66/rtp/239.94.1.42:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/财富天下SD.png" group-title="四川电信3",财富天下SD
+http://171.213.162.125:66/rtp/239.94.2.234:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视.png" group-title="四川电信3",贵州卫视
+http://171.213.162.125:66/rtp/239.94.0.83:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/贵州卫视SD.png" group-title="四川电信3",贵州卫视SD
+http://171.213.162.125:66/rtp/239.94.2.189:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/资阳综合.png" group-title="四川电信3",资阳综合
+http://171.213.162.125:66/rtp/239.94.0.183:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/足球专区.png" group-title="四川电信3",足球专区
+http://171.213.162.125:66/rtp/239.94.1.47:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视.png" group-title="四川电信3",辽宁卫视
+http://171.213.162.125:66/rtp/239.94.0.101:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/辽宁卫视SD.png" group-title="四川电信3",辽宁卫视SD
+http://171.213.162.125:66/rtp/239.94.2.207:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/都市剧场.png" group-title="四川电信3",都市剧场
+http://171.213.162.125:66/rtp/239.94.1.133:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视.png" group-title="四川电信3",重庆卫视
+http://171.213.162.125:66/rtp/239.94.0.82:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/重庆卫视SD.png" group-title="四川电信3",重庆卫视SD
+http://171.213.162.125:66/rtp/239.94.2.188:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金色学堂.png" group-title="四川电信3",金色学堂
+http://171.213.162.125:66/rtp/239.94.1.165:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通SD.png" group-title="四川电信3",金鹰卡通SD
+http://171.213.162.125:66/rtp/239.94.1.30:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰卡通SD.png" group-title="四川电信3",金鹰卡通SD
+http://171.213.162.125:66/rtp/239.94.2.231:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实.png" group-title="四川电信3",金鹰纪实
+http://171.213.162.125:66/rtp/239.94.1.1:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/金鹰纪实SD.png" group-title="四川电信3",金鹰纪实SD
+http://171.213.162.125:66/rtp/239.94.2.223:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/陕西卫视.png" group-title="四川电信3",陕西卫视
+http://171.213.162.125:66/rtp/239.94.0.92:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/陕西卫视SD.png" group-title="四川电信3",陕西卫视SD
+http://171.213.162.125:66/rtp/239.94.2.198:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/雅安文化生活.png" group-title="四川电信3",雅安文化生活
+http://171.213.162.125:66/rtp/239.94.0.180:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/雅安综合.png" group-title="四川电信3",雅安综合
+http://171.213.162.125:66/rtp/239.94.0.166:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青春动漫.png" group-title="四川电信3",青春动漫
+http://171.213.162.125:66/rtp/239.94.1.34:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青海卫视SD.png" group-title="四川电信3",青海卫视SD
+http://171.213.162.125:66/rtp/239.94.0.95:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/青海卫视SD.png" group-title="四川电信3",青海卫视SD
+http://171.213.162.125:66/rtp/239.94.2.201:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/音乐现场.png" group-title="四川电信3",音乐现场
+http://171.213.162.125:66/rtp/239.94.1.36:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景.png" group-title="四川电信3",风景
+http://171.213.162.125:66/rtp/239.94.2.74:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景直播1.png" group-title="四川电信3",风景直播1
+http://171.213.162.125:66/rtp/239.94.2.19:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景直播2.png" group-title="四川电信3",风景直播2
+http://171.213.162.125:66/rtp/239.94.2.20:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/风景直播3.png" group-title="四川电信3",风景直播3
+http://171.213.162.125:66/rtp/239.94.2.23:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/魅力时尚.png" group-title="四川电信3",魅力时尚
+http://171.213.162.125:66/rtp/239.94.1.39:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/麻辣体育.png" group-title="四川电信3",麻辣体育
+http://171.213.162.125:66/rtp/239.94.1.149:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视.png" group-title="四川电信3",黑龙江卫视
+http://171.213.162.125:66/rtp/239.94.0.81:5140
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/kenye201/TVlog/img/黑龙江卫视SD.png" group-title="四川电信3",黑龙江卫视SD
+http://171.213.162.125:66/rtp/239.94.2.187:5140

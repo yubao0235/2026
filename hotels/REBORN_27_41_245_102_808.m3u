@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://tb.yubo.qzz.io/logo/翡翠台.png" group-title="Hotel_27.41.245.102:808",翡翠台
+http://27.41.245.102:808/hls/64/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://tb.yubo.qzz.io/logo/凤凰中文.png" group-title="Hotel_27.41.245.102:808",凤凰中文
+http://27.41.245.102:808/hls/63/index.m3u8
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://tb.yubo.qzz.io/logo/汕头综合.png" group-title="Hotel_27.41.245.102:808",汕头综合
+http://27.41.245.102:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://tb.yubo.qzz.io/logo/汕头经济生活.png" group-title="Hotel_27.41.245.102:808",汕头经济生活
+http://27.41.245.102:808/hls/2/index.m3u8

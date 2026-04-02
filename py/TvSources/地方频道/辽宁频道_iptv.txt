@@ -1,0 +1,12 @@
+辽宁频道,#genre#
+辽宁北方,http://182.207.218.109:999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://182.207.218.109:999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视剧,http://182.207.218.109:999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://182.207.218.109:999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁教育青少,http://182.207.218.109:999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://124.93.18.236:81/hls/57/index.m3u8
+辽宁经济,http://124.93.18.134:81/hls/57/index.m3u8
+辽宁经济,http://124.93.18.133:81/hls/57/index.m3u8
+辽宁经济,http://124.93.18.132:81/hls/57/index.m3u8
+辽宁经济,http://124.93.18.135:81/hls/57/index.m3u8
+辽宁都市,http://182.207.218.109:999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0

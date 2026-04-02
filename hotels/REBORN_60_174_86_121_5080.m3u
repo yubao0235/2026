@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Q亳州新闻" tvg-logo="https://tb.yubo.qzz.io/logo/Q亳州新闻.png" group-title="Hotel_60.174.86.121:5080",Q亳州新闻
+http://60.174.86.121:5080/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="Q亳州农村" tvg-logo="https://tb.yubo.qzz.io/logo/Q亳州农村.png" group-title="Hotel_60.174.86.121:5080",Q亳州农村
+http://60.174.86.121:5080/hls/3/index.m3u8

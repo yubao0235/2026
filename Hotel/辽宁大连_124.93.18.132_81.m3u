@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1,CCTV1
+http://124.93.18.132:81/hls/1/index.m3u8
+#EXTINF:-1,CCTV2
+http://124.93.18.132:81/hls/2/index.m3u8
+#EXTINF:-1,CCTV3
+http://124.93.18.132:81/hls/3/index.m3u8
+#EXTINF:-1,CCTV4
+http://124.93.18.132:81/hls/4/index.m3u8
+#EXTINF:-1,CCTV5
+http://124.93.18.132:81/hls/5/index.m3u8
+#EXTINF:-1,CCTV6
+http://124.93.18.132:81/hls/6/index.m3u8
+#EXTINF:-1,CCTV7
+http://124.93.18.132:81/hls/7/index.m3u8
+#EXTINF:-1,CCTV8
+http://124.93.18.132:81/hls/8/index.m3u8
+#EXTINF:-1,CCTV9
+http://124.93.18.132:81/hls/9/index.m3u8
+#EXTINF:-1,CCTV10
+http://124.93.18.132:81/hls/10/index.m3u8
+#EXTINF:-1,CCTV11
+http://124.93.18.132:81/hls/11/index.m3u8
+#EXTINF:-1,CCTV12
+http://124.93.18.132:81/hls/12/index.m3u8
+#EXTINF:-1,CCTV13
+http://124.93.18.132:81/hls/13/index.m3u8
+#EXTINF:-1,CCTV14
+http://124.93.18.132:81/hls/14/index.m3u8
+#EXTINF:-1,CCTV15
+http://124.93.18.132:81/hls/15/index.m3u8
+#EXTINF:-1,CCTV16
+http://124.93.18.132:81/hls/16/index.m3u8
+#EXTINF:-1,CCTV17
+http://124.93.18.132:81/hls/17/index.m3u8
+#EXTINF:-1,CCTV5+
+http://124.93.18.132:81/hls/18/index.m3u8
+#EXTINF:-1,CCTV高尔夫
+http://124.93.18.132:81/hls/19/index.m3u8
+#EXTINF:-1,CCTV央视台球
+http://124.93.18.132:81/hls/20/index.m3u8
+#EXTINF:-1,CCTV4
+http://124.93.18.132:81/hls/21/index.m3u8
+#EXTINF:-1,CCTV 美洲
+http://124.93.18.132:81/hls/22/index.m3u8
+#EXTINF:-1,北京卫视
+http://124.93.18.132:81/hls/23/index.m3u8
+#EXTINF:-1,天津卫视
+http://124.93.18.132:81/hls/24/index.m3u8
+#EXTINF:-1,辽宁卫视
+http://124.93.18.132:81/hls/27/index.m3u8
+#EXTINF:-1,浙江卫视
+http://124.93.18.132:81/hls/29/index.m3u8
+#EXTINF:-1,江苏卫视
+http://124.93.18.132:81/hls/30/index.m3u8
+#EXTINF:-1,安徽卫视
+http://124.93.18.132:81/hls/31/index.m3u8
+#EXTINF:-1,湖南卫视
+http://124.93.18.132:81/hls/32/index.m3u8
+#EXTINF:-1,贵州卫视
+http://124.93.18.132:81/hls/33/index.m3u8
+#EXTINF:-1,山东卫视
+http://124.93.18.132:81/hls/34/index.m3u8
+#EXTINF:-1,山西卫视
+http://124.93.18.132:81/hls/35/index.m3u8
+#EXTINF:-1,广东卫视
+http://124.93.18.132:81/hls/36/index.m3u8
+#EXTINF:-1,广西卫视
+http://124.93.18.132:81/hls/37/index.m3u8
+#EXTINF:-1,湖北卫视
+http://124.93.18.132:81/hls/38/index.m3u8
+#EXTINF:-1,江西卫视
+http://124.93.18.132:81/hls/39/index.m3u8
+#EXTINF:-1,河北卫视
+http://124.93.18.132:81/hls/40/index.m3u8
+#EXTINF:-1,河南卫视
+http://124.93.18.132:81/hls/41/index.m3u8
+#EXTINF:-1,四川卫视
+http://124.93.18.132:81/hls/42/index.m3u8
+#EXTINF:-1,海南卫视
+http://124.93.18.132:81/hls/43/index.m3u8
+#EXTINF:-1,青海卫视
+http://124.93.18.132:81/hls/44/index.m3u8
+#EXTINF:-1,云南卫视
+http://124.93.18.132:81/hls/45/index.m3u8
+#EXTINF:-1,陕西卫视
+http://124.93.18.132:81/hls/46/index.m3u8
+#EXTINF:-1,内蒙古卫视
+http://124.93.18.132:81/hls/47/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://124.93.18.132:81/hls/48/index.m3u8
+#EXTINF:-1,吉林卫视
+http://124.93.18.132:81/hls/49/index.m3u8
+#EXTINF:-1,新疆卫视
+http://124.93.18.132:81/hls/50/index.m3u8
+#EXTINF:-1,甘肃卫视
+http://124.93.18.132:81/hls/51/index.m3u8
+#EXTINF:-1,西藏卫视
+http://124.93.18.132:81/hls/52/index.m3u8
+#EXTINF:-1,黑龙江卫视
+http://124.93.18.132:81/hls/53/index.m3u8
+#EXTINF:-1,深圳卫视
+http://124.93.18.132:81/hls/54/index.m3u8
+#EXTINF:-1,厦门卫视
+http://124.93.18.132:81/hls/55/index.m3u8
+#EXTINF:-1,兵团卫视
+http://124.93.18.132:81/hls/58/index.m3u8
+#EXTINF:-1,农林卫视
+http://124.93.18.132:81/hls/59/index.m3u8
+#EXTINF:-1,延边卫视
+http://124.93.18.132:81/hls/60/index.m3u8
+#EXTINF:-1,西藏卫视
+http://124.93.18.132:81/hls/61/index.m3u8
+#EXTINF:-1,俄语频道
+http://124.93.18.132:81/hls/64/index.m3u8
+#EXTINF:-1,西班牙语
+http://124.93.18.132:81/hls/65/index.m3u8
+#EXTINF:-1,阿拉伯语
+http://124.93.18.132:81/hls/66/index.m3u8
+#EXTINF:-1,法语频道
+http://124.93.18.132:81/hls/67/index.m3u8
+#EXTINF:-1,梨园
+http://124.93.18.132:81/hls/62/index.m3u8
+#EXTINF:-1,CCTV-1 综合
+http://124.93.18.132:81/hls/1/index.m3u8
+#EXTINF:-1,CCTV-2 财经
+http://124.93.18.132:81/hls/2/index.m3u8
+#EXTINF:-1,CCTV-3 综艺
+http://124.93.18.132:81/hls/3/index.m3u8
+#EXTINF:-1,CCTV-4 中文国际
+http://124.93.18.132:81/hls/4/index.m3u8
+#EXTINF:-1,CCTV-4 中文国际
+http://124.93.18.132:81/hls/21/index.m3u8
+#EXTINF:-1,CCTV-5 体育
+http://124.93.18.132:81/hls/5/index.m3u8
+#EXTINF:-1,CCTV-5+ 体育赛事
+http://124.93.18.132:81/hls/18/index.m3u8
+#EXTINF:-1,CCTV-6 电影
+http://124.93.18.132:81/hls/6/index.m3u8
+#EXTINF:-1,CCTV-7 国防军事
+http://124.93.18.132:81/hls/7/index.m3u8
+#EXTINF:-1,CCTV-8 电视剧
+http://124.93.18.132:81/hls/8/index.m3u8
+#EXTINF:-1,CCTV-9 纪录
+http://124.93.18.132:81/hls/9/index.m3u8
+#EXTINF:-1,CCTV-10 科教
+http://124.93.18.132:81/hls/10/index.m3u8
+#EXTINF:-1,CCTV-11 戏曲
+http://124.93.18.132:81/hls/11/index.m3u8
+#EXTINF:-1,CCTV-12 社会与法
+http://124.93.18.132:81/hls/12/index.m3u8
+#EXTINF:-1,CCTV-13 新闻
+http://124.93.18.132:81/hls/13/index.m3u8
+#EXTINF:-1,CCTV-14 少儿
+http://124.93.18.132:81/hls/14/index.m3u8
+#EXTINF:-1,CCTV-15 音乐
+http://124.93.18.132:81/hls/15/index.m3u8
+#EXTINF:-1,CCTV-16 奥林匹克
+http://124.93.18.132:81/hls/16/index.m3u8
+#EXTINF:-1,CCTV-17 农业农村
+http://124.93.18.132:81/hls/17/index.m3u8
+#EXTINF:-1,上海
+http://124.93.18.132:81/hls/25/index.m3u8
+#EXTINF:-1,重庆
+http://124.93.18.132:81/hls/26/index.m3u8
+#EXTINF:-1,辽宁新闻
+http://124.93.18.132:81/hls/28/index.m3u8
+#EXTINF:-1,辽宁体育
+http://124.93.18.132:81/hls/56/index.m3u8
+#EXTINF:-1,辽宁经济
+http://124.93.18.132:81/hls/57/index.m3u8
+#EXTINF:-1,英语频道
+http://124.93.18.132:81/hls/63/index.m3u8

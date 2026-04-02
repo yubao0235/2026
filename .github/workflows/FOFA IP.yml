@@ -1,0 +1,59 @@
+name: FOFA IP + IPTV
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # 每 15分钟
+  workflow_dispatch:        # 支持手动触发
+
+jobs:
+  fetch-and-push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 1. Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 2. Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 3. Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: 4. Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: 5. 运行 FOFA 抓取与检测
+        run: |
+          python py/fofa/2026.py
+          python py/fofa/Detection_ip.py
+
+      - name: 6. 生成 M3U 与 TXT 列表 (核心步骤)
+        run: python py/fofa/fofa-m3u.py
+
+      - name: 7. 提交并推送变更
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 强制添加所有生成的成果文件
+          git add py/fofa/计数.txt || true
+          git add py/fofa/ip/*.txt || true
+          git add py/fofa/IPTV.txt || true
+          git add py/fofa/IPTV.m3u || true
+          git add py/fofa/m3u_groups/*.m3u || true
+
+          # 检查是否有文件变动
+          if git diff --staged --quiet; then
+            echo "⚠️ 没有检测到内容更新，跳过提交。"
+          else
+            echo "🚀 发现更新，正在推送到仓库..."
+            git commit -m "自动更新：IP 资源与 M3U 列表 ($(date +'%Y-%m-%d %H:%M'))"
+            git pull --rebase origin main
+            git push origin main
+          fi

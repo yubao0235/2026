@@ -1,0 +1,2 @@
+山西频道,#genre#
+山西影视,http://171.127.97.162:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0

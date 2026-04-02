@@ -1,0 +1,57 @@
+name: 自动更新酒店IPTV列表
+
+on:
+  schedule:
+    - cron: '20 */2 * * *'
+  workflow_dispatch: # 允许手动触发执行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          pip install aiohttp requests
+
+      - name: 运行同步脚本
+        env:
+          # 将你的 FOFA Cookie 存放在 GitHub Secrets 中，变量名为 FOFA_COOKIE
+          # 设置方法：Settings -> Secrets and variables -> Actions -> New repository secret
+          FOFA_COOKIE: ${{ secrets.FOFA_COOKIE }}
+        run: |
+          # 假设你的脚本放在 py/ 目录下
+          python py/Hotel/fafo.py
+
+      - name: 自动提交并推送
+        run: |
+          # 配置用户信息
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 检查是否有文件变动
+          git add Hotel/
+          
+          # 如果没有变化就退出，防止报错
+          if git diff --cached --quiet; then
+            echo "没有发现新内容，跳过提交。"
+            exit 0
+          fi
+          
+          # 提交更改
+          git commit -m "自动更新酒店源: $(date +'%Y-%m-%d %H:%M:%S')"
+          
+          # 关键：先拉取远程更新并合并（使用 rebase 保持提交历史整洁）
+          # 即使远程有更新，这一步也会把你的新文件插在后面
+          git pull --rebase origin main
+          
+          # 推送
+          git push origin main

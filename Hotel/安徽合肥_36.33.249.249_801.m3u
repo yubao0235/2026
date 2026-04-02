@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,三沙卫视
+http://36.33.249.249:801/hls/5/index.m3u8
+#EXTINF:-1,河南卫视
+http://36.33.249.249:801/hls/3/index.m3u8
+#EXTINF:-1,安徽公共
+http://36.33.249.249:801/hls/4/index.m3u8
+#EXTINF:-1,安徽影视
+http://36.33.249.249:801/hls/2/index.m3u8
+#EXTINF:-1,cctv
+http://36.33.249.249:801/hls/1/index.m3u8

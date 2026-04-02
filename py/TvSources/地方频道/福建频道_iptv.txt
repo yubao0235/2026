@@ -1,0 +1,13 @@
+福建频道,#genre#
+福建新闻,http://218.104.239.114:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://125.40.199.223:8092/hls/50/index.m3u8
+厦门卫视,http://106.44.226.206:88/hls/29/index.m3u8
+厦门卫视,http://219.146.95.58:59902/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://183.237.71.182:40000/hls/57/index.m3u8
+厦门卫视,http://124.93.18.236:81/hls/55/index.m3u8
+厦门卫视,http://124.93.18.133:81/hls/55/index.m3u8
+厦门卫视,http://124.93.18.134:81/hls/55/index.m3u8
+厦门卫视,http://124.93.18.135:81/hls/55/index.m3u8
+厦门卫视,http://182.207.218.109:999/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://124.93.18.132:81/hls/55/index.m3u8
+厦门卫视,http://112.123.243.37:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0

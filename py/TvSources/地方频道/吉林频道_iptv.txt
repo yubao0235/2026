@@ -1,0 +1,8 @@
+吉林频道,#genre#
+延边卫视,http://111.43.126.240:7777/hls/65/index.m3u8
+延边卫视,http://124.93.18.133:81/hls/60/index.m3u8
+延边卫视,http://124.93.18.236:81/hls/60/index.m3u8
+延边卫视,http://124.93.18.132:81/hls/60/index.m3u8
+延边卫视,http://124.93.18.134:81/hls/60/index.m3u8
+延边卫视,http://124.93.18.135:81/hls/60/index.m3u8
+延边卫视,http://182.207.218.109:999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
