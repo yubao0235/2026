@@ -42,7 +42,7 @@ jobs:
 
       - name: IPTV Speed Test
         run: |
-          echo "⚡ 对最新 ALL.m3u 执行测速..."
+          echo "⚡ 对最新 REBORN.m3u 执行测速..."
           if [ -f "py/Hotel/traffic_test.py" ]; then
            # python py/Hotel/traffic_test.py
           else
