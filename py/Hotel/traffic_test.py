@@ -14,20 +14,25 @@ from concurrent.futures import ThreadPoolExecutor
 # 1. 禁用 SSL 警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# 2. 路径配置
-CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-BASE_PATH = os.path.dirname(CURRENT_DIR) 
+# --- 路径重构：确保在 GitHub Actions 深度目录下定位准确 ---
+# 获取当前脚本所在目录 (例如: /home/runner/work/repo/repo/py/Hotel)
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__)) 
+
+# 向上跳两级回到仓库【根目录】
+BASE_PATH = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
+
+# 指向根目录下的 hotels/REBORN.m3u
 SOURCE_M3U = os.path.join(BASE_PATH, "hotels", "REBORN.m3u")
 
-# 设定输出目录为 py/Hotel/
-OUTPUT_DIR = os.path.join(BASE_PATH, "py", "Hotel")
+# 设定输出目录为脚本同级目录 py/Hotel/
+OUTPUT_DIR = SCRIPT_DIR
 OUTPUT_TXT = os.path.join(OUTPUT_DIR, "traffic_report.txt")
 OUTPUT_JSON = os.path.join(OUTPUT_DIR, "traffic_summary.json")
 
 # --- 性能配置 ---
 TEST_DURATION = 15  # 每个 ID 测试 15 秒
 SAMPLES_PER_IP = 3  # 每个 IP 随机抽 3 个 ID 压测
-MAX_WORKERS = 10    # 并行线程数
+MAX_WORKERS = 10    # 并行线程数（GitHub Actions 建议不要超过 10）
 
 def test_stream_traffic(name, url):
     """模拟播放并统计流量，计算 Mbps"""
@@ -39,14 +44,18 @@ def test_stream_traffic(name, url):
     headers = {'User-Agent': 'Mozilla/5.0 (Viera; rv:34.0) Gecko/20100101 Firefox/34.0'}
     
     try:
+        # 获取 m3u8 索引
         r = requests.get(url, timeout=5, headers=headers, verify=False)
         if r.status_code != 200: return None
         
+        # 提取 .ts 切片
         base_dir = url.rsplit('/', 1)[0]
         ts_lines = [line.strip() for line in r.text.split('\n') if line.strip() and not line.startswith('#')]
         if not ts_lines: return None
 
+        # 循环下载切片直到超时
         while time.time() - start_time < TEST_DURATION:
+            # 优先测末尾切片
             target_ts = ts_lines[-2:] if len(ts_lines) > 2 else ts_lines
             for ts_path in target_ts:
                 if time.time() - start_time > TEST_DURATION: break
@@ -88,10 +97,9 @@ def test_stream_traffic(name, url):
     return None
 
 def save_reports(results, group_summary):
-    """保存报告，确保目录存在"""
-    # 自动创建 py/Hotel/ 目录
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
+    """保存文本和 JSON 报告"""
+    # 确保目录存在
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     with open(OUTPUT_TXT, 'w', encoding='utf-8') as f:
         f.write("="*70 + "\n")
@@ -100,6 +108,7 @@ def save_reports(results, group_summary):
         f.write(f"{'服务器 (IP:Port)':<25} | {'频道名称':<20} | {'平均码率':<10} | {'稳定性'}\n")
         f.write("-" * 70 + "\n")
         
+        # 按 IP 排序输出
         sorted_res = sorted([r for r in results if r], key=lambda x: x['ip_port'])
         for res in sorted_res:
             f.write(f"{res['ip_port']:<25} | {res['name'][:18]:<20} | {res['avg_mbps']:<7}Mbps | {res['stability']*100:.0f}%\n")
@@ -113,10 +122,16 @@ def save_reports(results, group_summary):
 
 def main():
     print(f"🚀 开始 IPTV 酒店源流量压测...")
+    print(f"📂 仓库根目录: {BASE_PATH}")
+    print(f"📂 读取源文件: {SOURCE_M3U}")
     print(f"📂 输出目录: {OUTPUT_DIR}")
     
     if not os.path.exists(SOURCE_M3U):
         print(f"❌ 错误: 找不到源文件 {SOURCE_M3U}")
+        # 调试信息：如果找不到，列出 hotels 目录看一眼
+        hotels_dir = os.path.join(BASE_PATH, "hotels")
+        if os.path.exists(hotels_dir):
+            print(f"Hotels 目录内容: {os.listdir(hotels_dir)}")
         return
 
     with open(SOURCE_M3U, 'r', encoding='utf-8') as f:
@@ -137,9 +152,11 @@ def main():
 
     tasks = []
     for ip_port, urls in groups.items():
+        # 抽样压测
         samples = random.sample(urls, min(len(urls), SAMPLES_PER_IP))
-        for s in samples:
-            tasks.append(s)
+        tasks.extend(samples)
+
+    print(f"📡 识别到 {len(groups)} 个服务器，共抽取 {len(tasks)} 个样本进行测试...")
 
     results = []
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -153,6 +170,7 @@ def main():
             except Exception as e:
                 print(f"⚠️ 测试出错: {e}")
 
+    # 数据汇总逻辑
     group_summary = {}
     for res in results:
         ip = res['ip_port']
