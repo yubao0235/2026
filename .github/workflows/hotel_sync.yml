@@ -37,7 +37,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # 添加生成的文件（对应你脚本里的 2026/Hotel 目录）
-          git add 2026/Hotel/*.m3u
+          git add Hotel/*.m3u
           
           # 检查是否有文件变动
           if git diff --staged --quiet; then
