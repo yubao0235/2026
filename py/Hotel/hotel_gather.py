@@ -12,7 +12,7 @@ SOURCES = [
     "https://yede.us.ci/97d6e00d.m3u"
 ]
 
-SAVE_DIR = "2026/Hotel"
+SAVE_DIR = "Hotel"
 # 免费的 IP 归属地 API (pypi.org 开源接口或 ip-api.com)
 IP_API = "http://ip-api.com/json/{}?fields=status,regionName,city,query&lang=zh-CN"
 
