@@ -5,11 +5,11 @@ import httpx
 
 # --- 配置区 ---
 SOURCES = [
-    "https://yede.us.ci/4d2e30e5.m3u",
-    "https://yede.us.ci/edcab778.m3u",
-    "https://yede.us.ci/33fc12a0.m3u",
-    "https://yede.us.ci/3c1f32b7.m3u",
-    "https://yede.us.ci/97d6e00d.m3u"
+    "https://yuxx.de5.net/4d2e30e5.m3u",
+    "https://yuxx.de5.net/edcab778.m3u",
+    "https://yuxx.de5.net/33fc12a0.m3u",
+    "https://yuxx.de5.net/3c1f32b7.m3u",
+    "https://yuxx.de5.net/97d6e00d.m3u"
 ]
 
 SAVE_DIR = "Hotel"
