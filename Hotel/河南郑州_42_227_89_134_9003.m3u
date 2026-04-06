@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="42.227.89.134:9003",CCTV1
+http://42.227.89.134:9003/hls/1/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CCTV3
+http://42.227.89.134:9003/hls/3/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CCTV5
+http://42.227.89.134:9003/hls/5/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CCTV6
+http://42.227.89.134:9003/hls/6/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CCTV7
+http://42.227.89.134:9003/hls/7/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CCTV8
+http://42.227.89.134:9003/hls/8/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CCTV11
+http://42.227.89.134:9003/hls/11/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CCTV14
+http://42.227.89.134:9003/hls/14/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",内蒙古卫视
+http://42.227.89.134:9003/hls/54/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",北京卫视
+http://42.227.89.134:9003/hls/31/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",吉林卫视
+http://42.227.89.134:9003/hls/48/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",天津卫视
+http://42.227.89.134:9003/hls/32/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",安徽卫视
+http://42.227.89.134:9003/hls/34/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",山东卫视
+http://42.227.89.134:9003/hls/33/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",河南卫视4K
+http://42.227.89.134:9003/hls/100/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",深圳卫视
+http://42.227.89.134:9003/hls/35/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",湖北卫视
+http://42.227.89.134:9003/hls/37/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",甘肃卫视
+http://42.227.89.134:9003/hls/51/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",贵州卫视
+http://42.227.89.134:9003/hls/41/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",辽宁卫视
+http://42.227.89.134:9003/hls/42/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",重庆卫视
+http://42.227.89.134:9003/hls/44/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",青海卫视
+http://42.227.89.134:9003/hls/53/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",河南都市
+http://42.227.89.134:9003/hls/18/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",河南法治
+http://42.227.89.134:9003/hls/20/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",河南新闻
+http://42.227.89.134:9003/hls/22/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",河南新农村
+http://42.227.89.134:9003/hls/24/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",河南文物宝库
+http://42.227.89.134:9003/hls/26/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",卡酷少儿
+http://42.227.89.134:9003/hls/57/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",金鹰卡通
+http://42.227.89.134:9003/hls/58/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CHC高清电影
+http://42.227.89.134:9003/hls/59/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CHC动作电影
+http://42.227.89.134:9003/hls/60/index.m3u8
+#EXTINF:-1 group-title="42.227.89.134:9003",CHC家庭影院
+http://42.227.89.134:9003/hls/61/index.m3u8
