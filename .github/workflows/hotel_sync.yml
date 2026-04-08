@@ -1,8 +1,6 @@
 name: Hotel IPTV Auto Gather
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # 每 6 小时自动运行一次
   workflow_dispatch:       # 支持手动点击 "Run workflow" 触发
   push:
     paths:
