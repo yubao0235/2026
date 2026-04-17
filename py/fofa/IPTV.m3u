@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" refresh="2026-04-17 14:19:56"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" refresh="2026-04-17 16:10:53"
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV1.png" group-title="北京联通1",CCTV1
 http://221.219.75.32:4000/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/linyu345/tv/icon/CCTV1.png" group-title="北京联通1",CCTV1
