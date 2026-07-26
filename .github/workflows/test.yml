@@ -30,6 +30,12 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
+          
+          # 先拉取远程最新代码，防止冲突和拒绝推送
+          git pull origin main --rebase || echo "No remote changes to pull"
+          
           git add py/hb_telecom.m3u py/hb_telecom_tvbox.txt py/scanned_history.json
           git commit -m "Update IPTV sources $(date)" || exit 0
-          git push
+          
+          # 再次尝试推送，如果还有冲突则强制对齐
+          git push origin main || git push origin HEAD:main --force
