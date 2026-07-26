@@ -1,0 +1,35 @@
+name: scan_hb
+
+on:
+  schedule:
+    - cron: '55 */8 * * *' # 
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install aiohttp
+      - name: 安装 Python 依赖库
+        run: |
+          pip install aiohttp tqdm
+          
+      - name: Run Scanner
+        run: python py/scan_hb_telecom.py
+
+      - name: Commit results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add py/hb_telecom.m3u py/hb_telecom_tvbox.txt py/scanned_history.json
+          git commit -m "Update IPTV sources $(date)" || exit 0
+          git push
