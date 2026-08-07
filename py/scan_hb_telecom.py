@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 # --- 核心配置：支持不同网段对应不同端口 ---
 TARGET_CONFIG = {	
     "175.0":9999,		
-    "58.46":9999,	    
+    "116.128":85,	    
     "113.241":85,		
     "119.39":9901
 }
